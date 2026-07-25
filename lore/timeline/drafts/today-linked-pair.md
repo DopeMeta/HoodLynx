@@ -1,15 +1,16 @@
-# TODAY — Linked Pair (ready to ship)
+# TODAY — Linked Pair (revised, simpler terms)
 
-**Goal:** Escalate engagement within ~1 hour bandwidth.  
-**Principle:** Story moves + give people a reason to enter Terminal now.  
-**Crown:** Opposes Hunters (centralization metaphor). Do **not** lean on “kidnapped 4 Hunters” — that board math was a 4663 puzzle.
+**Changes from prior draft:**
+- Removed `RECOVERY LOG 003` (log system never used; fake number)
+- No invented site/log numbering
+- Keeps Signal / Archive / Hunter / Terminal vocabulary only
 
 ---
 
 ## Post 1 — Story (post first)
 
 ```text
-...RECOVERY LOG 003
+...SIGNAL INTERCEPTED.
 
 Hunters reached the site.
 The Fragment signature was already gone.
@@ -23,11 +24,11 @@ The hunt continues.
 http://HoodLynx.xyz
 ```
 
-**Art:** Investigation board / site-cleared evidence. Stamp: SITE CLEARED or RECOVERY FAILED. Note: “They knew where to look before we did.” No Crown logo/name yet.
+**Art:** Board / cleared-site evidence. Optional stamps: SITE CLEARED or SIGNAL LOST. No Crown name/logo yet. No fake log numbers.
 
 ---
 
-## Post 2 — Same day, links to Post 1
+## Post 2 — Same day
 
 ```text
 ...HUNTER CAPACITY CRITICAL.
@@ -45,16 +46,24 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Terminal directive UI or Hunter+Keeper room crop. Emphasize capacity / unidentified signals / Terminal Access. Still no Crown name.
+**Art:** Terminal-style directive or Hunter+Keeper room. Emphasize new identities / capacity.
+
+**Terminal update?** Optional, only if worth the credits. If yes, a short state like:
+
+```text
+AUTHORIZATION STATUS: NEW IDENTITIES ONLY
+EXISTING HUNTERS: RECOGNIZED
+SIGNAL: ACTIVE
+UNKNOWN INTERFERENCE: DETECTED
+FOLLOW THE SIGNAL.
+```
+
+If credits are tight, skip Terminal today — let the two posts carry it.
 
 ---
 
-## Why this works
+## Why this pair still works
 
-1. Post 1 creates a rival (why it matters)
-2. Post 2 converts that fear/urgency into WL / Terminal action
-3. Tomorrow/next: optional gold propaganda **THE CROWN PROTECTS.** for payoff
-
-## If you only have time for one image
-
-Use Post 1 art for both, or Post 1 story image + Post 2 text-only/terminal screenshot from the site.
+1. Post 1 = stakes (someone else is hunting)
+2. Post 2 = action (new identities → Terminal)
+3. Vocabulary stays inside Signal / Fragment / Hunter / Archive / Terminal

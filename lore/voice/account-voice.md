@@ -71,6 +71,8 @@ Derived only from confirmed posts. Use this for continuity.
 - Explaining the whole lore up front
 - Softening urgency with “gm” / meme filler
 - Inventing new faction names before they appear in posts
+- Inventing new numbered systems (logs, sites, files) that don’t already exist
+- Too many proper nouns in one caption — stick to `TERMS.md`
 
 ## Public brand lines (from site / graphics — not deep lore)
 

@@ -41,3 +41,7 @@ Total supply: **4663**
 - Baseline ~1/day when busy
 - Burst to **2 linked posts** when narrative feels slow / WL demand is hot
 - Timebox to mint: ~1–2 weeks (first-mover sensitive)
+
+## Terminal updates
+
+Cost credits — update only when needed. See `ops/terminal.md`.

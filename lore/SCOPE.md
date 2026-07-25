@@ -28,9 +28,13 @@ Audience goals:
 Not a novel dump. Posts + pictures **hint** lore.
 
 Primary loops:
-1. Follow Signal → Terminal → authorization
-2. Recover Fragments → Archive Entries → escalating stakes
-3. Convert engagement into WL tiers + X chat (“Hood Lynx Hunters”)
+1. **Signal** pushes Hunters toward information / Fragments
+2. Enter **Terminal** (hoodlynx.xyz + code) → authorization
+3. Recover **Fragments** → notes recorded in **HoodLynx Archive**
+4. Convert engagement into WL tiers + X chat (“Hood Lynx Hunters”)
+
+Simple dictionary: [`TERMS.md`](./TERMS.md)  
+Terminal credit cost: [`ops/terminal.md`](./ops/terminal.md)
 
 Success metric: **enjoyment + reply/engagement** (not lore quiz mastery). Lore exists so the ride feels coherent and traits can connect later.
 

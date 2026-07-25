@@ -1,3 +1,9 @@
+# HoodLynx Archive
+
+The **HoodLynx Archive** is where notes / records from recovered Fragments are stored.
+
+An **Archive Entry** is one of those recorded truths.
+
 # Archive Entries (Confirmed Public Text)
 
 ## ARCHIVE ENTRY 001

@@ -2,7 +2,7 @@
 
 This folder is the project's **memory store** for ARG / story writing.
 
-**Start here for scope:** [`SCOPE.md`](./SCOPE.md)
+**Start here:** [`SCOPE.md`](./SCOPE.md) · [`TERMS.md`](./TERMS.md)
 
 ## How to use this
 
