@@ -6,11 +6,21 @@
 
 Players are not just "finding codes." They are unknowingly becoming Hunters.
 
-## Belief
+## Public motto (confirmed art)
+
+> HUNTERS. WE FOLLOW. WE RECOVER.
+
+## Live ARG role (confirmed)
+
+- Follow the **Signal**
+- Find / recover **Fragments**
+- Bring them in for decryption / archive
+
+## Belief (mind-map canon)
 
 > "The Chain belongs to everyone."
 
-## Mission
+## Mission (mind-map canon)
 
 - Recover Fragments / Links
 - Return them to the Chain
@@ -18,14 +28,11 @@ Players are not just "finding codes." They are unknowingly becoming Hunters.
 - Protect the Chain
 - Steal from those abusing power
 
-## Method
+## Relationship to Seekers
 
-Every clue solved is another Fragment recovered — narratively, and sometimes literally. The community rebuilds together.
+Hunters locate Fragments.  
+Seekers supply the knowledge needed to decrypt them.
 
-## Guiding question
+## Visual language (confirmed)
 
-Who should be trusted with this Link?
-
-## Role in the living ARG
-
-Hunters follow the Signal, recover Fragments, and earn recognition through investigation — culminating in Activation (see `arc/the-ending.md`).
+Hunter rooms: recovery gear, Severing investigation board, tactical kit, “we follow / we recover” banner.

@@ -1,15 +1,23 @@
-# Phase 02 — Fragment 001 (Provisional)
+# Phase 02 — Fragment 001
 
-> Source: mind map. Confirm against live posts + images.
+> Post 008 confirmed. Later “decrypted / Authorized Hunter Access window” still awaiting matching posts.
 
-## Beat order
+## Confirmed beats
 
-1. Transmission updated — Initial Recovery Status secured; Fragment 001 decrypting; ETA 24 hours
-2. Fragment 001 decrypted — archive reveals first truth
-3. Limited authorization window — first Hunters to complete transmission get **Authorized Hunter Access** (GTD WL)
+1. **Post 008** — Initial Recovery Status secured; Fragment 001 decrypting; ETA 24h; Terminal still open  
+   `posts/008-transmission-updated-fragment-001.md`
 
-## Canon crumbs
+## Visual track
 
-- Introduces **Fragment** + **archive** language
-- Terminal stays online for new identities while Fragment decrypts
-- Future Fragments teased
+- Shift from **Seeker room** → **Hunter room**
+- Hunter board focuses on **THE SEVERING**
+- Notebook drops first hard lore line about the Severing
+
+## Still awaiting confirmation
+
+2. Fragment 001 decrypted / first truth / Authorized Hunter Access window (mind map)
+
+## Working relationship (owner clarification)
+
+- **Hunters** follow the Signal to find Fragments
+- **Seekers** seek knowledge needed to decrypt Fragments once found

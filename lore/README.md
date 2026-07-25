@@ -31,6 +31,6 @@ This folder is the project's **memory store** for ARG / story writing.
 - Core mind-map concepts: ingested and refined
 - Timeline mind-map: ingested as **provisional**
 - Ops facts: site, FCFS vs Authorized Hunter Access (GTD), code `4663`
-- Confirmed posts: 001–005 (WL → FILE-01 LYNK → Terminal mission open)
-- Voice guide updated for mission/transmission format
+- Confirmed posts: 001–008 (through Fragment 001 decrypting)
+- Seeker vs Hunter live roles clarified
 - More posts + images: incoming

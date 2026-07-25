@@ -13,15 +13,15 @@ Mind map uses both.
 
 ## 2. Seekers vs Keepers vs Owls
 
-Header: **The Seekers / Owls**  
-Body: almost entirely **Keepers**
+**Partially resolved for live ARG:**
 
-Also mixed roles:
+- Use **Seekers** (owl imagery) in public posts
+- Role: seek knowledge required to decrypt Fragments Hunters recover
 
-- Seeker = occupation that studies Signals
-- Keeper = ancient memory custodians
+**Still open:**
 
-**Decision needed:** One name? Two related roles? Owls = visual only?
+- Are **Keepers** a deeper/ancient name for Seekers, a subgroup, or unused lore to cut?
+- Mind-map Keeper theology not yet public — keep parked
 
 ## 3. The Code
 

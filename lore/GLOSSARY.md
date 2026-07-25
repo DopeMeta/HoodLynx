@@ -9,8 +9,8 @@ Quick reference. Full detail lives in the linked files.
 | **Fragment** | A Fragment of Consensus — contains one undeniable truth; cannot lie or be manipulated | `world/fragments.md` |
 | **Link** | Term used in faction copy; likely same class of object as Fragment — **UNCONFIRMED** | `OPEN_QUESTIONS.md` |
 | **Signal** | Occurs when a Fragment is awakened, or when someone tries to alter reality around one | `world/signal.md` |
-| **Hunters / HoodLynx** | Community faction recovering Fragments / Links; protect the Chain for everyone | `factions/hunters.md` |
-| **Seekers / Owls / Keepers** | Observing / memory faction — **naming unresolved** | `factions/seekers-keepers.md` |
+| **Hunters / HoodLynx** | Follow the Signal; find / recover Fragments | `factions/hunters.md` |
+| **Seekers / Owls** | Seek knowledge needed to decrypt Fragments (Keepers = deeper unused name for now) | `factions/seekers-keepers.md` |
 | **The Crown** | Order-through-control faction; believes freedom caused the Severing | `factions/the-crown.md` |
 | **The Broken** | Former allies broken by too much truth; want Fragments corrupted or destroyed | `factions/the-broken.md` |
 | **Rose & Cross** | Forgotten pre-Severing order that predicted collapse and left breadcrumbs | `orders/rose-and-cross.md` |

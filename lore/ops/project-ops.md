@@ -25,6 +25,16 @@ Use the story phrase publicly; map internally to FCFS vs GTD as above.
 
 - **Code: `4663`**
 - Reason: Robinhood chain ID is `4663` (launch chain for the NFT collection)
+- Public hint path used in posts:
+  1. Board prompt: ROBINHOOD CHAIN ID: ????
+  2. Keypad partial glow (4 / 6) → full glow (4 6 6 3)
+  3. Later Severing date crumb: **April 6, 1963** (4 / 6 / 63)
+
+## Authorization ritual
+
+- Goal: **100** authorized identities for first Fragment to surface
+- Reply phrase if in: **SIGNAL RECEIVED**
+- Terminal can remain open for new identities after 100 for future Fragments
 
 ## Related story bridge
 

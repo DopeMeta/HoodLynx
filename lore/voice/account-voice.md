@@ -43,6 +43,18 @@ Derived only from confirmed posts. Use this for continuity.
 
 - Public mechanic uses **LYNK** (FILE-01), not “link”
 
+## Picture-hint posts
+
+- Body copy stays short; lore clues live in the image
+- Seeker rooms = knowledge / code / decryption prep
+- Hunter rooms = recovery / Fragments / Severing investigation
+- Do not over-explain the puzzle in the caption
+
+## Live faction split (for continuity)
+
+- **Hunters** follow Signal → find Fragments
+- **Seekers** seek knowledge → decrypt Fragments
+
 ## What to avoid (based on what these posts do *not* do)
 
 - Long paragraphs
