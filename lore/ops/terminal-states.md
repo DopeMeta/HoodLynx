@@ -1,19 +1,16 @@
 # Terminal States
 
-## WL / counting policy (owner lock)
+## WL / counting policy
 
-- Internally: ~100 early accounts, then wallet batches (~20 + ~20), plus collab WL — **do not publish running totals**
-- Public Terminal: stay **vague** so bots / multi-accounts can be filtered and collab slots balanced
-- Only show a number when it is a **new mission cap** (e.g. “20 new verified Hunters”)
-- Never show cumulative `AUTHORIZED HUNTERS: 20 / 20` style scoreboards unless intentionally opening a fresh verified mission
+- No public running Authorized Hunter totals
+- Numbers only for a real new verified mission cap
+- Stay vague for bot/alt filtering + collab WL balance
 
 ---
 
-## FULL TERMINAL WRITE-UP — Post 1 (concise, focus on new)
+## LIVE NOW — before Post 2 (Post 013 era)
 
-Collapse old Fragment status; lead with 003 + auth.
-
-### Screen 1 — before submit
+Concise focus on 003 surfacing:
 
 ```text
 // HOODLYNX ARCHIVE TERMINAL
@@ -38,8 +35,7 @@ EVM WALLET (0x...)
 ▸ SEND SIGNAL
 ```
 
-### Screen 2 — after submit
-
+After submit:
 ```text
 ...IDENTIFICATION SIGNAL SENT
 ...WALLET LOCKED TO IDENTITY
@@ -48,19 +44,40 @@ STAND BY FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-### Tonight (Post 2) — flip only the 003 block
+---
+
+## UPDATE RIGHT BEFORE POST 2
+
+### Screen 1
 
 ```text
+// HOODLYNX ARCHIVE TERMINAL
+STATUS: ONLINE
+ARCHIVE: 001 + 002 STORED
+----------------------------------------
 TARGET: FRAGMENT 003
 STATUS: SIGNAL INTERRUPTED
 SOURCE: UNKNOWN
+----------------------------------------
+AUTHORIZATION WINDOW: ACTIVE
+ELIGIBLE: UNIDENTIFIED IDENTITIES
+ACCESS: AUTHORIZED HUNTER ACCESS
+Verification required.
+----------------------------------------
+AWAITING IDENTIFICATION...
+@
+ENTER X HANDLE
+Ξ
+EVM WALLET (0x...)
+▸ SEND SIGNAL
 ```
 
-### Optional later — only if opening a real capped mission
+### Screen 2
 
 ```text
-NEW MISSION WINDOW: ACTIVE
-VERIFIED HUNTERS NEEDED: 20
+...IDENTIFICATION SIGNAL SENT
+...WALLET LOCKED TO IDENTITY
+STAND BY FOR VERIFICATION.
+...TRACE UNSTABLE
+FOLLOW THE SIGNAL.
 ```
-
-Use only when you will actually select ~20 and can stand behind the number.
