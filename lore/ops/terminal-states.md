@@ -1,31 +1,15 @@
 # Terminal States
 
-## Current live state — STALE
+## WL / counting policy (owner lock)
 
-Still shows Fragment 002 as LOCATED + auth before 002 decryption.  
-Story is past 002 decrypted and moving toward 003. **Update this.**
-
----
-
-## What creates WL / engagement
-
-The posts alone do **not** create WL spots unless you attach a mechanic.
-
-| Mechanic | Creates GTD spots? | Engagement |
-|----------|--------------------|------------|
-| Terminal handle + wallet submit | **Yes** — primary list | Medium |
-| “Reply SIGNAL RECEIVED” on post | Only if you **manually** add repliers | High |
-| Enter Terminal before trail dies | Yes, if Terminal auth is open | Medium |
-| Just story posts with no ask | No | Low–medium lore vibes |
-
-For today, use:
-1. **Terminal open** for unidentified identities → real GTD capture  
-2. **One reply ask** on Post 2 → engagement + manual GTD extras  
-3. Add strong engagers to **Hood Lynx Hunters** chat  
+- Internally: ~100 early accounts, then wallet batches (~20 + ~20), plus collab WL — **do not publish running totals**
+- Public Terminal: stay **vague** so bots / multi-accounts can be filtered and collab slots balanced
+- Only show a number when it is a **new mission cap** (e.g. “20 new verified Hunters”)
+- Never show cumulative `AUTHORIZED HUNTERS: 20 / 20` style scoreboards unless intentionally opening a fresh verified mission
 
 ---
 
-## FULL TERMINAL WRITE-UP (replace current)
+## FULL TERMINAL WRITE-UP (current story: post-002 → 003)
 
 ### Screen 1 — before submit
 
@@ -40,7 +24,6 @@ ARCHIVE ENTRY: STORED
 FRAGMENT 002
 STATUS: DECRYPTED
 ARCHIVE ENTRY: STORED
-AUTHORIZED HUNTERS: 20 / 20
 ----------------------------------------
 TARGET: FRAGMENT 003
 STATUS: TRACE UNSTABLE
@@ -49,9 +32,9 @@ INTERFERENCE: DETECTED
 SOURCE: UNKNOWN
 ----------------------------------------
 AUTHORIZATION WINDOW: ACTIVE
-ELIGIBLE: UNIDENTIFIED IDENTITIES ONLY
-AVAILABLE: AUTHORIZED HUNTER ACCESS
-Lock your identity to remain on the network.
+ELIGIBLE: UNIDENTIFIED IDENTITIES
+ACCESS: AUTHORIZED HUNTER ACCESS
+Verification required.
 ----------------------------------------
 AWAITING IDENTIFICATION...
 @
@@ -61,12 +44,12 @@ EVM WALLET (0x...)
 ▸ SEND SIGNAL
 ```
 
-### Screen 2 — after wallet / send
+### Screen 2 — after submit
 
 ```text
 AUTHORIZATION WINDOW: ACTIVE
-ELIGIBLE: UNIDENTIFIED IDENTITIES ONLY
-AVAILABLE: AUTHORIZED HUNTER ACCESS
+ELIGIBLE: UNIDENTIFIED IDENTITIES
+ACCESS: AUTHORIZED HUNTER ACCESS
 ----------------------------------------
 ...IDENTIFICATION SIGNAL SENT
 ...WALLET LOCKED TO IDENTITY
@@ -74,58 +57,16 @@ AVAILABLE: AUTHORIZED HUNTER ACCESS
 A SINGLE NODE IS EASY TO SILENCE.
 A NETWORK IS NOT.
 ----------------------------------------
-STAND BY FOR AUTHORIZED HUNTER CONFIRMATION.
+STAND BY FOR VERIFICATION.
 ...TRACE RESUMING
 FOLLOW THE SIGNAL.
 ```
 
----
-
-## TODAY posts (with real engagement hooks)
-
-### Post 1 — story only (no WL ask)
+### Optional later — only if opening a real capped mission
 
 ```text
-...SIGNAL STRENGTH INCREASING.
-
-Fragment 003 has a direction.
-
-The network is moving.
-Stay sharp.
-
-http://HoodLynx.xyz
-
-FOLLOW THE SIGNAL.
+NEW MISSION WINDOW: ACTIVE
+VERIFIED HUNTERS NEEDED: 20
 ```
 
-### Post 2 — Terminal + WL + comments
-
-```text
-...SIGNAL INTERRUPTED.
-
-Fragment 003 went dark mid-trace.
-
-Something else is on the frequency.
-
-New identities: enter the Terminal.
-Then reply SIGNAL RECEIVED.
-
-http://HoodLynx.xyz
-```
-
-**How you run GTD from that**
-- Terminal submissions = main Authorized Hunter Access list  
-- Post replies `SIGNAL RECEIVED` = review / add extras (or confirm they actually entered)  
-- Optional: only count replies that also submitted Terminal  
-
----
-
-## If you want capped new spots
-
-Add one line to Terminal Screen 1:
-
-```text
-AVAILABLE: 25 AUTHORIZED HUNTER ACCESS
-```
-
-(or whatever real number you can honor — only publish a number you will fulfill)
+Use only when you will actually select ~20 and can stand behind the number.

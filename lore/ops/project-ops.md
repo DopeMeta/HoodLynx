@@ -32,6 +32,8 @@ Total supply: **4663**
 - Existing Hunters already counted as having answered the Signal
 - GTD list = Authorized Hunter Access (handle + wallet from Terminal, plus engaged commenters reviewed manually)
 - X chat: **Hood Lynx Hunters** for active engagers
+- **No public running totals** of authorized Hunters (bots, alts, collab WL balance)
+- Numbers only for a **new verified mission cap** you will actually fulfill
 
 ## Community
 
