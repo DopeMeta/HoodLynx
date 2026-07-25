@@ -41,7 +41,7 @@ Left open on purpose ("someone or something"). Keep it open unless a locked answ
 
 ## 7. What to cut for public story
 
-Mind map includes deep faction theology. Published ARG so far (from external posts observed earlier) leans on:
+Mind map includes deep faction theology. Published ARG so far leans on:
 
 - Signal
 - Fragment
@@ -51,3 +51,13 @@ Mind map includes deep faction theology. Published ARG so far (from external pos
 - Terminal / authorization
 
 Decide which faction depth is public now vs later.
+
+## 8. LYNK vs Link vs Fragment
+
+FILE-01 uses **LYNK** (tag a friend). Faction lore uses **Link**. Cosmology uses **Fragment**.
+
+Confirm whether LYNK is a deliberate mission spelling / mechanic name.
+
+## 9. Terminal numbering
+
+Mind map jumps Terminal 001 → Terminal 003. Confirm real numbering from live site/posts.

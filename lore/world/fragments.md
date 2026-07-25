@@ -22,6 +22,13 @@ Not information. **Truth.**
 - intentions
 - corruption
 
+## Public archive wording (ARCHIVE ENTRY 002)
+
+> Fragments are remnants of the Chain.  
+> Each carries a memory from before the Severing.  
+> Alone they reveal little.  
+> Together they reveal the truth.
+
 ## Narrative role
 
 Every clue the community solves is another Fragment recovered — not always literally, but narratively. Recovery brings the Archive / truth closer.
