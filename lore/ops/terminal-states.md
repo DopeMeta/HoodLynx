@@ -1,24 +1,33 @@
 # Terminal States
 
-## Problem (current live state — STALE)
+## Current live state — STALE
 
-People entering the Terminal still see a **pre–Fragment 002 decryption** screen:
-
-- Fragment 001 decrypted / Archive stored / 20/20 authorized
-- New Signal → Fragment 002 **LOCATED**
-- Auth window: 20 Authorized Hunter Access **before Fragment 002 decryption begins**
-
-But the public story has already:
-
-1. Recovered + decrypted Fragment 002  
-2. Published Archive Entry 002  
-3. Said Hunter capacity exceeded / new unidentified identities needed  
-
-**This is worth a credit spend** — the Terminal currently contradicts the story.
+Still shows Fragment 002 as LOCATED + auth before 002 decryption.  
+Story is past 002 decrypted and moving toward 003. **Update this.**
 
 ---
 
-## Recommended live state (post–Fragment 002)
+## What creates WL / engagement
+
+The posts alone do **not** create WL spots unless you attach a mechanic.
+
+| Mechanic | Creates GTD spots? | Engagement |
+|----------|--------------------|------------|
+| Terminal handle + wallet submit | **Yes** — primary list | Medium |
+| “Reply SIGNAL RECEIVED” on post | Only if you **manually** add repliers | High |
+| Enter Terminal before trail dies | Yes, if Terminal auth is open | Medium |
+| Just story posts with no ask | No | Low–medium lore vibes |
+
+For today, use:
+1. **Terminal open** for unidentified identities → real GTD capture  
+2. **One reply ask** on Post 2 → engagement + manual GTD extras  
+3. Add strong engagers to **Hood Lynx Hunters** chat  
+
+---
+
+## FULL TERMINAL WRITE-UP (replace current)
+
+### Screen 1 — before submit
 
 ```text
 // HOODLYNX ARCHIVE TERMINAL
@@ -33,18 +42,16 @@ STATUS: DECRYPTED
 ARCHIVE ENTRY: STORED
 AUTHORIZED HUNTERS: 20 / 20
 ----------------------------------------
-ARCHIVE DIRECTIVE: UPDATED
-RECOVERY CAPACITY: INSUFFICIENT
-EXISTING HUNTERS: RECOGNIZED
+TARGET: FRAGMENT 003
+STATUS: TRACE UNSTABLE
+SIGNAL STRENGTH: █████░░░░░
+INTERFERENCE: DETECTED
+SOURCE: UNKNOWN
 ----------------------------------------
 AUTHORIZATION WINDOW: ACTIVE
 ELIGIBLE: UNIDENTIFIED IDENTITIES ONLY
 AVAILABLE: AUTHORIZED HUNTER ACCESS
-----------------------------------------
-NEW INTERFERENCE DETECTED
-SOURCE: UNKNOWN
-SIGNAL STRENGTH: █████░░░░░
-STATUS: MONITORING
+Lock your identity to remain on the network.
 ----------------------------------------
 AWAITING IDENTIFICATION...
 @
@@ -54,47 +61,71 @@ EVM WALLET (0x...)
 ▸ SEND SIGNAL
 ```
 
-### After wallet connect / submit
+### Screen 2 — after wallet / send
 
 ```text
 AUTHORIZATION WINDOW: ACTIVE
 ELIGIBLE: UNIDENTIFIED IDENTITIES ONLY
+AVAILABLE: AUTHORIZED HUNTER ACCESS
+----------------------------------------
 ...IDENTIFICATION SIGNAL SENT
 ...WALLET LOCKED TO IDENTITY
+----------------------------------------
 A SINGLE NODE IS EASY TO SILENCE.
 A NETWORK IS NOT.
+----------------------------------------
 STAND BY FOR AUTHORIZED HUNTER CONFIRMATION.
-...SIGNAL RECEIVED
+...TRACE RESUMING
+FOLLOW THE SIGNAL.
 ```
 
-Optional last line variants for engagement hooks:
-- `...AWAITING ARCHIVE REVIEW` (manual GTD list)
-- `...REPLY ON THE SIGNAL CHANNEL TO CONFIRM` (drive comments)
-- Keep `...SIGNAL INTERRUPTED` only if you still want mystery/glitch — otherwise it fights “you’re in”
+---
+
+## TODAY posts (with real engagement hooks)
+
+### Post 1 — story only (no WL ask)
+
+```text
+...SIGNAL STRENGTH INCREASING.
+
+Fragment 003 has a direction.
+
+The network is moving.
+Stay sharp.
+
+http://HoodLynx.xyz
+
+FOLLOW THE SIGNAL.
+```
+
+### Post 2 — Terminal + WL + comments
+
+```text
+...SIGNAL INTERRUPTED.
+
+Fragment 003 went dark mid-trace.
+
+Something else is on the frequency.
+
+New identities: enter the Terminal.
+Then reply SIGNAL RECEIVED.
+
+http://HoodLynx.xyz
+```
+
+**How you run GTD from that**
+- Terminal submissions = main Authorized Hunter Access list  
+- Post replies `SIGNAL RECEIVED` = review / add extras (or confirm they actually entered)  
+- Optional: only count replies that also submitted Terminal  
 
 ---
 
-## Engagement modes that feed GTD list
+## If you want capped new spots
 
-Use any mix; all should end with handle + wallet captured in Terminal or manually logged.
+Add one line to Terminal Screen 1:
 
-| Mode | How | Terminal / post support |
-|------|-----|-------------------------|
-| **Terminal ID** | X handle + wallet submit | Primary GTD capture |
-| **Reply ritual** | Reply `SIGNAL RECEIVED` or a daily phrase on the post | Confirms active Hunters; cross-check list |
-| **Quote / tag** | Quote post + tag a new identity | Growth + manual review |
-| **Interrupt beats** | “Signal interrupted — reply to restore” | Soft gamification; don’t overuse |
-| **X chat** | Add engagers to Hood Lynx Hunters | Retention after WL |
+```text
+AVAILABLE: 25 AUTHORIZED HUNTER ACCESS
+```
 
-Rule: don’t invent numbered logs. If you need a phrase, keep it Signal/Archive/Terminal vocabulary.
-
----
-
-## Sync rule
-
-Whenever a social post changes authorization rules or Fragment status, either:
-
-1. Update Terminal the same day, or  
-2. Don’t claim that state in the post yet  
-
-Stale Terminal kills trust faster than a quiet day.
+(or whatever real number you can honor — only publish a number you will fulfill)
