@@ -9,26 +9,20 @@
 
 ---
 
-## FULL TERMINAL WRITE-UP (current story: post-002 → 003)
+## FULL TERMINAL WRITE-UP — Post 1 (concise, focus on new)
+
+Collapse old Fragment status; lead with 003 + auth.
 
 ### Screen 1 — before submit
 
 ```text
 // HOODLYNX ARCHIVE TERMINAL
 STATUS: ONLINE
-----------------------------------------
-FRAGMENT 001
-STATUS: DECRYPTED
-ARCHIVE ENTRY: STORED
-----------------------------------------
-FRAGMENT 002
-STATUS: DECRYPTED
-ARCHIVE ENTRY: STORED
+ARCHIVE: 001 + 002 STORED
 ----------------------------------------
 TARGET: FRAGMENT 003
-STATUS: TRACE UNSTABLE
-SIGNAL STRENGTH: █████░░░░░
-INTERFERENCE: DETECTED
+STATUS: SURFACING
+SIGNAL STRENGTH: INCREASING
 SOURCE: UNKNOWN
 ----------------------------------------
 AUTHORIZATION WINDOW: ACTIVE
@@ -47,19 +41,19 @@ EVM WALLET (0x...)
 ### Screen 2 — after submit
 
 ```text
-AUTHORIZATION WINDOW: ACTIVE
-ELIGIBLE: UNIDENTIFIED IDENTITIES
-ACCESS: AUTHORIZED HUNTER ACCESS
-----------------------------------------
 ...IDENTIFICATION SIGNAL SENT
 ...WALLET LOCKED TO IDENTITY
-----------------------------------------
-A SINGLE NODE IS EASY TO SILENCE.
-A NETWORK IS NOT.
-----------------------------------------
 STAND BY FOR VERIFICATION.
-...TRACE RESUMING
+...SIGNAL STRENGTH INCREASING
 FOLLOW THE SIGNAL.
+```
+
+### Tonight (Post 2) — flip only the 003 block
+
+```text
+TARGET: FRAGMENT 003
+STATUS: SIGNAL INTERRUPTED
+SOURCE: UNKNOWN
 ```
 
 ### Optional later — only if opening a real capped mission
