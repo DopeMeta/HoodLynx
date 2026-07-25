@@ -1,6 +1,7 @@
 # HoodLynx — Scope Map
 
-Locked from owner answers (2026-07-25). Use this before inventing new story moves.
+Locked from owner answers (2026-07-25).  
+**Daily work:** use `CURRENT.md` first. This file is the broader project brief.
 
 ## What this project is
 
