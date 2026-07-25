@@ -1,82 +1,95 @@
-# Draft — Today's Linked Pair (2 posts)
+# Draft — Today's Linked Pair (revised)
 
-**Goal:** Break 1/day cadence with two posts that read as one transmission sequence.  
-**Continues from:** Post 012 (Archive Directive Updated — new identities only).  
-**Voice rules:** Short lines, ellipsis opens, no lore dump, FOLLOW THE SIGNAL closer optional, site link on at least one.
-
-**Source crumbs used (already in post 012 art — not invented):**
-- More Hunters required / unidentified signals
-- 3rd Fragment yet to be found
-- Hunter + Seeker collaboration
-- Crown took Hunters (use lightly — one post max)
+**Status:** Waiting on owner go-ahead after extra ChatGPT context.  
+**Continues from:** Post 012 Archive Directive (new identities only).  
+**Strategy:** Soft-intro unknown rival (Crown unnamed). Prefer “arrived first,” not kidnapping.
 
 ---
 
-## Post A — afternoon / first drop
+## Post A — Story (first)
 
-**Function:** Re-open the hunt for new identities; hint the Archive is already pointing past Fragment 002.
-
-```text
-...UNIDENTIFIED SIGNALS DETECTED.
-
-The Terminal is still searching.
-
-Existing Hunters have already answered.
-New identities are required to continue recovery.
-
-If you have not been recognized by the network,
-the Signal is looking for you.
-
-http://HoodLynx.xyz
-
-FOLLOW THE SIGNAL.
-```
-
-**Art direction:** Reuse/crop the Hunter+Seeker board room, or a tighter detail card highlighting “MORE HUNTERS REQUIRED” / “UNIDENTIFIED SIGNALS DETECTED” / Fragment canister.
-
----
-
-## Post B — same day / second drop (links to A)
-
-**Function:** Payoff of A — why new Hunters matter now: Fragment 003 pressure + first soft Crown threat without full lore dump.
+**Function:** Why the hunt matters — someone else is already recovering Fragments.
 
 ```text
-...ARCHIVE ANALYSIS CONTINUES.
+...RECOVERY LOG 003
 
-Fragment 002 is secured.
-A third Fragment remains hidden.
+Hunters arrived too late.
 
-Recovery capacity is still insufficient.
-The Crown is already moving.
+The Fragment signature was gone before recovery teams reached the site.
 
-New Hunters. New authorization windows.
-The Signal will not wait for the unprepared.
+Someone else is following the Signal.
+
+We still don't know who.
+
+The hunt continues.
 
 http://HoodLynx.xyz
 ```
 
-**Art direction:** Board detail centered on “3RD FRAGMENT YET TO BE FOUND” + “4 HUNTERS WERE TAKEN BY THE CROWN,” or a new terminal screen: FRAGMENT_003 STATUS: UNKNOWN / HUNTER CAPACITY: INSUFFICIENT.
+**Art direction**
+
+- Hunter investigation board
+- New pinned photo / stamp: **RECOVERY FAILED** or **SITE CLEARED**
+- Note: “Unknown organization” or “They knew where to look before we did.”
+- No Crown logo, no Crown name
+- Optional torn photo of hooded figures walking away
+- Keep Fragments as chain-link canisters if shown
 
 ---
 
-## Why these link
+## Post B — Recruitment (same day, links to A)
 
-1. A = recruitment pressure (who)  
-2. B = stakes pressure (why now / Fragment 003 + Crown)  
-Same day = feels like the Terminal escalating, not a random second promo.
-
-## Optional tighter B (if Crown feels early)
+**Function:** Tie capacity / new identities to the interception threat.
 
 ```text
-...FRAGMENT QUERY UNSOLVED.
+...ARCHIVE DIRECTIVE UPDATED.
 
-002 secured.
-003 not found.
-Purpose: hidden.
+Recovery projections have exceeded current Hunter capacity.
 
-The Archive needs more Hunters before the next decryption can begin.
+An unidentified organization has begun intercepting Signal locations.
+
+Existing Hunters have already answered the Signal.
+Only unidentified identities remain eligible for authorization.
+
+If the Signal has found you...
+You know where to look.
 
 http://HoodLynx.xyz
+```
 
-FOLLOW THE SIGNAL.
+**Art direction**
+
+- Terminal / directive UI, or tighter crop of Hunter+Seeker room
+- Emphasize capacity + unidentified signals
+- Still no Crown name/logo
+
+---
+
+## Why they link
+
+1. A = threat discovered (what changed)  
+2. B = recruitment consequence (what you do)  
+
+Same day reads as Terminal escalating after new intel.
+
+## Tomorrow tease (not today)
+
+Black / gold propaganda:
+
+> THE CROWN PROTECTS.
+
+No explanation. Community connects it to yesterday’s unknown organization.
+
+## Alt if “Archive Directive Updated” feels too repeated
+
+Post 012 already used that open. Optional B openers:
+
+```text
+...AUTHORIZATION WINDOW REALIGNED.
+```
+
+or
+
+```text
+...HUNTER CAPACITY CRITICAL.
 ```
