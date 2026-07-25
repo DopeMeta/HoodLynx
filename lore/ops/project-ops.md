@@ -30,6 +30,8 @@ Total supply: **4663**
 - Reply phrase: **SIGNAL RECEIVED**
 - After Fragment 002: emphasize **new / unidentified** identities
 - Existing Hunters already counted as having answered the Signal
+- GTD list = Authorized Hunter Access (handle + wallet from Terminal, plus engaged commenters reviewed manually)
+- X chat: **Hood Lynx Hunters** for active engagers
 
 ## Community
 

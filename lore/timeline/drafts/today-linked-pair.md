@@ -1,18 +1,16 @@
-# TODAY — Linked Pair (revised, simpler terms)
+# TODAY — Linked Pair + Terminal Sync
 
-**Changes from prior draft:**
-- Removed `RECOVERY LOG 003` (log system never used; fake number)
-- No invented site/log numbering
-- Keeps Signal / Archive / Hunter / Terminal vocabulary only
+**Must fix:** Terminal still says Fragment 002 is only LOCATED / pre-decrypt.  
+Story already decrypted 002 and opened new-identity auth. Update Terminal with posts.
 
 ---
 
-## Post 1 — Story (post first)
+## Post 1 — Story
 
 ```text
 ...SIGNAL INTERCEPTED.
 
-Hunters reached the site.
+Hunters reached the next site.
 The Fragment signature was already gone.
 
 Someone else is following the Signal.
@@ -24,46 +22,60 @@ The hunt continues.
 http://HoodLynx.xyz
 ```
 
-**Art:** Board / cleared-site evidence. Optional stamps: SITE CLEARED or SIGNAL LOST. No Crown name/logo yet. No fake log numbers.
+**Art:** Cleared site / board evidence. No Crown name. No fake log numbers.
 
 ---
 
-## Post 2 — Same day
+## Post 2 — Recruitment + Terminal truth
 
 ```text
-...HUNTER CAPACITY CRITICAL.
+...TERMINAL UPDATED.
 
-An unidentified organization is intercepting Signal locations.
+Fragment 001 and 002 are secured in the Archive.
 
 Existing Hunters have already answered.
 Only unidentified identities remain eligible for authorization.
 
-If the Signal has found you,
-you know where to look.
+Enter the Terminal.
+Lock your identity to the network.
 
 http://HoodLynx.xyz
 
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Terminal-style directive or Hunter+Keeper room. Emphasize new identities / capacity.
+**Engagement add-on (pick one):**
+- Ask replies: `If you're new, reply SIGNAL RECEIVED after you enter.`
+- Or: `Hunters already inside — reply NETWORK ONLINE.`
 
-**Terminal update?** Optional, only if worth the credits. If yes, a short state like:
-
-```text
-AUTHORIZATION STATUS: NEW IDENTITIES ONLY
-EXISTING HUNTERS: RECOGNIZED
-SIGNAL: ACTIVE
-UNKNOWN INTERFERENCE: DETECTED
-FOLLOW THE SIGNAL.
-```
-
-If credits are tight, skip Terminal today — let the two posts carry it.
+**Art:** Screenshot/crop of the **new** Terminal state (best proof the update is real).
 
 ---
 
-## Why this pair still works
+## Terminal copy to ship with Post 2
 
-1. Post 1 = stakes (someone else is hunting)
-2. Post 2 = action (new identities → Terminal)
-3. Vocabulary stays inside Signal / Fragment / Hunter / Archive / Terminal
+See full block in `ops/terminal-states.md` → “Recommended live state”.
+
+Minimum change if credits are tight:
+
+1. Fragment 002 → DECRYPTED / ARCHIVE ENTRY STORED  
+2. Remove “before Fragment 002 decryption begins”  
+3. Eligible: UNIDENTIFIED IDENTITIES ONLY  
+4. Keep handle + wallet capture  
+
+Optional story crumb (cheap, high intrigue):
+
+```text
+NEW INTERFERENCE DETECTED
+SOURCE: UNKNOWN
+```
+
+---
+
+## GTD list flow for today
+
+1. Update Terminal  
+2. Post 1 (threat)  
+3. Post 2 (Terminal updated + enter now)  
+4. Collect submissions + comment replies into Authorized Hunter Access list  
+5. Add strong engagers to **Hood Lynx Hunters** chat  
