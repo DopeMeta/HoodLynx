@@ -46,9 +46,16 @@ Derived only from confirmed posts. Use this for continuity.
 ## Picture-hint posts
 
 - Body copy stays short; lore clues live in the image
-- Seeker rooms = knowledge / code / decryption prep
+- Keeper rooms = knowledge / code / decryption prep
 - Hunter rooms = recovery / Fragments / Severing investigation
 - Do not over-explain the puzzle in the caption
+
+## Freshness rule
+
+- One new beat per post
+- Don’t recap prior Fragment status unless the Terminal must prove a sync
+- Repeat only signature glue: FOLLOW THE SIGNAL / site / transmission tone
+- If yesterday said “need Hunters,” today should move the Signal — not repeat the ask in the same words
 
 ## Live faction split (for continuity)
 

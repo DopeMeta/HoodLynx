@@ -1,81 +1,107 @@
-# TODAY — Linked Pair + Terminal Sync
+# TODAY — Linked Pair (fresh beats, toward 003)
 
-**Must fix:** Terminal still says Fragment 002 is only LOCATED / pre-decrypt.  
-Story already decrypted 002 and opened new-identity auth. Update Terminal with posts.
+## Narrative answer
 
----
+Yes — imply the network is strong enough to move on **Fragment 003**, then hit interference.
 
-## Post 1 — Story
+Do **not** recap “we got the hunters we needed / 001+002 secured” in long form. Yesterday already covered capacity. Today should feel like the Signal **moved**.
 
-```text
-...SIGNAL INTERCEPTED.
+Crown: Post 1 = unnamed interruption. Save the name for a later payoff post unless you specifically want it today.
 
-Hunters reached the next site.
-The Fragment signature was already gone.
+## Freshness rule
 
-Someone else is following the Signal.
+Each post gets **one new beat**. Recycle only signature glue:
+- FOLLOW THE SIGNAL.
+- hoodlynx.xyz
+- short transmission openers
 
-We still don't know who.
-
-The hunt continues.
-
-http://HoodLynx.xyz
-```
-
-**Art:** Cleared site / board evidence. No Crown name. No fake log numbers.
+Avoid repeating yesterday’s lines about existing Hunters / unidentified-only unless the Terminal screenshot needs a one-line pointer.
 
 ---
 
-## Post 2 — Recruitment + Terminal truth
+## Post 1 — Forward motion (Fragment 003)
+
+**New beat:** Signal locks onto 003.
 
 ```text
-...TERMINAL UPDATED.
+...SIGNAL STRENGTH INCREASING.
 
-Fragment 001 and 002 are secured in the Archive.
+Fragment 003 has a direction.
 
-Existing Hunters have already answered.
-Only unidentified identities remain eligible for authorization.
-
-Enter the Terminal.
-Lock your identity to the network.
+The network is moving.
+Stay sharp.
 
 http://HoodLynx.xyz
 
 FOLLOW THE SIGNAL.
 ```
 
-**Engagement add-on (pick one):**
-- Ask replies: `If you're new, reply SIGNAL RECEIVED after you enter.`
-- Or: `Hunters already inside — reply NETWORK ONLINE.`
-
-**Art:** Screenshot/crop of the **new** Terminal state (best proof the update is real).
+**Art:** Clean Signal / radar / Fragment 003 unknown. Not another capacity speech.
 
 ---
 
-## Terminal copy to ship with Post 2
+## Post 2 — Interruption + action
 
-See full block in `ops/terminal-states.md` → “Recommended live state”.
-
-Minimum change if credits are tight:
-
-1. Fragment 002 → DECRYPTED / ARCHIVE ENTRY STORED  
-2. Remove “before Fragment 002 decryption begins”  
-3. Eligible: UNIDENTIFIED IDENTITIES ONLY  
-4. Keep handle + wallet capture  
-
-Optional story crumb (cheap, high intrigue):
+**New beat:** Path to 003 gets interfered with; act now.
 
 ```text
-NEW INTERFERENCE DETECTED
+...SIGNAL INTERRUPTED.
+
+Fragment 003 went dark mid-trace.
+
+Something else is on the frequency.
+
+Enter the Terminal.
+Lock in before the trail dies.
+
+http://HoodLynx.xyz
+```
+
+**Engagement (pick one, keep it light):**
+- `Reply SIGNAL RECEIVED if you're on the network.`
+- or no reply ask — let Terminal do the work
+
+**Art:** Terminal update screenshot (best) or glitch/interference HUD.
+
+---
+
+## Terminal sync (same day if possible)
+
+Advance past stale 002 “located” screen:
+
+```text
+FRAGMENT 001 — DECRYPTED — STORED
+FRAGMENT 002 — DECRYPTED — STORED
+----------------------------------------
+TARGET: FRAGMENT 003
+STATUS: TRACE UNSTABLE
+INTERFERENCE: DETECTED
 SOURCE: UNKNOWN
+----------------------------------------
+AUTHORIZATION WINDOW: ACTIVE
+ELIGIBLE: UNIDENTIFIED IDENTITIES ONLY
+AWAITING IDENTIFICATION...
+```
+
+After submit — keep network line, soften dead-end vibe:
+
+```text
+...IDENTIFICATION SIGNAL SENT
+...WALLET LOCKED TO IDENTITY
+A SINGLE NODE IS EASY TO SILENCE.
+A NETWORK IS NOT.
+STAND BY FOR AUTHORIZED HUNTER CONFIRMATION.
+...TRACE RESUMING
 ```
 
 ---
 
-## GTD list flow for today
+## Why this doesn’t repeat
 
-1. Update Terminal  
-2. Post 1 (threat)  
-3. Post 2 (Terminal updated + enter now)  
-4. Collect submissions + comment replies into Authorized Hunter Access list  
-5. Add strong engagers to **Hood Lynx Hunters** chat  
+| Post | Job |
+|------|-----|
+| Yesterday | Need more Hunters / new identities |
+| Today 1 | We’re moving on 003 |
+| Today 2 | 003 gets contested — enter Terminal |
+
+Crown name can land tomorrow/next as the answer to “what else is on the frequency.”
