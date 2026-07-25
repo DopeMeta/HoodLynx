@@ -19,7 +19,8 @@ This folder is the project's **memory store** for ARG / story writing.
 | `arc/` | Endgame structure (Map → Mint / Activation) |
 | `timeline/` | Story beat sequence (provisional until posts confirmed) |
 | `ops/` | Live mechanics: site, WL tiers, terminal code |
-| `posts/` | Actual project-account posts + images (source of truth) |
+| `posts/` | Actual project-account posts (source of truth) |
+| `voice/` | Account voice guide for continuity |
 | `source/` | Raw dumps from mind maps / chats (reference only) |
 | `CANON_RULES.md` | Anti-hallucination rules for writing |
 | `OPEN_QUESTIONS.md` | Naming conflicts and unresolved choices |
@@ -30,4 +31,6 @@ This folder is the project's **memory store** for ARG / story writing.
 - Core mind-map concepts: ingested and refined
 - Timeline mind-map: ingested as **provisional**
 - Ops facts: site, FCFS vs Authorized Hunter Access (GTD), code `4663`
-- Published posts + images: incoming (post-by-post)
+- Confirmed posts: 001–003 (early WL)
+- Voice guide started from those posts
+- More posts + images: incoming

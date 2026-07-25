@@ -1,21 +1,31 @@
-# Phase 00 — Pre-Posts (Provisional)
+# Phase 00 — Pre-Posts
 
-> Source: mind map. Confirm against live posts + images.
+> Confirmed against live posts 001–003. Mind-map remainder still provisional until matching posts arrive.
 
-## Beat order
+## Confirmed beat order
 
-1. WL applications open — Signal from the shadows; entry to the hunt
-2. WL submissions open again — limited windows; may close without warning
-3. Incoming transmission — short-lived whitelist window
-4. FILE-01 mission — create a **LYNK** by tagging a friend; they must respond
+1. **Post 001** — WL applications open; signal from the shadows; entry to the hunt → hoodlynx.xyz  
+   See `posts/001-wl-applications-open.md`
+2. **Post 002** — Whitelist submissions open again; limited windows may close without warning  
+   See `posts/002-whitelist-open-again.md`
+3. **Post 003** — `...INCOMING TRANSMISSION.` short-lived whitelist window  
+   See `posts/003-incoming-transmission-wl.md`
 
-## Tone notes
+## Still awaiting confirmation
 
-- Classified / unknown origin
-- Urgency and scarcity
-- Closing line pattern: **FOLLOW THE SIGNAL.**
+4. FILE-01 / LYNK tag-a-friend mission (mind map only so far)
 
-## Canon crumbs introduced
+## Voice locked from this phase
 
-- Signal language begins before Fragments are named
-- "Lynk" spelling used in FILE-01 (distinct from lore "Link" — confirm intentional)
+See `voice/account-voice.md`
+
+- FOLLOW THE SIGNAL.
+- Short classified lines
+- Window scarcity
+- Hunt framing before Fragment lore
+
+## Public brand (site / art)
+
+- Cross-chain value hunters / on-chain hunters
+- Launching on Robinhood Chain
+- Coming soon to Gravemint.io
