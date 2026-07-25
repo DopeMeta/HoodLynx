@@ -1,19 +1,24 @@
 # Phase 03 — Fragment 002
 
-> Post 010 confirmed. Later Terminal closed / decryption / ARCHIVE ENTRY 002 still awaiting matching posts.
+> Confirmed against live posts 010–012.
 
 ## Confirmed beats
 
-1. **Post 010** — Signal detected; Fragment 002 located; next **20** Hunters get Authorized Hunter Access before decryption  
+1. **Post 010** — Signal detected; Fragment 002 located; next 20 Hunters Authorized Access before decryption  
    `posts/010-fragment-002-located.md`
+2. **Post 011** — ARCHIVE ENTRY 002 recovered; twenty Hunters secured operation; archive closer to truth  
+   `posts/011-archive-entry-002-recovered.md`
+3. **Post 012** — Archive directive updated; Hunter capacity exceeded; only new/unidentified identities eligible  
+   `posts/012-archive-directive-updated.md`
 
-## Still awaiting confirmation
+## Public creed / archive locks
 
-2. Terminal 003 UI during Fragment 002 window  
-3. Authorization window closed (twenty authorized)  
-4. Decryption initiated / “Signal is changing”  
-5. ARCHIVE ENTRY 002 cosmology drop
+- The Chain belongs to everyone
+- ARCHIVE ENTRY 001 + 002 texts live in art
+- Crown appears as threat (Hunters taken) via board art
+- Fragment 003 teased as not yet found
 
-## Public creed now live in art
+## Next planned
 
-> The Chain belongs to everyone.
+Owner intent: **two linked posts today** (break from 1/day cadence).  
+Drafts: `timeline/drafts/today-linked-pair.md`

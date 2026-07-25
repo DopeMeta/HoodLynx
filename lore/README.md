@@ -31,6 +31,7 @@ This folder is the project's **memory store** for ARG / story writing.
 - Core mind-map concepts: ingested and refined
 - Timeline mind-map: ingested as **provisional**
 - Ops facts: site, FCFS vs Authorized Hunter Access (GTD), code `4663`
-- Confirmed posts: 001–010 (through Fragment 002 auth window)
-- Seeker vs Hunter live roles clarified
-- More posts + images: incoming
+- Confirmed posts: 001–012 (through yesterday’s Archive Directive)
+- Archive Entry 001/002 texts locked
+- Drafts ready for today’s linked 2-post drop
+- More posts: only if owner sends more history; otherwise drafting forward

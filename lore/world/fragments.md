@@ -22,12 +22,12 @@ Not information. **Truth.**
 - intentions
 - corruption
 
-## Public archive wording (ARCHIVE ENTRY 002)
+## Public archive wording
 
-> Fragments are remnants of the Chain.  
-> Each carries a memory from before the Severing.  
-> Alone they reveal little.  
-> Together they reveal the truth.
+See `world/archive-entries.md` for ENTRY 001 + 002.
+
+Board tease (art only, not yet caption-canon as a drop):  
+**3RD FRAGMENT YET TO BE FOUND.** “Its purpose is still hidden.”
 
 ## Narrative role
 

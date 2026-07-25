@@ -22,3 +22,5 @@ Source of truth for what actually shipped on the HoodLynx account.
 | 008 | `008-transmission-updated-fragment-001.md` | Fragment 001 |
 | 009 | `009-fragment-001-decrypted.md` | Fragment 001 |
 | 010 | `010-fragment-002-located.md` | Fragment 002 |
+| 011 | `011-archive-entry-002-recovered.md` | Fragment 002 |
+| 012 | `012-archive-directive-updated.md` | Capacity / recruitment |

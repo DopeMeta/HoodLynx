@@ -46,3 +46,9 @@ Use the story phrase publicly; map internally to FCFS vs GTD as above.
 ## Related story bridge
 
 Finding / using the Terminal is framed as answering the Signal and gaining network recognition — not as a generic mint form.
+
+## Posting cadence
+
+- Historical: ~**1 post/day** through post 012
+- Planned break: **2 linked posts in one day** (see `timeline/drafts/today-linked-pair.md`)
+- After Fragment 002: authorization emphasis on **new / unidentified** identities; existing Hunters already counted
