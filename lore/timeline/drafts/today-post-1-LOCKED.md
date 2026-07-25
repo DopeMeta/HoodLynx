@@ -2,7 +2,7 @@
 
 **Status:** LOCKED for art + publish  
 **Jobs:** continuity + hype + light engagement + tease tonight’s update  
-**Avoid:** vague “has a direction,” hunter tallies, Crown name
+**Avoid:** vague “has a direction,” hunter tallies, Crown name, another close-up Fragment hero shot
 
 ## Caption (final)
 
@@ -23,52 +23,48 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-## Why this version
+## Art direction (story frame)
 
-| Line | Purpose |
-|------|---------|
-| Signal strength increasing | Hype / forward motion |
-| Fragment 003 beginning to surface | Clearer than “has a direction” |
-| Terminal still being accessed | Continuity + social proof without counts |
-| New identities connecting | Soft recruitment, still vague |
-| Reply SIGNAL RECEIVED | Engagement |
-| More transmits tonight | Sets up Post 2 |
-| FOLLOW THE SIGNAL / link | Signature glue |
+Not another centered chain-link product shot.
 
-## Art brief
-
-- Signal intensifying / Fragment 003 starting to appear (chain-link energy, not crystal)
-- Optional HUD: `FRAGMENT 003` / `SIGNAL STRENGTH` rising / `TERMINAL: ACTIVE`
-- Can show Terminal activity vaguely (nodes lighting, connections) — **no 20/20 scoreboards**
-- Mood: momentum + anticipation for tonight
+Show evolution:
+- **Hunter** leaving the den / archive room into the night
+- **Seeker/Keeper** hanging back in the doorway behind (owl-marked cloak)
+- **Fragment 003** not clearly visible yet
+- A **Signal** emitting in the distance (glow / radar rings / beam on horizon)
 
 ## Image prompt (ChatGPT / image tool)
 
 ```text
-Cinematic cyber-noir HUD transmission still for an NFT ARG project called HoodLynx.
-Black background with neon lime-green light only. Ultra-clean, sharp, high resolution, minimal noise, no clutter.
+Cinematic wide story frame for HoodLynx ARG, neon lime-green and black cyber-noir night scene. Ultra-clean, sharp, high resolution, low noise, premium poster composition.
 
-Center: a broken metal chain-link Fragment beginning to materialize / surface from darkness, cracked and glowing neon green from within (NOT a crystal, NOT a gem). Soft concentric signal/radar rings expanding outward from it like a strengthening transmission.
+Foreground/midground: a hooded anthropomorphic lynx Hunter in dark tactical gear stepping out of a shadowy archive den / bunker doorway into a wet night street or overlook. Body language: leaving on a hunt, determined, moving toward the horizon.
 
-Left or top HUD text in crisp terminal typography:
+Behind the Hunter, still in the doorway / hanging back: a second figure, a Seeker/Keeper — hooded cloak with a subtle owl emblem on the back, watching, not following yet. Knowledge stays behind while the Hunter goes out.
+
+In the far distance: Fragment 003 is NOT clearly visible. Only a mysterious Signal emitting from far away — concentric green radar rings, a faint vertical transmission beam, or pulsing green point-light on the horizon. Hint of something surfacing, obscured by mist/rain/darkness. No readable chain-link close-up in the center.
+
+Environment: dark den interior glowing faintly green behind them (terminal light, archive vibe), rainy cyberpunk city outside, atmosphere of the story advancing.
+
+Optional subtle HUD overlays (small, not dominating):
 FRAGMENT_003
 STATUS: SURFACING
-SIGNAL STRENGTH: rising bars
+SIGNAL STRENGTH: INCREASING
 TERMINAL: ACTIVE
-SOURCE: UNKNOWN
 
-Subtle network nodes connecting in the background (people accessing a terminal), faint and secondary — no numbers, no scoreboards, no 20/20 counters, no leaderboard.
+Tiny branding: HoodLynx mark, "FOLLOW THE SIGNAL", "HOODLYNX.XYZ".
 
-Tiny HoodLynx branding: stylized hooded lynx mark + small text "FOLLOW THE SIGNAL" and "HOODLYNX.XYZ".
-Optional tiny hooded lynx silhouette in green line-art, far secondary.
-
-Mood: classified signal growing stronger, anticipation, forward motion.
-Style: matrix-green terminal UI, scanlines very light, premium poster composition, dark tactical aesthetic.
-Avoid: crystals, purple glow, random faction characters, crowns, owls, busy desk collage, readable fake paragraphs, watermark, blurry/noisy artifacts, emojis.
+Mood: the hunt is moving again; anticipation; continuity from archive work to field recovery.
+Avoid: giant centered chain fragment hero object, crystals/gems, purple lighting, crowns, scoreboards, 20/20 counters, busy collage walls full of text, crowds of characters, blurry/noisy artifacts, watermarks.
 ```
 
-### Negative prompt (if supported)
+### Negative prompt
 
 ```text
-crystal, gem, amethyst, purple, crowded collage, many characters, crown, owl, scoreboard, numbers like 20/20, noisy grain, blurry, low resolution, comic style, cute, pastel
+close-up chain link product shot, crystal, gem, purple, crown, scoreboard, 20/20, busy text collage, crowd, blurry, noisy, low resolution
 ```
+
+### If first result is still too object-focused
+
+Add this line to the end of the prompt:
+`Camera is a wide cinematic shot focused on the two characters and the distant signal; no object is the hero — the departure is the hero.`
