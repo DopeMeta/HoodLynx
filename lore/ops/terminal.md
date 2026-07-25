@@ -17,10 +17,13 @@ Good reasons:
 - Fragment status change (decrypting → decrypted → secured)
 - New authorization rule (e.g. only unidentified identities)
 - Major directive the site should confirm
+- **Terminal contradicts published posts** ← current situation
 
 Skip update if:
 - The X post alone carries the beat
 - The change is temporary hype with no lasting state
+
+Live/proposed screens: `ops/terminal-states.md`
 
 ## Voice on Terminal
 
