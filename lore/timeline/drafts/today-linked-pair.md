@@ -1,14 +1,8 @@
-# TODAY — Final package
+# TODAY — Linked Pair
 
-## WL / engagement clarity
+## Post 1 — LOCKED
 
-- Post 1 = pure story (fresh beat: 003 direction)
-- Post 2 = **creates action**: Terminal entry + reply `SIGNAL RECEIVED`
-- GTD list grows from Terminal submissions (+ manual reply review)
-
-Full Terminal paste: `ops/terminal-states.md`
-
-## Post 1
+See `today-post-1-LOCKED.md`
 
 ```text
 ...SIGNAL STRENGTH INCREASING.
@@ -23,7 +17,7 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-## Post 2
+## Post 2 — draft (after Post 1 art/publish)
 
 ```text
 ...SIGNAL INTERRUPTED.
@@ -37,3 +31,5 @@ Then reply SIGNAL RECEIVED.
 
 http://HoodLynx.xyz
 ```
+
+No public hunter tallies. Terminal stays vague + verification language.
