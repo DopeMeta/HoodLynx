@@ -1,37 +1,43 @@
-# TODAY POST 1 — LOCKED
+# TODAY POST 1 — LOCKED (revised)
 
 **Status:** LOCKED for art + publish  
-**Job:** Fresh beat only — Signal moves toward Fragment 003  
-**No WL ask, no counts, no Crown name**
+**Jobs:** continuity + hype + light engagement + tease tonight’s update  
+**Avoid:** vague “has a direction,” hunter tallies, Crown name
 
 ## Caption (final)
 
 ```text
 ...SIGNAL STRENGTH INCREASING.
 
-Fragment 003 has a direction.
+Fragment 003 is beginning to surface.
 
-The network is moving.
-Stay sharp.
+The Terminal is still being accessed.
+New identities are connecting to the network.
+
+Reply SIGNAL RECEIVED if you're online.
+
+More transmits tonight.
 
 http://HoodLynx.xyz
 
 FOLLOW THE SIGNAL.
 ```
 
+## Why this version
+
+| Line | Purpose |
+|------|---------|
+| Signal strength increasing | Hype / forward motion |
+| Fragment 003 beginning to surface | Clearer than “has a direction” |
+| Terminal still being accessed | Continuity + social proof without counts |
+| New identities connecting | Soft recruitment, still vague |
+| Reply SIGNAL RECEIVED | Engagement |
+| More transmits tonight | Sets up Post 2 |
+| FOLLOW THE SIGNAL / link | Signature glue |
+
 ## Art brief
 
-- Clean Signal / trace / radar energy toward an unknown Fragment
-- Mood: forward motion, not recruitment
-- Optional HUD crumbs: `FRAGMENT 003` / `TRACE: ACTIVE` / `SOURCE: UNKNOWN`
-- Do **not** show hunter tallies, 20/20, or capacity meters
-- Fragment visual = chain-link energy if shown, not crystal
-- Brand glue OK: HoodLynx mark, FOLLOW THE SIGNAL, hoodlynx.xyz
-
-## What this post does / doesn’t
-
-| Does | Doesn’t |
-|------|---------|
-| Advances story to 003 | Create WL spots |
-| Feels like progress | Recap 001/002 |
-| Sets up Post 2 interruption | Name the Crown |
+- Signal intensifying / Fragment 003 starting to appear (chain-link energy, not crystal)
+- Optional HUD: `FRAGMENT 003` / `SIGNAL STRENGTH` rising / `TERMINAL: ACTIVE`
+- Can show Terminal activity vaguely (nodes lighting, connections) — **no 20/20 scoreboards**
+- Mood: momentum + anticipation for tonight
