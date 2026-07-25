@@ -31,6 +31,18 @@ Derived only from confirmed posts. Use this for continuity.
 4. Link
 5. **FOLLOW THE SIGNAL.** (+ optional emoji)
 
+## Structure pattern (mission / narrative posts)
+
+1. Ellipsis system lines (`...SIGNAL RECEIVED.` / `...ACCESS PROTOCOLS HAVE CHANGED.`)
+2. FILE / mission block or short directive lines
+3. Clear action (tag a friend / locate the terminal)
+4. Optional scarcity (“first 100”, “you don’t have long”)
+5. Optional link + FOLLOW THE SIGNAL (on graphic if not in body)
+
+## Confirmed mission spelling
+
+- Public mechanic uses **LYNK** (FILE-01), not “link”
+
 ## What to avoid (based on what these posts do *not* do)
 
 - Long paragraphs

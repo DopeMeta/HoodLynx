@@ -1,20 +1,23 @@
-# Phase 01 — Challenge 1: Terminal Access (Provisional)
+# Phase 01 — Challenge 1: Terminal Access
 
-> Source: mind map. Confirm against live posts + images.
+> Post 005 confirmed. Later Signals / Terminal 001 UI still provisional until matching posts arrive.
 
 ## Goal
 
 First **100** identities gain Terminal access / network recognition.
 
-## Beat order
+## Confirmed beats
 
-1. Access protocols changed — locate entry to the Terminal; mission for first 100
-2. Signal 1 — network awaits 100 connections; find the Terminal
-3. Signal 2 — 73 authorized, 27 remain; reply **SIGNAL RECEIVED** if in
-4. Terminal 001 — enter X handle; identity recorded; position non-transferable
+1. **Post 005** — Access protocols changed; locate Terminal entry; first 100; video drop  
+   `posts/005-access-protocols-terminal.md`
+
+## Still awaiting confirmation
+
+2. Signal 1 — network awaits 100 connections; find the Terminal  
+3. Signal 2 — 73 authorized / 27 remain; reply SIGNAL RECEIVED  
+4. Terminal 001 — enter X handle; identity recorded; non-transferable
 
 ## Ops tie-in
 
 - Destination: hoodlynx.xyz
-- Terminal code later established as `4663` (Robinhood chain ID) — see `ops/project-ops.md`
-- Early access here is network recognition / WL pipeline (exact tier per post to confirm)
+- Terminal code: `4663` (Robinhood chain ID) — see `ops/project-ops.md`

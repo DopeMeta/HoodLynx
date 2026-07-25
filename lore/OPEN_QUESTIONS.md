@@ -54,9 +54,11 @@ Decide which faction depth is public now vs later.
 
 ## 8. LYNK vs Link vs Fragment
 
-FILE-01 uses **LYNK** (tag a friend). Faction lore uses **Link**. Cosmology uses **Fragment**.
+FILE-01 uses **LYNK** (tag a friend) — **confirmed intentional** in published mission + art.
 
-Confirm whether LYNK is a deliberate mission spelling / mechanic name.
+Faction lore still uses **Link**. Cosmology uses **Fragment**.
+
+**Remaining decision:** Are Link and Fragment the same object class, with LYNK as the social/mission spelling?
 
 ## 9. Terminal numbering
 
