@@ -35,8 +35,15 @@ How can this Link bring order?
   “They answered the call. They did not return.”
 - Crown marks appear on Archive Intelligence / Sector 7B materials
 
+## Preferred near-term framing (owner direction — not fully shipped)
+
+Introduce as unnamed rival who **reaches Fragment sites first** / clears them.  
+Name drop later via propaganda: **THE CROWN PROTECTS.**
+
+See `OPEN_QUESTIONS.md` #11 — “taken” vs “arrived first.”
+
 ## Relationship notes
 
 - Seeks Seeker/Keeper knowledge
 - Opposed by Hunters' "belongs to everyone" stance
-- Now framed as an active threat that can remove Hunters
+- Active competitor for Fragments

@@ -68,3 +68,10 @@ Mind map jumps Terminal 001 → Terminal 003. Confirm real numbering from live s
 
 Post 010 caption says located; art header says not yet located.  
 Prefer intentional Signal-vs-recovery tension unless corrected.
+
+## 11. Crown threat framing
+
+Board art (post 012): Hunters **taken** by the Crown.  
+Preferred near-term writing: Crown **arrives first** / clears sites (competent rival).
+
+Decide whether “taken” stays canon, gets quietly dropped, or becomes a later reveal.

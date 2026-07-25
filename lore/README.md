@@ -33,5 +33,5 @@ This folder is the project's **memory store** for ARG / story writing.
 - Ops facts: site, FCFS vs Authorized Hunter Access (GTD), code `4663`
 - Confirmed posts: 001–012 (through yesterday’s Archive Directive)
 - Archive Entry 001/002 texts locked
-- Drafts ready for today’s linked 2-post drop
-- More posts: only if owner sends more history; otherwise drafting forward
+- Process notes from ChatGPT chats filed under `source/` (non-canon)
+- Active strategy + revised today drafts on hold for owner go-ahead
