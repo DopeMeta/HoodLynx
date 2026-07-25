@@ -1,54 +1,43 @@
-# Project Ops (Non-Lore Mechanics)
-
-Operational facts used by the live ARG. Keep separate from story cosmology so posts stay consistent.
+# Project Ops
 
 ## Website
 
-- **hoodlynx.xyz** — updated multiple times; acts as Terminal / Signal destination
-- Early site public blurb (from launch landing):  
-  “Hood Lynx is a next-generation community of on-chain hunters tracking high-signal opportunities across chains. Built for Robinhood Chain. Powered by the community.”
-- Site CTAs observed: Apply for Whitelist / Join the Hunt (X)
-- Badge: Launching on Robinhood Chain
-- Badge: Coming soon to Gravemint.io
-- Art descriptor: **CROSS-CHAIN VALUE HUNTERS**
+- **hoodlynx.xyz** — Terminal / Signal destination
+- Early public blurb: on-chain hunters / Robinhood Chain / community-powered
+- CTAs: Apply for Whitelist / Join the Hunt (X)
+- Gravemint.io — mint destination (coming soon → launch)
 
-## Whitelist tiers
+## Chain / codes
 
-| Public phrase | Meaning |
-|---------------|---------|
-| Whitelist / FCFS spots | First-come whitelist accumulation |
-| **Authorized Hunter Access** | GTD whitelist |
+- Launch chain: **Robinhood Chain**
+- Chain ID / Terminal code / supply: **4663**
+- Public hint path used: ROBINHOOD CHAIN ID → keypad → board puzzles encoding 4 / 66 / 3
 
-Use the story phrase publicly; map internally to FCFS vs GTD as above.
+## Whitelist / mint phases
 
-### Observed Authorized Hunter Access windows
+| Phase | Story name | Price | Notes |
+|-------|------------|-------|-------|
+| Team & Treasury | — | Free | |
+| GTD | **Authorized Hunter Access** | 0.003 ETH | Earned via Fragment/auth windows |
+| FCFS | **Fragment Access** | 0.004 ETH | Accumulated FCFS WL |
+| Public | Public | 0.005 ETH | |
 
-| Moment | Slots | Notes |
-|--------|-------|-------|
-| After Fragment 001 decrypted | limited / “first Hunters” | Window opens with first truth |
-| Fragment 002 pre-decrypt | **20** | Access before decryption begins |
+Total supply: **4663**
 
-## Terminal code
+## Authorization ritual (live ARG)
 
-- **Code: `4663`**
-- Reason: Robinhood chain ID is `4663` (launch chain for the NFT collection)
-- Public hint path used in posts:
-  1. Board prompt: ROBINHOOD CHAIN ID: ????
-  2. Keypad partial glow (4 / 6) → full glow (4 6 6 3)
-  3. Later Severing date crumb: **April 6, 1963** (4 / 6 / 63)
+- Early goal: 100 identities → first Fragment surfaces
+- Reply phrase: **SIGNAL RECEIVED**
+- After Fragment 002: emphasize **new / unidentified** identities
+- Existing Hunters already counted as having answered the Signal
 
-## Authorization ritual
+## Community
 
-- Goal: **100** authorized identities for first Fragment to surface
-- Reply phrase if in: **SIGNAL RECEIVED**
-- Terminal can remain open for new identities after 100 for future Fragments
+- X account posts = public ARG channel
+- Engagers added to X chat: **Hood Lynx Hunters**
 
-## Related story bridge
+## Cadence
 
-Finding / using the Terminal is framed as answering the Signal and gaining network recognition — not as a generic mint form.
-
-## Posting cadence
-
-- Historical: ~**1 post/day** through post 012
-- Planned break: **2 linked posts in one day** (see `timeline/drafts/today-linked-pair.md`)
-- After Fragment 002: authorization emphasis on **new / unidentified** identities; existing Hunters already counted
+- Baseline ~1/day when busy
+- Burst to **2 linked posts** when narrative feels slow / WL demand is hot
+- Timebox to mint: ~1–2 weeks (first-mover sensitive)

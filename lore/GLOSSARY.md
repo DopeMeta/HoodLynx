@@ -10,7 +10,9 @@ Quick reference. Full detail lives in the linked files.
 | **Link** | Term used in faction copy; likely same class of object as Fragment — **UNCONFIRMED** | `OPEN_QUESTIONS.md` |
 | **Signal** | Occurs when a Fragment is awakened, or when someone tries to alter reality around one | `world/signal.md` |
 | **Hunters / HoodLynx** | Follow the Signal; find / recover Fragments | `factions/hunters.md` |
-| **Seekers / Owls** | Seek knowledge needed to decrypt Fragments (Keepers = deeper unused name for now) | `factions/seekers-keepers.md` |
+| **Keepers / Owls** | Preserve/study knowledge to decrypt Fragments (replaces “Seekers” in new copy) | `factions/seekers-keepers.md` |
+| **Authorized Hunter Access** | GTD mint phase (0.003 ETH) | `ops/project-ops.md` |
+| **Fragment Access** | FCFS mint phase (0.004 ETH) | `ops/project-ops.md` |
 | **The Crown** | Order-through-control faction; believes freedom caused the Severing | `factions/the-crown.md` |
 | **The Broken** | Former allies broken by too much truth; want Fragments corrupted or destroyed | `factions/the-broken.md` |
 | **Rose & Cross** | Forgotten pre-Severing order that predicted collapse and left breadcrumbs | `orders/rose-and-cross.md` |

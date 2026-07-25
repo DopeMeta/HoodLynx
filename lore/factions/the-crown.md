@@ -29,21 +29,23 @@ Reassemble the Chain under centralized rule to prevent another Severing.
 
 How can this Link bring order?
 
-## Public crumbs (confirmed art)
+## Metaphor
 
-- Board: **“4 HUNTERS WERE TAKEN BY THE CROWN.”**  
-  “They answered the call. They did not return.”
-- Crown marks appear on Archive Intelligence / Sector 7B materials
+Crown ≈ **centralization / control**  
+Hunters ≈ **decentralization** (“The Chain belongs to everyone”)
 
-## Preferred near-term framing (owner direction — not fully shipped)
+## Public crumbs
 
-Introduce as unnamed rival who **reaches Fragment sites first** / clears them.  
-Name drop later via propaganda: **THE CROWN PROTECTS.**
+- Board materials used Crown as opposing force flavor
+- Numbered posters in that era were primarily a **4663 code puzzle**, not hard lore about kidnappings
 
-See `OPEN_QUESTIONS.md` #11 — “taken” vs “arrived first.”
+## Near-term framing
+
+1. Unnamed rival reaches Fragment sites first / clears them  
+2. Later name drop / propaganda: **THE CROWN PROTECTS.**
 
 ## Relationship notes
 
-- Seeks Seeker/Keeper knowledge
-- Opposed by Hunters' "belongs to everyone" stance
+- Wants order through control
+- Opposed by Hunters' “belongs to everyone” stance
 - Active competitor for Fragments

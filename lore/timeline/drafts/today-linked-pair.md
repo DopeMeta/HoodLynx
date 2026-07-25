@@ -1,21 +1,18 @@
-# Draft — Today's Linked Pair (revised)
+# TODAY — Linked Pair (ready to ship)
 
-**Status:** Waiting on owner go-ahead after extra ChatGPT context.  
-**Continues from:** Post 012 Archive Directive (new identities only).  
-**Strategy:** Soft-intro unknown rival (Crown unnamed). Prefer “arrived first,” not kidnapping.
+**Goal:** Escalate engagement within ~1 hour bandwidth.  
+**Principle:** Story moves + give people a reason to enter Terminal now.  
+**Crown:** Opposes Hunters (centralization metaphor). Do **not** lean on “kidnapped 4 Hunters” — that board math was a 4663 puzzle.
 
 ---
 
-## Post A — Story (first)
-
-**Function:** Why the hunt matters — someone else is already recovering Fragments.
+## Post 1 — Story (post first)
 
 ```text
 ...RECOVERY LOG 003
 
-Hunters arrived too late.
-
-The Fragment signature was gone before recovery teams reached the site.
+Hunters reached the site.
+The Fragment signature was already gone.
 
 Someone else is following the Signal.
 
@@ -26,70 +23,38 @@ The hunt continues.
 http://HoodLynx.xyz
 ```
 
-**Art direction**
-
-- Hunter investigation board
-- New pinned photo / stamp: **RECOVERY FAILED** or **SITE CLEARED**
-- Note: “Unknown organization” or “They knew where to look before we did.”
-- No Crown logo, no Crown name
-- Optional torn photo of hooded figures walking away
-- Keep Fragments as chain-link canisters if shown
+**Art:** Investigation board / site-cleared evidence. Stamp: SITE CLEARED or RECOVERY FAILED. Note: “They knew where to look before we did.” No Crown logo/name yet.
 
 ---
 
-## Post B — Recruitment (same day, links to A)
-
-**Function:** Tie capacity / new identities to the interception threat.
-
-```text
-...ARCHIVE DIRECTIVE UPDATED.
-
-Recovery projections have exceeded current Hunter capacity.
-
-An unidentified organization has begun intercepting Signal locations.
-
-Existing Hunters have already answered the Signal.
-Only unidentified identities remain eligible for authorization.
-
-If the Signal has found you...
-You know where to look.
-
-http://HoodLynx.xyz
-```
-
-**Art direction**
-
-- Terminal / directive UI, or tighter crop of Hunter+Seeker room
-- Emphasize capacity + unidentified signals
-- Still no Crown name/logo
-
----
-
-## Why they link
-
-1. A = threat discovered (what changed)  
-2. B = recruitment consequence (what you do)  
-
-Same day reads as Terminal escalating after new intel.
-
-## Tomorrow tease (not today)
-
-Black / gold propaganda:
-
-> THE CROWN PROTECTS.
-
-No explanation. Community connects it to yesterday’s unknown organization.
-
-## Alt if “Archive Directive Updated” feels too repeated
-
-Post 012 already used that open. Optional B openers:
-
-```text
-...AUTHORIZATION WINDOW REALIGNED.
-```
-
-or
+## Post 2 — Same day, links to Post 1
 
 ```text
 ...HUNTER CAPACITY CRITICAL.
+
+An unidentified organization is intercepting Signal locations.
+
+Existing Hunters have already answered.
+Only unidentified identities remain eligible for authorization.
+
+If the Signal has found you,
+you know where to look.
+
+http://HoodLynx.xyz
+
+FOLLOW THE SIGNAL.
 ```
+
+**Art:** Terminal directive UI or Hunter+Keeper room crop. Emphasize capacity / unidentified signals / Terminal Access. Still no Crown name.
+
+---
+
+## Why this works
+
+1. Post 1 creates a rival (why it matters)
+2. Post 2 converts that fear/urgency into WL / Terminal action
+3. Tomorrow/next: optional gold propaganda **THE CROWN PROTECTS.** for payoff
+
+## If you only have time for one image
+
+Use Post 1 art for both, or Post 1 story image + Post 2 text-only/terminal screenshot from the site.

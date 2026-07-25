@@ -2,12 +2,14 @@
 
 This folder is the project's **memory store** for ARG / story writing.
 
+**Start here for scope:** [`SCOPE.md`](./SCOPE.md)
+
 ## How to use this
 
-1. Treat files under `world/`, `factions/`, `orders/`, and `arc/` as the working canon.
-2. Do **not** invent new lore when drafting posts, puzzles, or site copy.
-3. If something is missing, add it here first — or mark it in `OPEN_QUESTIONS.md`.
-4. Timeline and published posts will live under `timeline/` and `posts/` once provided.
+1. Read `SCOPE.md` before adding story.
+2. Treat `world/`, `factions/`, `orders/`, `arc/` as working canon.
+3. Do **not** invent new lore when drafting posts — check `posts/` first.
+4. If missing, add here or mark `OPEN_QUESTIONS.md`.
 
 ## Folder map
 
