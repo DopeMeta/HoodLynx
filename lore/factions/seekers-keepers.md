@@ -1,36 +1,35 @@
-# Seekers (Owls) / Keepers
+# Keepers (Owls)
 
-## Live public framing (confirmed)
+## Decision (recommended + adopted for writing)
 
-**Seekers** appear first in the ARG via investigation-room visuals.
+Public name going forward: **Keepers**.
 
-### Live ARG role (owner clarification)
+Why:
+- Role is knowledge / archive / decryption support
+- Avoids confusion with Hunters who **find Fragments**
+- “Seekers” sounded like they seek Fragments
 
-- Seek **knowledge**
-- That knowledge is needed to **decrypt Fragments** after Hunters find them
-- Owl imagery marks Seeker space
+Owl emblem stays. Prior Hunter+owl-cloak image can be read as a Keeper.
 
-### Visual language (confirmed)
+## Live ARG role
 
-Seeker rooms: OPERATION: SIGNAL board, cryptography books, Lynx Codex, notes, maps, code puzzles, “TRUST THE CHAIN.”
+- Keep / study knowledge
+- Help decrypt Fragments after Hunters recover them
+- Appear beside Hunters when the Archive needs both recovery and understanding
 
-## Mind-map framing still on file
+## Visual language
 
-Header used **Seekers / Owls**; longer copy used **Keepers** as ancient memory custodians.
+- Owl mark on cloak / materials
+- Archive boards, cryptography, Lynx Codex / HoodLynx Archives
+- Neon / board language: TRUST THE CHAIN
 
-Until a public Keepers drop exists:
+## Mind-map depth (not all public yet)
 
-- Use **Seekers** for live ARG writing
-- Keep **Keepers** as deeper/unused lore in `source/` — do not mix names in posts
+- Custodians of the Chain’s memory
+- Do not seek power/control — seek understanding
+- “Some truths must survive, no matter who wins.”
+- Guiding question: Why was this Fragment created?
 
-## Beliefs / lines (mind map — not all public yet)
+## Deprecated public label
 
-- Preserve Fragments because history must not be forgotten — even if the Chain is never rebuilt
-- "Some truths must survive, no matter who wins."
-- Guiding question: **Why was this Link created?**
-
-## Relationships (mind map)
-
-- Crown seeks their knowledge
-- Broken hunt them for secrets
-- Rumor: some say they know what caused the Severing
+**Seekers** = older working name. Prefer Keepers in new posts.
