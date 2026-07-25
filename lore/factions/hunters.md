@@ -10,6 +10,8 @@ Players are not just "finding codes." They are unknowingly becoming Hunters.
 
 > HUNTERS. WE FOLLOW. WE RECOVER.
 
+> THE CHAIN BELONGS TO EVERYONE.
+
 ## Live ARG role (confirmed)
 
 - Follow the **Signal**

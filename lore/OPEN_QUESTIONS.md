@@ -63,3 +63,8 @@ Faction lore still uses **Link**. Cosmology uses **Fragment**.
 ## 9. Terminal numbering
 
 Mind map jumps Terminal 001 → Terminal 003. Confirm real numbering from live site/posts.
+
+## 10. Fragment 002 “located” vs art “NOT YET LOCATED”
+
+Post 010 caption says located; art header says not yet located.  
+Prefer intentional Signal-vs-recovery tension unless corrected.

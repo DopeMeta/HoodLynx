@@ -20,3 +20,5 @@ Source of truth for what actually shipped on the HoodLynx account.
 | 006 | `006-network-awaits-100.md` | Challenge 1 |
 | 007 | `007-signal-grows-stronger-73.md` | Challenge 1 |
 | 008 | `008-transmission-updated-fragment-001.md` | Fragment 001 |
+| 009 | `009-fragment-001-decrypted.md` | Fragment 001 |
+| 010 | `010-fragment-002-located.md` | Fragment 002 |

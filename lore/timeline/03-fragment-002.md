@@ -1,21 +1,19 @@
-# Phase 03 — Fragment 002 (Provisional)
+# Phase 03 — Fragment 002
 
-> Source: mind map. Confirm against live posts + images.
+> Post 010 confirmed. Later Terminal closed / decryption / ARCHIVE ENTRY 002 still awaiting matching posts.
 
-## Beat order
+## Confirmed beats
 
-1. Signal detected — Fragment 002 located
-2. Authorization window — next **20** Hunters get Authorized Hunter Access before decryption
-3. Terminal 003 UI — Fragment 001 stored/decrypted; target Fragment 002; 20 slots
-4. Authorization window closed — twenty Hunters authorized
-5. Decryption initiated — archive analysis; Fragment may contain more than a historical record; "The Signal is changing"
-6. **ARCHIVE ENTRY 002** published:
+1. **Post 010** — Signal detected; Fragment 002 located; next **20** Hunters get Authorized Hunter Access before decryption  
+   `posts/010-fragment-002-located.md`
 
-> Fragments are remnants of the Chain.  
-> Each carries a memory from before the Severing.  
-> Alone they reveal little.  
-> Together they reveal the truth.
+## Still awaiting confirmation
 
-## Canon lock from this phase
+2. Terminal 003 UI during Fragment 002 window  
+3. Authorization window closed (twenty authorized)  
+4. Decryption initiated / “Signal is changing”  
+5. ARCHIVE ENTRY 002 cosmology drop
 
-ARCHIVE ENTRY 002 is the first public cosmology drop tying Fragments ↔ Chain ↔ Severing. Prefer this wording in later archive entries.
+## Public creed now live in art
+
+> The Chain belongs to everyone.

@@ -55,6 +55,15 @@ Derived only from confirmed posts. Use this for continuity.
 - **Hunters** follow Signal → find Fragments
 - **Seekers** seek knowledge → decrypt Fragments
 
+## Fragment cadence pattern (001 → 002)
+
+1. Recovery / decrypting status
+2. Decrypted + archive truth tease
+3. Limited **Authorized Hunter Access** window
+4. Next Fragment Signal detected / located
+5. Smaller auth window before decryption begins
+6. Archive expands / Follow the Signal
+
 ## What to avoid (based on what these posts do *not* do)
 
 - Long paragraphs

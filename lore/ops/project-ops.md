@@ -21,6 +21,13 @@ Operational facts used by the live ARG. Keep separate from story cosmology so po
 
 Use the story phrase publicly; map internally to FCFS vs GTD as above.
 
+### Observed Authorized Hunter Access windows
+
+| Moment | Slots | Notes |
+|--------|-------|-------|
+| After Fragment 001 decrypted | limited / “first Hunters” | Window opens with first truth |
+| Fragment 002 pre-decrypt | **20** | Access before decryption begins |
+
 ## Terminal code
 
 - **Code: `4663`**
