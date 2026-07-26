@@ -80,6 +80,7 @@ Derived only from confirmed posts. Use this for continuity.
 - Inventing new faction names before they appear in posts
 - Inventing new numbered systems (logs, sites, files) that don’t already exist
 - Too many proper nouns in one caption — stick to `TERMS.md`
+- Em dashes / `--` connectors in public posts (reads AI-ish). Use a period or new line instead.
 
 ## Public brand lines (from site / graphics — not deep lore)
 
