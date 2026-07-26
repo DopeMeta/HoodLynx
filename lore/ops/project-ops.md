@@ -35,6 +35,7 @@ Total supply: **4663**
 - X chat: **Hood Lynx Hunters** for active engagers
 - **No public running totals** of authorized Hunters
 - Numbers only for a **new verified mission cap** you will actually fulfill
+- Optional **Hunter Standing** (soft reputation) — see `ops/hunter-standing.md`
 
 ## Community
 

@@ -56,6 +56,7 @@ After submit:
 ```text
 ...RECONNECT SIGNAL SENT
 ...WALLET LOCKED TO IDENTITY
+HUNTER STANDING: UNDER REVIEW
 ----------------------------------------
 INTERCEPT LOG // PARTIAL
 SIGNATURE: CENTRAL AUTHORITY
@@ -63,12 +64,15 @@ MARK: GOLD ORDER SEAL
 PHRASE RECOVERED:
 "ORDER DEMANDS CONTROL."
 ----------------------------------------
+REPEAT SIGNALS INCREASE STANDING.
 STAND BY FOR VERIFICATION.
 ...RETUNING TRACE
 FOLLOW THE SIGNAL.
 ```
 
 **Yes — that phrase is The Crown’s saying.** Public post still does not name them; connectors discover the ideology first.
+
+**Hunter Standing:** soft reputation for repeat play. Track privately; Terminal only hints. Details in `ops/hunter-standing.md`.
 
 **Next Terminal tweak after this mission:** change `STATUS` / mission block only.
 
