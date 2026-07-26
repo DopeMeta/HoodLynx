@@ -3,39 +3,40 @@
 ## Live story position
 
 - Fragment **001 + 002** stored  
-- Fragment **003** Signal interrupted / retune mission (50) active or in progress  
-- Crown crumb Terminal-only: **"ORDER DEMANDS CONTROL."**  
+- Fragment **003** taken mid-hunt; retune identified the cutter  
+- **The Crown** now named publicly (creed: order demands control)  
+- Next arc: **reclaim** Fragment 003 (not just retune)  
 - Soft Hunter Standing  
 - ~1 week from launch (date still soft)  
-
-Last published: check X; Post 013 confirmed earlier; interrupted/50 package may already be live  
 
 ---
 
 ## TODAY — one post (no Terminal update)
 
-**Job:** late-day engagement, name Fragment 003, hint Crown without full reveal, reply hook.
+**Job:** move lore forward. Retune paid off. Name Crown. Shift to reclaim.
 
 ```text
-...ARCHIVE NOTE.
+...ARCHIVE UPDATE.
 
-Fragment 003 has not been recovered.
-Someone cut the Signal mid-hunt.
+The retune worked far enough to identify the cut.
 
-Hunters reconnecting the Terminal caught part of their transmission.
-A gold seal. A central authority.
-A phrase about order and control.
+Fragment 003 was taken by The Crown.
+Order demands control. That was their Signal.
 
-Reply if you saw it.
+We are not retuning anymore.
+We are going to take it back.
+
+Reply CROWN SIGHTED if you're in.
 
 FOLLOW THE SIGNAL.
 ```
 
-### Status this implies
+### What this advances
 
-- We did **not** get Fragment 003 back yet  
-- Signal was cut / taken mid-hunt  
-- Reconnectors only caught a scrap of the other side’s transmission (Crown hint)
+- Retune was not wasted: it identified the enemy  
+- Fragment 003 status clear: **taken by The Crown**  
+- Creed revealed publicly  
+- Next mission framing: reclaim, not wait around
 
 ---
 
