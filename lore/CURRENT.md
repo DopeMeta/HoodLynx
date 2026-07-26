@@ -164,7 +164,8 @@ Alt if people keep trying to enter:
 ...AUTHORIZATION WINDOW CLOSED.
 
 The 50 are secured.
-Late Signals are logged for standing — not this mission.
+Late Signals are logged for standing.
+Not this mission.
 
 Fragment 003 recovery is underway.
 
