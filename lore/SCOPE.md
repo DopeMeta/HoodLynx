@@ -1,6 +1,7 @@
 # HoodLynx — Scope Map
 
-Locked from owner answers (2026-07-25). Use this before inventing new story moves.
+Locked from owner answers (2026-07-25).  
+**Daily work:** use `CURRENT.md` first. This file is the broader project brief.
 
 ## What this project is
 
@@ -119,7 +120,7 @@ Faction trait directions (aspirational):
 - Broken: skeletons, zombies, broken chains, torn, corruption
 - Keepers: (underdeveloped visually — owl / archive / knowledge)
 
-Full trait lists live in `source/traits-draft.md` — reference only until rarity/naming pass.
+Full trait lists live in `archive/source/traits-draft.md` — reference only until rarity/naming pass.
 
 ## Repo purpose
 

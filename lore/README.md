@@ -1,39 +1,26 @@
-# HoodLynx Lore Canon
+# HoodLynx Lore
 
-This folder is the project's **memory store** for ARG / story writing.
+**Start here every time:** [`CURRENT.md`](./CURRENT.md)
 
-**Start here:** [`SCOPE.md`](./SCOPE.md) · [`TERMS.md`](./TERMS.md)
+## Daily writing
 
-## How to use this
+| File | Use |
+|------|-----|
+| `CURRENT.md` | Live state, Terminal, next post |
+| `TERMS.md` | Allowed public vocabulary |
+| `voice/account-voice.md` | Tone / freshness |
+| `posts/` | Confirmed published captions |
 
-1. Read `SCOPE.md` before adding story.
-2. Treat `world/`, `factions/`, `orders/`, `arc/` as working canon.
-3. Do **not** invent new lore when drafting posts — check `posts/` first.
-4. If missing, add here or mark `OPEN_QUESTIONS.md`.
+## Deeper reference (only when needed)
 
-## Folder map
+| Path | Use |
+|------|-----|
+| `SCOPE.md` | Project goals, mint phases, timebox |
+| `world/` | Chain / Severing / Fragments / Archive |
+| `factions/` | Hunters, Keepers, Crown, Broken |
+| `ops/project-ops.md` | WL/mint ops |
+| `archive/` | Raw dumps, spent drafts — **ignore for context** |
 
-| Path | Purpose |
-|------|---------|
-| `world/` | Core cosmology: Chain, Severing, Fragments, Signal |
-| `factions/` | Groups that act in the story |
-| `orders/` | Hidden / historical groups (e.g. Rose & Cross) |
-| `arc/` | Endgame structure (Map → Mint / Activation) |
-| `timeline/` | Story beat sequence (provisional until posts confirmed) |
-| `ops/` | Live mechanics: site, WL tiers, terminal code |
-| `posts/` | Actual project-account posts (source of truth) |
-| `voice/` | Account voice guide for continuity |
-| `source/` | Raw dumps from mind maps / chats (reference only) |
-| `CANON_RULES.md` | Anti-hallucination rules for writing |
-| `OPEN_QUESTIONS.md` | Naming conflicts and unresolved choices |
-| `GLOSSARY.md` | Quick term lookup |
+## Anti-drift
 
-## Status
-
-- Core mind-map concepts: ingested and refined
-- Timeline mind-map: ingested as **provisional**
-- Ops facts: site, FCFS vs Authorized Hunter Access (GTD), code `4663`
-- Confirmed posts: 001–012 (through yesterday’s Archive Directive)
-- Archive Entry 001/002 texts locked
-- Process notes from ChatGPT chats filed under `source/` (non-canon)
-- Active strategy + revised today drafts on hold for owner go-ahead
+`CANON_RULES.md` — don’t invent; check posts first.
