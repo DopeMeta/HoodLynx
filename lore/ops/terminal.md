@@ -14,6 +14,19 @@ Usually change only:
 
 Do not rebuild the whole Terminal every post.
 
+## When to update
+
+Good reasons:
+- Fragment status change
+- New mission / authorization rule
+- Terminal would otherwise contradict published posts
+
+Skip if the X post alone carries a temporary beat.
+
 ## Live copy
 
 See `CURRENT.md` — single source for the active screen.
+
+## Voice
+
+Same transmission voice as posts, shorter if needed.

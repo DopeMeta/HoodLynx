@@ -120,7 +120,7 @@ Faction trait directions (aspirational):
 - Broken: skeletons, zombies, broken chains, torn, corruption
 - Keepers: (underdeveloped visually — owl / archive / knowledge)
 
-Full trait lists live in `source/traits-draft.md` — reference only until rarity/naming pass.
+Full trait lists live in `archive/source/traits-draft.md` — reference only until rarity/naming pass.
 
 ## Repo purpose
 
