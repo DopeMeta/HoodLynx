@@ -1,37 +1,39 @@
-# Post 2 art prompt — Signal interrupted (visual only)
+# Post 2 art prompt — Signal interrupted (stronger)
 
-Works with the account post. **Do not** put post/Terminal copy in the image.
+Previous version was too subtle; model ignored failure + Crown. This version forces those beats visually, still without post/Terminal copy.
 
-## Prompt
+## Prompt (use this)
 
 ```text
-Clean cinematic cyber-noir illustration for HoodLynx, sharp and high resolution, minimal grain, premium poster clarity.
+Create a clean, sharp, high-resolution cinematic still for HoodLynx. Neon lime-green and black. No film grain, no muddy noise.
 
-Scene: anthropomorphic hooded lynx Hunters mid-hunt at night in a dark industrial / rooftop city environment. They were tracking a Signal toward a Fragment — but the Signal is failing.
+MUST show this exact story moment:
+Hooded anthropomorphic lynx Hunters FAIL a Fragment hunt because their Signal is intercepted.
 
-Show the interruption visually, not with big text:
-- A distant green Signal beam / radar rings stuttering, breaking apart, glitching, cutting out mid-air
-- One Hunter reaching / looking toward the dying Signal; another reacting as the trail goes dark
-- Optional tiny glowing chain-link Fragment suggestion almost lost in mist — NOT a clear hero object, NOT a crystal
-- Atmosphere of a hunt interrupted, urgency and confusion
+Required visual beats:
+1) FAILURE: two Hunters on industrial rooftops / scaffolding at night, mid-action but losing — one reaching toward the Signal too late, one turning as if alarmed. Body language = the hunt just failed.
+2) INTERCEPTED SIGNAL: a green Signal beam / radar rings in the distance being CUT, jammed, broken, or stolen mid-transmission — glitch shards, severed beam, dying concentric rings. Make it obvious the Signal was interrupted.
+3) LOST FRAGMENT: a small glowing green chain-link canister / Fragment is either falling away, being carried off into the dark, or vanishing with the broken Signal — not a crystal, not the giant centerpiece.
+4) CROWN HINT: include a clear but secondary Crown presence — armored patrol below with a small crown emblem on chest/shoulder, AND/OR a distant banner with a simple three-point crown. Do not write slogans. Do not make Crown the main subject. Just enough to notice on a second look.
 
-Crown should be subtle only:
-- one faint crown emblem on a distant banner OR on a distant armored watcher / patrol light in the background
-- do NOT make Crown the focus, no propaganda slogan, no readable manifesto text
+Composition:
+- Hunters + dying Signal are the focus
+- Crown elements in background / lower frame only
+- wet night industrial city, searchlights optional
+- no HUD text, no captions, no "SIGNAL INTERRUPTED", no terminal UI, no numbers, no "ORDER DEMANDS CONTROL", no 50 hunters
+- optional tiny HoodLynx lynx mark in corner only
 
-Keep composition clean:
-- neon lime green + black palette
-- wet reflective surfaces, light rain OK
-- no busy collage, no HUD paragraphs, no "SIGNAL INTERRUPTED" title text, no terminal UI, no numbers, no wallet forms, no "50 hunters"
-- tiny HoodLynx mark optional in corner only
-- owl symbol absent or extremely tiny if present
-
-Mood: the trail just died; someone else may be on the frequency; mystery over explanation.
-Style: clear sharp digital cinematic still, not noisy, not muddy.
+Mood: intercepted, too late, someone else got there.
+Style: premium clear digital cinematic poster, sharp edges, high contrast.
 ```
 
 ## Negatives
 
 ```text
-grain, noise, blurry, muddy, HUD text blocks, SIGNAL INTERRUPTED typography, terminal UI, numbers, 50, ORDER DEMANDS CONTROL, crystal fragment, purple, busy collage, crowd of logos, readable posters, watermark
+successful heroic pose, calm standing around, intact strong signal beam, crystal gem fragment, purple, grain, noise, blurry, HUD text, captions, terminal UI, propaganda slogan text, crown as giant center logo, watermark
 ```
+
+## If it still ignores the failure
+
+Add this line at the end:
+`The image must read as a failed recovery: the Hunters do not have the Fragment; the Signal is broken; Crown patrol is closing in from below.`
