@@ -3,36 +3,68 @@
 ## Live story position
 
 - Fragment **001 + 002** stored  
-- Fragment **003** Signal interrupted  
-- Mission: **50 verified Hunters** to recover / retune the Signal  
-- Open to **new + returning**  
+- Fragment **003** Signal interrupted / retune mission (50) active or in progress  
 - Crown crumb Terminal-only: **"ORDER DEMANDS CONTROL."**  
-- Soft **Hunter Standing** (no public scoreboard)
+- Soft Hunter Standing  
+- ~1 week from launch (date still soft)  
 
-Last published: **Post 013**
+Last published: check X; Post 013 confirmed earlier; interrupted/50 package may already be live  
 
 ---
 
-## 1) Account post (ship after Terminal update)
+## TODAY — one chill post (no Terminal update)
+
+**Job:** keep presence late-day, light lore, reply engagement, soft “hunt shortening” without mint spam.
 
 ```text
-...SIGNAL INTERRUPTED.
+...ARCHIVE NOTE.
 
-Fragment 003 went dark mid-trace.
+Fragments are remnants of the Chain.
+Alone they reveal little.
+Together they reveal the truth.
 
-Something else is on the frequency.
+003 is still being retuned.
+The hunt is getting shorter.
 
-50 verified Hunters can recover the Signal.
-Authorized or not, enter the Terminal to reconnect.
-
-http://HoodLynx.xyz
+Reply if you're still on the network.
 
 FOLLOW THE SIGNAL.
 ```
 
+### Why this works
+
+- No Terminal credit spend  
+- Reuses real Archive Entry 002 lore (already public)  
+- Fresh framing, not another mission ask  
+- Reply hook for engagement  
+- Soft launch-week pressure without a date  
+
+### Alt (only if Terminal intercept crumb is already live for reconnectors)
+
+```text
+...ARCHIVE NOTE.
+
+Hunters who reconnected didn't just join a queue.
+
+An intercept came through with the Signal.
+If you saw it, reply with the phrase.
+
+003 is still being retuned.
+
+FOLLOW THE SIGNAL.
+```
+
+That one farms Crown theories without naming them.
+
 ---
 
-## 2) Terminal — opening screen
+## Terminal (unchanged tonight)
+
+Do not update unless the 50 mission state actually changed.
+
+Opening / new / returning / closed copy still filed below if needed later.
+
+### Opening (reference)
 
 ```text
 // HOODLYNX ARCHIVE TERMINAL
@@ -57,9 +89,7 @@ EVM WALLET (0x...)
 ▸ RECONNECT
 ```
 
----
-
-## 3) After submit — NEW users
+### After submit — NEW
 
 ```text
 ...RECONNECT SIGNAL SENT
@@ -78,9 +108,7 @@ REPEAT SIGNALS INCREASE STANDING.
 FOLLOW THE SIGNAL.
 ```
 
----
-
-## 4) After submit — RETURNING / old users
+### After submit — RETURNING
 
 ```text
 ...RECONNECT SIGNAL SENT
@@ -99,89 +127,10 @@ IDENTITY QUEUED FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-*(If someone is clearly core/trusted later, you can privately treat them as TRUSTED — no need to show a higher public tier yet.)*
-
 ---
 
-## 5) When 50 is hit — Terminal closed state
+## Rules
 
-Swap mission block only:
-
-```text
-// HOODLYNX ARCHIVE TERMINAL
-STATUS: ONLINE
-ARCHIVE: 001 + 002 STORED
-----------------------------------------
-TARGET: FRAGMENT 003
-STATUS: SIGNAL RECOVERING
-SOURCE: UNKNOWN
-----------------------------------------
-RECOVERY MISSION: COMPLETE
-VERIFIED HUNTERS: SECURED
-AUTHORIZATION WINDOW: CLOSED
-Stand by for the next transmission.
-----------------------------------------
-LATE ARRIVALS:
-Signal already locked.
-Remain on the network.
-FOLLOW THE SIGNAL.
-```
-
-Optional late-submit output (if form still open briefly):
-
-```text
-...SIGNAL RECEIVED TOO LATE
-RECOVERY MISSION: COMPLETE
-IDENTITY LOGGED FOR FUTURE STANDING.
-STAND BY.
-FOLLOW THE SIGNAL.
-```
-
----
-
-## 6) Account post — after 50 secured
-
-```text
-...SIGNAL RECOVERING.
-
-50 verified Hunters locked the retune.
-
-Fragment 003 is coming back online.
-Authorization for this mission is closed.
-
-Stay sharp.
-More transmits soon.
-
-http://HoodLynx.xyz
-
-FOLLOW THE SIGNAL.
-```
-
-Alt if people keep trying to enter:
-
-```text
-...AUTHORIZATION WINDOW CLOSED.
-
-The 50 are secured.
-Late Signals are logged for standing.
-Not this mission.
-
-Fragment 003 recovery is underway.
-
-FOLLOW THE SIGNAL.
-http://HoodLynx.xyz
-```
-
----
-
-## Ops reminder
-
-- 50 = mission cap you’ll actually select (new + returning pool)  
-- Standing helps you choose; not automatic multi-mint  
-- Don’t publish a live 12/50 counter unless you want the pressure / bot race  
-- Crown still unnamed in public posts  
-
-## After this ships
-
-1. Save post as `posts/014-...md` (and 015 for closeout)  
-2. Update this file’s live position  
+- No `--` / em dashes in public posts  
+- One new beat per post  
+- No Terminal update unless state truly changed  
