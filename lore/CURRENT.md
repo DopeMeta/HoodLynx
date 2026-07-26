@@ -23,8 +23,7 @@ Fragment 003 went dark mid-trace.
 Something else is on the frequency.
 
 50 verified Hunters can recover the Signal.
-Enter the Terminal to reconnect.
-New or returning.
+Authorized or not, enter the Terminal to reconnect.
 
 http://HoodLynx.xyz
 
