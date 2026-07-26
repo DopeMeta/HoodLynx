@@ -16,27 +16,28 @@
 **Job:** move lore forward. Retune paid off. Name Crown. Shift to reclaim.
 
 ```text
-...ARCHIVE UPDATE.
+...FRAGMENT 003 // STATUS UNKNOWN
 
-We know who intercepted Fragment 003.
+Not lost.
+Claimed.
 
-It was The Crown.
-Order demands control. That was their Signal.
+Intercept residue points to The Crown.
+They don't hunt. They take.
+Their creed is already in the Archive.
 
-We are done waiting.
-We are going to take it back.
+Order demands control.
 
-Reply CROWN SIGHTED if you're in.
+Who else heard it?
 
 FOLLOW THE SIGNAL.
 ```
 
 ### What this advances
 
-- Enemy identified: **The Crown**  
-- Fragment 003 status clear: intercepted / taken  
-- Creed revealed publicly  
-- Next mission framing: reclaim
+- Fragment 003: claimed, not randomly gone  
+- Crown named through discovery tone, not a press release  
+- Creed lands as found intel  
+- Reply ask without sounding like a raid call
 
 ---
 
