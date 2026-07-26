@@ -28,11 +28,12 @@ Total supply: **4663**
 
 - Early goal: 100 identities → first Fragment surfaces
 - Reply phrase: **SIGNAL RECEIVED**
-- After Fragment 002: emphasize **new / unidentified** identities
-- Existing Hunters already counted as having answered the Signal
-- GTD list = Authorized Hunter Access (handle + wallet from Terminal, plus engaged commenters reviewed manually)
+- Missions can recruit new people **without locking out veterans**
+- Wallet submit = play / verification pool for that mission (not “new only forever”)
+- You choose who from the pool counts toward Authorized Hunter Access (filter bots/alts; include actives)
+- GTD list grows from Terminal + manual review + collabs
 - X chat: **Hood Lynx Hunters** for active engagers
-- **No public running totals** of authorized Hunters (bots, alts, collab WL balance)
+- **No public running totals** of authorized Hunters
 - Numbers only for a **new verified mission cap** you will actually fulfill
 
 ## Community

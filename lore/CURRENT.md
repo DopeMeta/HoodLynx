@@ -7,13 +7,26 @@ Only file needed for most sessions. Everything else is reference.
 - Fragment **001 + 002** decrypted / stored in Archive  
 - Fragment **003** Signal interrupted mid-trace  
 - Unknown interceptor (Crown not named publicly yet)  
-- Tonight Post 2 package ready: 30 verified Hunters to retune  
+- Crown creed (Terminal-only crumb): **"ORDER DEMANDS CONTROL."**  
+- Tonight Post 2: 30 verified Hunters to retune — **open to returning + new**
 
 Last published: **Post 013** — Signal strength increasing / 003 surfacing / more tonight  
 
-## Stable Terminal skeleton (easy to edit)
+## Who can play (important)
 
-Keep this shape. Swap only the middle status lines when the story moves.
+| Question | Answer |
+|----------|--------|
+| Only brand-new people? | **No.** |
+| Every mission new-only? | **No.** |
+| What is the wallet submit? | Interaction + verification pool for this mission |
+| Who gets the 30? | You pick ~30 **verified** from everyone who reconnects (veterans + new), filtering bots/alts |
+| Do veterans still get story? | **Yes** — anyone who reconnects sees the Terminal intercept crumb |
+
+Public copy should invite the **network**, not lock out existing Hunters.
+
+Yesterday’s “unidentified only” was a recruitment beat — do **not** keep that as a permanent rule.
+
+## Stable Terminal skeleton
 
 ```text
 // HOODLYNX ARCHIVE TERMINAL
@@ -26,8 +39,9 @@ SOURCE: UNKNOWN
 ----------------------------------------
 RETUNE MISSION: ACTIVE
 VERIFIED HUNTERS NEEDED: 30
-ELIGIBLE: UNIDENTIFIED IDENTITIES
+ELIGIBLE: ACTIVE NETWORK IDENTITIES
 ACCESS: AUTHORIZED HUNTER ACCESS
+Returning and new Hunters may reconnect.
 ----------------------------------------
 AWAITING IDENTIFICATION...
 @
@@ -54,7 +68,9 @@ STAND BY FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-**Next Terminal tweak after this mission:** change `STATUS` / mission block only (e.g. `RETUNE COMPLETE` or `TRACE RESTORED`) — don’t rewrite the whole screen.
+**Yes — that phrase is The Crown’s saying.** Public post still does not name them; connectors discover the ideology first.
+
+**Next Terminal tweak after this mission:** change `STATUS` / mission block only.
 
 ## Tonight — Post 2 (ready)
 
@@ -66,7 +82,7 @@ Fragment 003 went dark mid-trace.
 Something else is on the frequency.
 
 We need 30 verified Hunters to retune the Signal.
-Enter the Terminal to reconnect.
+Enter the Terminal to reconnect — new or returning.
 
 http://HoodLynx.xyz
 
@@ -81,21 +97,16 @@ Ship order: update Terminal → then post.
 - No lifetime hunter tallies; numbers only for real mission caps  
 - Don’t name Crown in public until propaganda payoff  
 - One new beat per post  
+- Keep veterans able to play every mission  
 
-## Minimal files to open next time
+## Minimal files next time
 
-1. `CURRENT.md` (this)  
+1. `CURRENT.md`  
 2. `TERMS.md`  
-3. `posts/` only if checking exact past captions  
-4. `timeline/drafts/` only while a post is in progress  
-
-## Ignore unless needed
-
-`archive/` — raw mind maps, ChatGPT process notes, spent drafts, traits dump  
-Deep faction theology / Rose & Cross / Broken — later, not daily  
+3. `posts/` if checking exact past captions  
 
 ## After Post 2 ships
 
-1. Move tonight’s draft notes into `posts/014-...md`  
-2. Update this file’s “Live story position”  
-3. Clear or archive `timeline/drafts/today-post-2-LOCKED.md`  
+1. Save as `posts/014-...md`  
+2. Update live position here  
+3. Archive the draft pointer  
