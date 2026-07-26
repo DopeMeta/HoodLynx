@@ -12,49 +12,48 @@ Last published: check X; Post 013 confirmed earlier; interrupted/50 package may 
 
 ---
 
-## TODAY — one chill post (no Terminal update)
+## TODAY — one post (no Terminal update)
 
-**Job:** keep presence late-day, light lore, reply engagement, soft “hunt shortening” without mint spam.
+**Job:** late-day engagement, name Fragment 003, hint Crown without full reveal, reply hook.
 
 ```text
 ...ARCHIVE NOTE.
 
-Fragments are remnants of the Chain.
-Alone they reveal little.
-Together they reveal the truth.
+Fragment 003 remains interrupted.
+Someone else is still on the frequency.
 
-003 is still being retuned.
-The hunt is getting shorter.
+Hunters who reconnected pulled an intercept.
+A gold seal. A central authority.
+A phrase about order and control.
 
-Reply if you're still on the network.
+Reply if you caught it.
 
 FOLLOW THE SIGNAL.
 ```
 
-### Why this works
+### Why this one
 
+- More engaging than pure Archive lore recap  
+- Says **Fragment 003** clearly  
+- Crown hinted (gold seal / central authority / order + control) without naming them yet  
+- Reply ask creates FOMO + theories  
 - No Terminal credit spend  
-- Reuses real Archive Entry 002 lore (already public)  
-- Fresh framing, not another mission ask  
-- Reply hook for engagement  
-- Soft launch-week pressure without a date  
 
-### Alt (only if Terminal intercept crumb is already live for reconnectors)
+### Louder alt (if you want the exact phrase public)
 
 ```text
 ...ARCHIVE NOTE.
 
-Hunters who reconnected didn't just join a queue.
+Fragment 003 remains interrupted.
 
-An intercept came through with the Signal.
-If you saw it, reply with the phrase.
+Reconnectors recovered more than a queue slot.
+Central authority. Gold seal.
+Order demands control.
 
-003 is still being retuned.
+If that hit your Terminal, reply with the phrase.
 
 FOLLOW THE SIGNAL.
 ```
-
-That one farms Crown theories without naming them.
 
 ---
 
