@@ -19,41 +19,23 @@ Last published: check X; Post 013 confirmed earlier; interrupted/50 package may 
 ```text
 ...ARCHIVE NOTE.
 
-Fragment 003 remains interrupted.
-Someone else is still on the frequency.
+Fragment 003 has not been recovered.
+Someone cut the Signal mid-hunt.
 
-Hunters who reconnected pulled an intercept.
+Hunters reconnecting the Terminal caught part of their transmission.
 A gold seal. A central authority.
 A phrase about order and control.
 
-Reply if you caught it.
+Reply if you saw it.
 
 FOLLOW THE SIGNAL.
 ```
 
-### Why this one
+### Status this implies
 
-- More engaging than pure Archive lore recap  
-- Says **Fragment 003** clearly  
-- Crown hinted (gold seal / central authority / order + control) without naming them yet  
-- Reply ask creates FOMO + theories  
-- No Terminal credit spend  
-
-### Louder alt (if you want the exact phrase public)
-
-```text
-...ARCHIVE NOTE.
-
-Fragment 003 remains interrupted.
-
-Reconnectors recovered more than a queue slot.
-Central authority. Gold seal.
-Order demands control.
-
-If that hit your Terminal, reply with the phrase.
-
-FOLLOW THE SIGNAL.
-```
+- We did **not** get Fragment 003 back yet  
+- Signal was cut / taken mid-hunt  
+- Reconnectors only caught a scrap of the other side’s transmission (Crown hint)
 
 ---
 
