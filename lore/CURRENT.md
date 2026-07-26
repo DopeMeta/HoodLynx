@@ -18,12 +18,12 @@
 ```text
 ...ARCHIVE UPDATE.
 
-The retune worked far enough to identify the cut.
+We know who intercepted Fragment 003.
 
-Fragment 003 was taken by The Crown.
+It was The Crown.
 Order demands control. That was their Signal.
 
-We are not retuning anymore.
+We are done waiting.
 We are going to take it back.
 
 Reply CROWN SIGHTED if you're in.
@@ -33,10 +33,10 @@ FOLLOW THE SIGNAL.
 
 ### What this advances
 
-- Retune was not wasted: it identified the enemy  
-- Fragment 003 status clear: **taken by The Crown**  
+- Enemy identified: **The Crown**  
+- Fragment 003 status clear: intercepted / taken  
 - Creed revealed publicly  
-- Next mission framing: reclaim, not wait around
+- Next mission framing: reclaim
 
 ---
 
