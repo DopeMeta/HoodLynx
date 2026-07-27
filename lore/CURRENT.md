@@ -23,21 +23,22 @@ Claimed.
 
 Intercept residue points to The Crown.
 They don't hunt. They take.
-Their creed is already in the Archive.
 
 Order demands control.
 
-Who else heard it?
+Reconnect at the Terminal.
+Reply if you caught the creed.
 
+http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
 ### What this advances
 
 - Fragment 003: claimed, not randomly gone  
-- Crown named through discovery tone, not a press release  
+- Crown named through discovery tone  
 - Creed lands as found intel  
-- Reply ask without sounding like a raid call
+- Dual action: Terminal reconnect + reply
 
 ---
 
