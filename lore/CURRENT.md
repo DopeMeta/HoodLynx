@@ -24,13 +24,16 @@ Do **not** reuse `THE CHAIN BELONGS TO EVERYONE` today.
 ```text
 ...FRAGMENT 003 // RECLAIMED
 
-Hunters got it back from The Crown.
-Seekers are deciphering it now.
+Not lost.
+Not Crown property.
 
-Your reconnections raise Hunter Standing.
+Archive has it.
+Seekers are on the decipher.
 
-Terminal is open.
-Reply RECLAIMED if you helped pull it back.
+Standing rises with every reconnect.
+Terminal open.
+
+Reply RECLAIMED.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
