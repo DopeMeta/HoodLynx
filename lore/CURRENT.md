@@ -27,7 +27,7 @@ They don't hunt. They take.
 Order demands control.
 
 Terminal still recruiting Hunters.
-Reply ORDER DEMANDS CONTROL if you heard it.
+Reply THE CHAIN BELONGS TO EVERYONE.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
