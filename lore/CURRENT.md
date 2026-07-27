@@ -24,14 +24,14 @@ Do **not** reuse `THE CHAIN BELONGS TO EVERYONE` today.
 ```text
 ...FRAGMENT 003 // RECLAIMED
 
-Not lost.
-Not Crown property.
+Hunters pulled it back from The Crown.
+Not lost. Not theirs.
 
-Archive has it.
-Seekers are on the decipher.
+Seekers have it in the Archive.
+Deciphering has begun.
 
 Standing rises with every reconnect.
-Terminal open.
+Terminal is open.
 
 Reply RECLAIMED.
 
