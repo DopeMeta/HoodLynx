@@ -23,12 +23,11 @@ Claimed.
 
 Intercept residue points to The Crown.
 They don't hunt. They take.
-Their creed is already in the Archive.
 
 Order demands control.
 
 Terminal still recruiting Hunters.
-Who else heard it?
+Reply ORDER DEMANDS CONTROL if you heard it.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
