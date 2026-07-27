@@ -4,46 +4,22 @@
 
 - Fragment **001 + 002** stored  
 - **The Crown** named; creed public  
-- Next beat: Hunters **reclaim** Fragment 003 → Seekers/Keepers begin decipher  
-- Soft Hunter Standing needs more public signal  
+- Monday beat: Hunters **reclaim** Fragment 003 → Seekers decipher  
+- Hunter Standing needs visible growth for repeat reconnects  
 - ~1 week from launch  
 
-## Fragment endgame (locked direction)
+## Fragment endgame
 
-Fragments are **not** glued back into the old Chain as a toy.
-
-Public path:
-1. Each Fragment → Archive Entry (a truth)  
-2. Together they reconstruct a **Map / Path**  
-3. Community thinks they’re rebuilding the Chain  
-4. Reveal: they rebuilt the Map  
-5. Map leads to **Activation** (mint on Gravemint)  
-
-So yes: they “go back together,” but as a **Map**, not a restored Chain.
-
-### What Fragment 003 should reveal (recommended)
-
-After Seekers decipher it, **ARCHIVE ENTRY 003**:
-
+Fragments rebuild a **Path / Map** → Activation (mint), not the old Chain.  
+Entry 003 (next payoff):  
 > THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
 > TOGETHER THEY REBUILD THE PATH.
 
-Why this one:
-- Advances lore hard  
-- Explains why Crown steals them (control the Path)  
-- Sets launch week without dumping the mint URL yet  
-- Next posts can turn “Path” into Activation / Gravemint  
-
-Alt softer 003 if you want slower:
-> THE CROWN DOES NOT PROTECT THE CHAIN.  
-> IT CONTROLS THE PATH TO WHAT COMES NEXT.
-
 ---
 
-## MONDAY — recommended post
+## MONDAY POST (evolving reply)
 
-Reclaim success + Seekers start decipher + Standing hint.  
-No full Entry 003 yet (save that for the decipher payoff post).
+Do **not** reuse `THE CHAIN BELONGS TO EVERYONE` today.
 
 ```text
 ...FRAGMENT 003 // RECLAIMED
@@ -54,30 +30,87 @@ Seekers are deciphering it now.
 Your reconnections raise Hunter Standing.
 
 Terminal is open.
-Reply THE CHAIN BELONGS TO EVERYONE.
+Reply RECLAIMED if you helped pull it back.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### Optional Terminal tweak (only if worth credits)
+Reply phrase evolves with the beat. Next time use a new one tied to Entry 003 / Path.
+
+---
+
+## YES — update returning Terminal output
+
+Repeat people should feel progression. Keep new-user line lower; returning shows growth.
+
+### After submit — NEW
 
 ```text
-TARGET: FRAGMENT 003
-STATUS: RECLAIMED
-ARCHIVE: DECIPHERING
-HUNTER STANDING: ACTIVE TRACKING
-RECRUITMENT: OPEN
+...RECONNECT SIGNAL SENT
+...WALLET LOCKED TO IDENTITY
+HUNTER STANDING: SIGNAL DETECTED
+----------------------------------------
+FRAGMENT 003: RECLAIMED
+ARCHIVE: DECIPHERING WITH SEEKERS
+----------------------------------------
+IDENTITY QUEUED FOR VERIFICATION.
+REPEAT SIGNALS INCREASE STANDING.
+FOLLOW THE SIGNAL.
 ```
 
-### Next post after this (soon)
+### After submit — RETURNING
 
-Drop **ARCHIVE ENTRY 003** (Path reveal) once decipher “finishes.”
+```text
+...RECONNECT SIGNAL SENT
+...RETURNING IDENTITY RECOGNIZED
+HUNTER STANDING: RISING
+----------------------------------------
+PRIOR RECONNECTIONS COUNTED.
+YOUR SIGNAL CARRIES MORE WEIGHT.
+----------------------------------------
+FRAGMENT 003: RECLAIMED
+ARCHIVE: DECIPHERING WITH SEEKERS
+----------------------------------------
+STAND BY FOR VERIFICATION.
+FOLLOW THE SIGNAL.
+```
+
+### Optional later tier (trusted regulars only)
+
+```text
+HUNTER STANDING: TRUSTED
+NETWORK PRIORITY: INCREASED
+```
+
+### Opening screen (if you update Terminal today)
+
+```text
+// HOODLYNX ARCHIVE TERMINAL
+STATUS: ONLINE
+ARCHIVE: 001 + 002 STORED
+----------------------------------------
+TARGET: FRAGMENT 003
+STATUS: RECLAIMED
+SEEKERS: DECIPHERING
+----------------------------------------
+HUNTER STANDING: ACTIVE TRACKING
+RECRUITMENT: OPEN
+Authorized or not may reconnect.
+----------------------------------------
+AWAITING IDENTIFICATION...
+@
+ENTER X HANDLE
+Ξ
+EVM WALLET (0x...)
+▸ RECONNECT
+```
 
 ---
 
 ## Rules
 
-- No em dashes in public posts  
-- Seekers = knowledge/decipher side (Keepers in deeper canon)  
-- Standing = soft, no public score number  
+- New reply phrase each major beat  
+- Returning Terminal copy should show Standing growth  
+- No em dashes in posts  
+- No public standing numbers  
