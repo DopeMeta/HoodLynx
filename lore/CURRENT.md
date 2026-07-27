@@ -29,9 +29,29 @@ FRAGMENT 003 // STATUS: RECLAIMED
 Hunter retrieve mission: successful
 Seekers: decrypting in progress
 
-Secure in the Archive. Seekers are on the Signal. Reconnects raise Standing. Terminal open.
+Reconnecting raises Hunter Standing.
+Terminal open for new Hunters.
 
-Reply RECLAIMED
+Reply FRAGMENT RECLAIMED if you assisted.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+If you can post longer than 280:
+
+```text
+...INCOMING TRANSMISSION
+
+FRAGMENT 003 // STATUS: RECLAIMED
+
+Hunter retrieve mission: successful
+Seekers: decrypting in progress
+
+Reconnecting to the Terminal raises Hunter Standing.
+Terminal remains open for new Hunters to be authorized.
+
+Reply FRAGMENT RECLAIMED if you assisted in the recovery.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
