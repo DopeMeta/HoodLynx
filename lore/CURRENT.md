@@ -16,18 +16,17 @@
 **Job:** move lore forward. Retune paid off. Name Crown. Shift to reclaim.
 
 ```text
-...FRAGMENT 003 // STATUS UNKNOWN
+...ALERT // FRAGMENT 003
 
-Not lost.
-Claimed.
+Stolen.
+Not lost. Stolen.
 
-Intercept residue points to The Crown.
+The Crown overwrote the Signal.
 They don't hunt. They take.
-
 Order demands control.
 
-Reconnect at the Terminal.
-Reply if you caught the creed.
+Terminal is live. Reconnect now.
+Reply CROWN if you heard the creed.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
