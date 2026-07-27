@@ -3,118 +3,81 @@
 ## Live story position
 
 - Fragment **001 + 002** stored  
-- Fragment **003** taken mid-hunt; retune identified the cutter  
-- **The Crown** now named publicly (creed: order demands control)  
-- Next arc: **reclaim** Fragment 003 (not just retune)  
-- Soft Hunter Standing  
-- ~1 week from launch (date still soft)  
+- **The Crown** named; creed public  
+- Next beat: Hunters **reclaim** Fragment 003 → Seekers/Keepers begin decipher  
+- Soft Hunter Standing needs more public signal  
+- ~1 week from launch  
+
+## Fragment endgame (locked direction)
+
+Fragments are **not** glued back into the old Chain as a toy.
+
+Public path:
+1. Each Fragment → Archive Entry (a truth)  
+2. Together they reconstruct a **Map / Path**  
+3. Community thinks they’re rebuilding the Chain  
+4. Reveal: they rebuilt the Map  
+5. Map leads to **Activation** (mint on Gravemint)  
+
+So yes: they “go back together,” but as a **Map**, not a restored Chain.
+
+### What Fragment 003 should reveal (recommended)
+
+After Seekers decipher it, **ARCHIVE ENTRY 003**:
+
+> THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
+> TOGETHER THEY REBUILD THE PATH.
+
+Why this one:
+- Advances lore hard  
+- Explains why Crown steals them (control the Path)  
+- Sets launch week without dumping the mint URL yet  
+- Next posts can turn “Path” into Activation / Gravemint  
+
+Alt softer 003 if you want slower:
+> THE CROWN DOES NOT PROTECT THE CHAIN.  
+> IT CONTROLS THE PATH TO WHAT COMES NEXT.
 
 ---
 
-## TODAY — one post (no Terminal update)
+## MONDAY — recommended post
 
-**Job:** move lore forward. Retune paid off. Name Crown. Shift to reclaim.
+Reclaim success + Seekers start decipher + Standing hint.  
+No full Entry 003 yet (save that for the decipher payoff post).
 
 ```text
-...FRAGMENT 003 // STATUS UNKNOWN
+...FRAGMENT 003 // RECLAIMED
 
-Not lost.
-Claimed.
+Hunters got it back from The Crown.
+Seekers are deciphering it now.
 
-Intercept residue points to The Crown.
-They don't hunt. They take.
+Your reconnections raise Hunter Standing.
 
-Order demands control.
-
-Terminal still recruiting Hunters.
+Terminal is open.
 Reply THE CHAIN BELONGS TO EVERYONE.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### What this advances
-
-- Back to discovery tone  
-- Crown + creed intact  
-- Terminal still recruiting (no state change needed)  
-- Reply ask for engagement
-
----
-
-## Terminal (unchanged tonight)
-
-Do not update unless the 50 mission state actually changed.
-
-Opening / new / returning / closed copy still filed below if needed later.
-
-### Opening (reference)
+### Optional Terminal tweak (only if worth credits)
 
 ```text
-// HOODLYNX ARCHIVE TERMINAL
-STATUS: ONLINE
-ARCHIVE: 001 + 002 STORED
-----------------------------------------
 TARGET: FRAGMENT 003
-STATUS: SIGNAL INTERRUPTED
-SOURCE: UNKNOWN
-----------------------------------------
-RECOVERY MISSION: ACTIVE
-VERIFIED HUNTERS NEEDED: 50
-ELIGIBLE: ACTIVE NETWORK IDENTITIES
-Returning and new Hunters may reconnect.
-ACCESS: AUTHORIZED HUNTER ACCESS
-----------------------------------------
-AWAITING IDENTIFICATION...
-@
-ENTER X HANDLE
-Ξ
-EVM WALLET (0x...)
-▸ RECONNECT
+STATUS: RECLAIMED
+ARCHIVE: DECIPHERING
+HUNTER STANDING: ACTIVE TRACKING
+RECRUITMENT: OPEN
 ```
 
-### After submit — NEW
+### Next post after this (soon)
 
-```text
-...RECONNECT SIGNAL SENT
-...WALLET LOCKED TO IDENTITY
-HUNTER STANDING: SIGNAL DETECTED
-----------------------------------------
-INTERCEPT LOG // PARTIAL
-SIGNATURE: CENTRAL AUTHORITY
-MARK: GOLD ORDER SEAL
-PHRASE RECOVERED:
-"ORDER DEMANDS CONTROL."
-----------------------------------------
-IDENTITY QUEUED FOR VERIFICATION.
-REPEAT SIGNALS INCREASE STANDING.
-...RETUNING TRACE
-FOLLOW THE SIGNAL.
-```
-
-### After submit — RETURNING
-
-```text
-...RECONNECT SIGNAL SENT
-...RETURNING IDENTITY RECOGNIZED
-HUNTER STANDING: LINKED
-----------------------------------------
-INTERCEPT LOG // PARTIAL
-SIGNATURE: CENTRAL AUTHORITY
-MARK: GOLD ORDER SEAL
-PHRASE RECOVERED:
-"ORDER DEMANDS CONTROL."
-----------------------------------------
-PRIOR SIGNALS WEIGHTED.
-IDENTITY QUEUED FOR VERIFICATION.
-...RETUNING TRACE
-FOLLOW THE SIGNAL.
-```
+Drop **ARCHIVE ENTRY 003** (Path reveal) once decipher “finishes.”
 
 ---
 
 ## Rules
 
-- No `--` / em dashes in public posts  
-- One new beat per post  
-- No Terminal update unless state truly changed  
+- No em dashes in public posts  
+- Seekers = knowledge/decipher side (Keepers in deeper canon)  
+- Standing = soft, no public score number  
