@@ -22,38 +22,17 @@ Entry 003 (next payoff):
 Do **not** reuse `THE CHAIN BELONGS TO EVERYONE` today.
 
 ```text
-...INCOMING TRANSMISSION
-
 FRAGMENT 003 // STATUS: RECLAIMED
 
-Hunter retrieve mission: successful
-Seekers: decrypting in progress
+Hunter retrieve mission: Successful
+Seekers: Fragment decryption in progress
 
-Reconnecting raises Hunter Standing.
 Terminal open for new Hunters.
+Reconnecting raises Hunter Standing.
 
-Reply FRAGMENT RECLAIMED if you assisted.
+Reply FRAGMENT RECLAIMED if you helped recover it.
 
-http://HoodLynx.xyz
-FOLLOW THE SIGNAL.
-```
-
-If you can post longer than 280:
-
-```text
-...INCOMING TRANSMISSION
-
-FRAGMENT 003 // STATUS: RECLAIMED
-
-Hunter retrieve mission: successful
-Seekers: decrypting in progress
-
-Reconnecting to the Terminal raises Hunter Standing.
-Terminal remains open for new Hunters to be authorized.
-
-Reply FRAGMENT RECLAIMED if you assisted in the recovery.
-
-http://HoodLynx.xyz
+HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
