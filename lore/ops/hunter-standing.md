@@ -44,20 +44,18 @@ Signals that lower / block:
 
 ## How to show it in Terminal (without overbuilding)
 
-### Option A — simplest (recommended for tonight)
+### Option A — simplest (recommended)
 
 Same screen for everyone on entry.  
-After submit, add one standing line you can later make dynamic:
+After submit, branch if possible:
 
-```text
-...RECONNECT SIGNAL SENT
-...WALLET LOCKED TO IDENTITY
-HUNTER STANDING: UNDER REVIEW
-```
-
-Later, if your Terminal tool can branch by returning wallet/handle:
 - first time → `HUNTER STANDING: SIGNAL DETECTED`
-- returning → `HUNTER STANDING: LINKED` or `TRUSTED`
+- returning → `HUNTER STANDING: RISING` + `PRIOR RECONNECTIONS COUNTED.`
+- trusted regulars (manual) → `HUNTER STANDING: TRUSTED`
+
+### Live Monday copy
+
+See `CURRENT.md` for new vs returning after-submit blocks tied to Fragment 003 reclaim.
 
 ### Option B — static story tease (no backend needed)
 
