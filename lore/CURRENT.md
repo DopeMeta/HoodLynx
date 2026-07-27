@@ -16,17 +16,19 @@
 **Job:** move lore forward. Retune paid off. Name Crown. Shift to reclaim.
 
 ```text
-...ALERT // FRAGMENT 003
+...FRAGMENT 003 // STATUS UNKNOWN
 
-Stolen.
-Not lost. Stolen.
+Not lost.
+Claimed.
 
-The Crown overwrote the Signal.
+Intercept residue points to The Crown.
 They don't hunt. They take.
+Their creed is already in the Archive.
+
 Order demands control.
 
-Terminal is live. Reconnect now.
-Reply CROWN if you heard the creed.
+Terminal still recruiting Hunters.
+Who else heard it?
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
@@ -34,10 +36,10 @@ FOLLOW THE SIGNAL.
 
 ### What this advances
 
-- Fragment 003: claimed, not randomly gone  
-- Crown named through discovery tone  
-- Creed lands as found intel  
-- Dual action: Terminal reconnect + reply
+- Back to discovery tone  
+- Crown + creed intact  
+- Terminal still recruiting (no state change needed)  
+- Reply ask for engagement
 
 ---
 
