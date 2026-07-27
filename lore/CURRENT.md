@@ -22,18 +22,18 @@ Entry 003 (next payoff):
 Do **not** reuse `THE CHAIN BELONGS TO EVERYONE` today.
 
 ```text
-...FRAGMENT 003 // RECLAIMED
+...INCOMING TRANSMISSION
 
-Hunters pulled it back from The Crown.
-Not lost. Not theirs.
+FRAGMENT 003 // STATUS: RECLAIMED
 
-Seekers have it in the Archive.
-Deciphering has begun.
+Hunter retrieve mission: successful
+Seekers: decrypting in progress
 
-Standing rises with every reconnect.
-Terminal is open.
+Hunter Standing: tracking
+Reconnects raise Standing
 
-Reply RECLAIMED.
+Terminal: open
+Reply RECLAIMED
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
