@@ -1,43 +1,23 @@
 # CURRENT — load this first
 
-Only file needed for most sessions. Everything else is reference.
+## Live position
 
-## Live story position
+- Through **016**: 003 RECLAIMED, Seekers decrypting, Crown named  
+- **Today Tue:** 2-post day — Path payoff now, glitchy new Fragment tonight  
+- **Tomorrow AM:** Corrupted Fragment = **The Broken**; ARG unlocks mint **date** for players who’ve been hunting  
+- Mint mixes Hunters · Seekers · Crown · Broken (~30%)
 
-**Confirmed (through post 016):**
-- 001 + 002 stored · 003 **RECLAIMED** · Seekers decrypting
-- Crown named · Standing public · Seekers public
-
-**Mint reality (ops + story must match):**
-- Activation releases **mixed types**: Hunters · Seekers · Crown · **Broken (~30%)**
-- People should want all four — Broken needs an **epic** intro before mint details
-- If mint is slow, post-mint story continues (faction pressure / corruption / more Entries)
-
-Full ladder: [`timeline/wrap-arc-activation.md`](./timeline/wrap-arc-activation.md)
+Plan detail: [`timeline/drafts/tue-wed-dual-posts.md`](./timeline/drafts/tue-wed-dual-posts.md)  
+Full wrap: [`timeline/wrap-arc-activation.md`](./timeline/wrap-arc-activation.md)
 
 ## Epic meaning
 
-Fragments rebuild a **Path**, not the old Chain.  
-When the Path **Activates** on Gravemint, every force that touched the Fragments can take form on-chain — not only clean Hunters.  
-**4663** Activations lock the conflict so Crown can’t own it all and Broken can’t erase it all.
+Path not Chain → Activation opens Path on Gravemint → all four forces take form.  
+Long players get intel first via Terminal / Standing / Authorized.
 
-## Entry 003 (ready)
+---
 
-> THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
-> TOGETHER THEY REBUILD THE PATH.
-
-## Beat ladder (short)
-
-| Beat | Job |
-|------|-----|
-| **A — Today** | Entry 003 Path + corruption crack |
-| **B** | Epic **Broken** intro (must land before prices; sell the ~30%) |
-| **C** | Four forces Activate — desire for all mint types |
-| **D** | Authorized → **GTD** |
-| **E** | Mint details / Gravemint as Path terminus |
-| **F** | Launch — Path opens, all types live |
-
-## Draft — Beat A (today)
+## TODAY POST 1 — ship now (Entry 003 + Activation tease)
 
 ```text
 ...ARCHIVE ENTRY 003 RECOVERED.
@@ -45,35 +25,81 @@ When the Path **Activates** on Gravemint, every force that touched the Fragments
 THE FRAGMENTS DO NOT RESTORE THE CHAIN.
 TOGETHER THEY REBUILD THE PATH.
 
-Seekers confirmed the reading.
+Seekers finished the decrypt.
 001. 002. 003. Alignment locked.
 
-But the Archive is not clean.
-Corruption is eating one of the last Fragment signatures.
+The Path has a terminus.
+Activation is approaching.
 
-Something else is in the Signal.
-Not the Crown.
-
-Terminal open.
-Reply PATH FORMING if you're still hunting.
+Terminal open for Hunters still in the Signal.
+Reply PATH FORMING if you're ready.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-## Draft — Beat B direction (Broken epic)
+**Art:** Archive Entries 001–003; Path forming; Seeker + Hunters; terminus glow.  
+**Terminal:** ARCHIVE 001+002+003 · PATH FORMING · ACTIVATION APPROACHING  
+**Reply:** `PATH FORMING`
 
-Crown takes. Broken ruin.  
-They were us — Fragments broke them.  
-When Activation opens, the Broken come through the Path too.  
-Art must look like a faction people want to mint (skelly spectacle + dread).
+---
 
-## Mint copy note
+## TODAY POST 2 — tonight (glitchy new Fragment)
 
-Update `mint/about.md` after A–C: Activation ≠ “you are only a Hunter.”  
-Activation = the hunt takes form — all four types.
+```text
+...NEW SIGNAL DETECTED.
+
+Fragment signature: UNSTABLE.
+Transmission: GLITCHED.
+
+This one is not like the others.
+Something is wrong with the frequency.
+
+Hunters: trace it.
+Seekers: stand by for intake.
+
+Reply SIGNAL GLITCHED if you can still read this.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+**Art:** Stuttering Signal / cracked canister HUD UNSTABLE · GLITCHED.  
+**Reply:** `SIGNAL GLITCHED`  
+**Don’t name Broken yet** — dread only.
+
+---
+
+## TOMORROW AM — corrupted + Broken + ARG date seal
+
+```text
+...FRAGMENT INTAKE FAILED.
+
+Status: CORRUPTED.
+
+The Broken got there first.
+They don't reclaim. They ruin.
+
+Seekers can't finish a clean decrypt.
+Not without a clean key.
+
+Authorized Hunters: return to the Terminal.
+Your Standing may be enough to stabilize the reading.
+
+Solve the corruption.
+Activation intel is behind the seal.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+**Reward:** Terminal puzzle / Standing / Authorized path reveals **Activation date** before public dump.  
+Then later: public date → GTD confirm → full mint protocols.
+
+---
 
 ## Rules
 
-- Seekers stay Seekers · **The Broken** public name · no em dashes
-- New reply each beat · Broken before mint-morning · ARG > pure ad
+- 2 posts/day OK in wrap  
+- New reply every beat · no em dashes · Seekers stay Seekers  
+- Broken epic before prices · date via ARG beats a boring announce  

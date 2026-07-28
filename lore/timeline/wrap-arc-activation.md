@@ -72,48 +72,29 @@ Do **not** introduce Broken on mint morning only.
 
 ## Recommended beat ladder (flexible dates)
 
-### Beat A — Today (Tue): Path payoff + corruption crack
+### Beat A — Today Post 1: Path + Activation approaching
 
-Entry 003 Path (reclaim reward) + corruption eating one of the last Fragment signatures.
+Entry 003 Path (reclaim reward) + terminus / Activation tease. No prices/date.
 
-```text
-THE FRAGMENTS DO NOT RESTORE THE CHAIN.
-TOGETHER THEY REBUILD THE PATH.
-```
+### Beat A2 — Today Post 2 (tonight): Glitchy new Fragment
 
-Stinger: not Crown — something ruining a signature. Soft-name or full-name Broken within 24h.
+Unusual unstable Signal. Sets corruption. Do not name Broken yet.
 
-### Beat B — Epic Broken arrival
+### Beat B — Tomorrow AM: Corrupted + Broken + ARG mint date
 
-Name **The Broken**. Show them corrupting / emerging. Make them terrifying and cool.
+Broken ruined intake. Authorized / Standing / Terminal puzzle unlocks **Activation date** for long players. Public date follows after ARG breathes.
 
-Seed: Activation won’t only bring Hunters. The ruined are already in the Signal.
+### Beat C — Four forces / desire
 
-### Beat C — Four forces / Activation thesis
-
-Path terminus located. When it opens, **four remnant forces** Activate onto the Chain:
-
-Hunters · Seekers · Crown · Broken
-
-This is the “why mint different types” post. Desire engine before prices.
+When Path Activates, Hunters · Seekers · Crown · Broken (~30%) all take form. Sell all mint types.
 
 ### Beat D — Authorized = GTD
 
-Authorized Hunter Access → GTD at Activation. Terminal + reply. Earned WL beat.
-
-### Beat E — Mint details as Activation Protocols
-
-Phases / prices / Gravemint / supply 4663 — after people already want all four types.
-
-| Phase | Story name | Price |
-|-------|------------|-------|
-| GTD | Authorized Hunter Access | 0.003 ETH |
-| FCFS | Fragment Access | 0.004 ETH |
-| Public | Public Activation | 0.005 ETH |
+### Beat E — Full mint protocols (phases/prices/Gravemint)
 
 ### Beat F — Launch
 
-Path opens on Gravemint. All types live. Follow the Signal. Activate.
+Drafts for A / A2 / B: `drafts/tue-wed-dual-posts.md`
 
 ---
 
