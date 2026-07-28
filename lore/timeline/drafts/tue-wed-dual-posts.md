@@ -24,7 +24,7 @@ The Path leads somewhere.
 Activation is approaching.
 
 Terminal open for Hunters still in the Signal.
-Reply PATH FORMING if you're ready.
+Tag 3 people you want in the Activation.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
@@ -59,8 +59,8 @@ RECRUITMENT: OPEN
 AWAITING IDENTIFICATION...
 ```
 
-### Reply CTA
-`PATH FORMING`
+### CTA
+Tag 3 people you want in the Activation. (No reply phrase on Post 1.)
 
 ---
 
@@ -79,8 +79,7 @@ Transmission: GLITCHED.
 This one is not like the others.
 Something is wrong with the frequency.
 
-Hunters: trace it.
-Seekers: stand by for intake.
+Trace it before it vanishes.
 
 Reply SIGNAL GLITCHED if you can still read this.
 

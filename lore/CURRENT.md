@@ -32,7 +32,7 @@ The Path leads somewhere.
 Activation is approaching.
 
 Terminal open for Hunters still in the Signal.
-Reply PATH FORMING if you're ready.
+Tag 3 people you want in the Activation.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
@@ -40,7 +40,7 @@ FOLLOW THE SIGNAL.
 
 **Art:** Archive Entries 001–003; Path forming; Seeker + Hunters; distant Activation glow.  
 **Terminal:** ARCHIVE 001+002+003 · PATH FORMING · ACTIVATION APPROACHING  
-**Reply:** `PATH FORMING`
+**CTA:** Tag 3 friends for Activation (no reply phrase on this one)
 
 ---
 
@@ -55,8 +55,7 @@ Transmission: GLITCHED.
 This one is not like the others.
 Something is wrong with the frequency.
 
-Hunters: trace it.
-Seekers: stand by for intake.
+Trace it before it vanishes.
 
 Reply SIGNAL GLITCHED if you can still read this.
 
@@ -101,5 +100,6 @@ Then later: public date → GTD confirm → full mint protocols.
 ## Rules
 
 - 2 posts/day OK in wrap  
-- New reply every beat · no em dashes · Seekers stay Seekers  
+- Post 1 today: tag-3 CTA (not reply) · Post 2: reply `SIGNAL GLITCHED`  
+- No em dashes · Seekers stay Seekers  
 - Broken epic before prices · date via ARG beats a boring announce  
