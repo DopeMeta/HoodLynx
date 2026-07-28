@@ -1,13 +1,21 @@
 # Event Timeline (Public Story Summary)
 
-Track what actually released.  
-**Confirmed** = archived in `posts/`.  
-**Pending confirm** = drafted / likely shipped, waiting for owner paste of final post.
+Summarized story by event / Fragment era.  
+This is the **release tracker** — what actually went out, not brainstorming.
 
-When you send a live post, we:
-1. Add/update `posts/0xx-....md`
-2. Update this file
-3. Refresh `CURRENT.md`
+| Status | Meaning |
+|--------|---------|
+| **Confirmed** | Archived in `../posts/` with final caption |
+| **Pending confirm** | Drafted / likely shipped — waiting for Dope to paste final live text |
+| **Not released** | Planned; do not treat as public canon yet |
+
+## How we keep track
+
+When you send a live post (paste caption + image notes):
+1. Add `../posts/0xx-slug.md` and index it in `../posts/README.md`
+2. Update this file (status + summary bullets)
+3. Refresh `../CURRENT.md` live position
+4. If mint About / NFT description mention that beat, sync `../mint/`
 
 ---
 
@@ -51,7 +59,7 @@ THE SEVERING WAS NOT AN ACCIDENT. SOMEONE MADE THE CHOICE.
 
 **Status:** Confirmed (posts 010–012)
 
-- Fragment 002 located; limited auth window (20)
+- Fragment 002 located; limited auth window (20 Hunters)
 - Archive Entry 002 recovered
 - Capacity / new-identity recruitment beat
 
@@ -67,18 +75,19 @@ Together they reveal the truth.
 
 **Status:** Mixed
 
-| Beat | Status |
-|------|--------|
-| Signal strength increasing; 003 surfacing | Confirmed (post 013) |
-| Signal interrupted; 50 verified to recover | Pending confirm |
-| Crown named; creed “Order demands control.” | Pending confirm |
-| Fragment 003 reclaimed; Seekers decrypting | Pending confirm |
+| Beat | Status | Posts |
+|------|--------|-------|
+| Signal strength increasing; 003 surfacing | Confirmed | 013 |
+| Signal interrupted; 50 verified recover; authorized or not | Confirmed | 014 |
+| Crown creed in art: “ORDER DEMANDS CONTROL.” | Confirmed | 014 |
+| Fragment 003 claimed; **The Crown** named in caption | Confirmed | 015 |
+| Fragment 003 **RECLAIMED**; Seekers decrypting; Hunter Standing | Confirmed | 016 |
+| Archive Entry 003 (Path) | Not released | — |
 
-**Working summary (once confirmed):**
-- Fragment 003 Signal interrupted mid-hunt
-- Intercept points to **The Crown** (centralization / control)
-- Hunters reclaim 003; Seekers begin decryption
-- Hunter Standing rises with reconnections
+**Working summary:**
+- 003 interrupted (014) → claimed by Crown (015) → reclaimed by Hunters (016)
+- Seekers: decryption in progress
+- Hunter Standing rises on reconnect
 - Next lore payoff: Archive Entry 003 (Path / Map)
 
 **Planned Archive Entry 003 (not public until decipher post):**  
@@ -89,18 +98,38 @@ TOGETHER THEY REBUILD THE PATH.
 
 ## 5. Path → Activation (upcoming)
 
-**Status:** Not released
+**Status:** In progress (wrap arc)  
+**Plan:** `wrap-arc-activation.md`
 
-- Fragments assemble into a Map/Path (not the old Chain)
-- Map leads to Activation on Gravemint.io
-- Mint framed as joining the hunt / recognized Hunter
+- Entry 003: Fragments rebuild the **Path** (not the Chain)
+- **The Broken** corrupt one of the last Fragment signatures (introduce soon)
+- Meaning: Activation distributes the Path across 4663 Hunters (Crown can’t own / Broken can’t erase)
+- Authorized Hunter Access → GTD reveal
+- Mint details as Activation Protocols on Gravemint.io
+- Launch = Path opens
 
 ---
 
 ## Quick fragment index
 
-| Fragment | Public outcome | Entry |
-|----------|----------------|-------|
+| Fragment | Public outcome | Archive Entry |
+|----------|----------------|---------------|
 | 001 | Decrypted | Severing not an accident |
 | 002 | Recovered / stored | Remnants of the Chain |
-| 003 | Reclaim + decrypt in progress (pending confirm) | Path (planned) |
+| 003 | Reclaimed; Seekers decrypting | Path (planned Entry 003) |
+
+---
+
+## Release log (append-only)
+
+| Post | Event bucket | Confirmed |
+|------|--------------|-----------|
+| 001–004 | Signal Open / Early WL | Yes |
+| 005–007 | Terminal Challenge | Yes |
+| 008–009 | Fragment 001 | Yes |
+| 010–012 | Fragment 002 | Yes |
+| 013 | Fragment 003 open | Yes |
+| 014 | Signal interrupted / 50 recover | Yes |
+| 015 | Crown named / 003 claimed | Yes |
+| 016 | 003 reclaimed / Seekers decrypt | Yes |
+| 017+ | Entry 003 / Path / next beats | Awaiting paste |
