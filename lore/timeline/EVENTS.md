@@ -112,7 +112,7 @@ TOGETHER THEY REBUILD THE PATH.
 |----------|----------------|---------------|
 | 001 | Decrypted | Severing not an accident |
 | 002 | Recovered / stored | Remnants of the Chain |
-| 003 | Surfacing confirmed; reclaim + decrypt pending | Path (planned) |
+| 003 | Interrupted; recover mission live; reclaim pending | Path (planned) |
 
 ---
 
@@ -125,4 +125,5 @@ TOGETHER THEY REBUILD THE PATH.
 | 008–009 | Fragment 001 | Yes |
 | 010–012 | Fragment 002 | Yes |
 | 013 | Fragment 003 open | Yes |
-| 014+ | Fragment 003 / Crown / reclaim | Awaiting paste |
+| 014 | Signal interrupted / 50 recover | Yes |
+| 015+ | Crown name / reclaim / Seekers | Awaiting paste |
