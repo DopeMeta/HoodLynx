@@ -4,71 +4,75 @@ Only file needed for most sessions. Everything else is reference.
 
 ## Live story position
 
-**Confirmed public (through post 016):**
-- Fragment **001 + 002** stored in Archive
-- Fragment **003** **RECLAIMED** from The Crown
-- **Seekers:** decryption in progress
-- Terminal open for new Hunters; reconnecting raises **Hunter Standing**
-- Last published: **Post 016** — Reclaimed (July 27)
+**Confirmed (through post 016, Jul 27):**
+- 001 + 002 stored · 003 **RECLAIMED** from Crown · Seekers decrypting
+- Crown named · Hunter Standing public · Seekers public
 
-**Next lore payoff (not released):**
-- Archive Entry 003 → Path / Map (Fragments do not restore the Chain)
+**Today (Tue Jul 28) — wrap mode:**
+- Give decrypt payoff (more info than “still decrypting”)
+- Make 003 feel big (earned from Crown fight)
+- Introduce **Broken corruption** soon (not mint-morning)
+- Build toward epic **Activation** (Gravemint is the terminus, not the whole story)
+- Still need: Authorized = GTD reveal, mint details, ARG texture
 
-**Awaiting paste:** anything after July 27 (Entry 003 decrypt reveal, Broken intro, mint beats, etc.)
+Full ladder: [`timeline/wrap-arc-activation.md`](./timeline/wrap-arc-activation.md)
 
-See `timeline/EVENTS.md`.
+## Epic meaning (one paragraph)
 
-## Fragment endgame (planned)
+Fragments don’t restore the old Chain — together they rebuild a **Path**.  
+Activation (mint) scatters that Path across 4663 Hunters so **Crown can’t own it** and **Broken can’t erase it**.  
+Gravemint.io = where the Path opens.
 
-Fragments rebuild a **Path / Map** → Activation (mint), not the old Chain.  
-Entry 003 (ship when Seekers “finish” decryption):
+## Entry 003 (ready to ship)
+
 > THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
 > TOGETHER THEY REBUILD THE PATH.
 
----
+Pair with stinger: corruption detected on one of the last Fragment signatures / Archive integrity failing → leads into The Broken.
 
-## Mint page drafts (in progress)
+## Beat ladder (short)
 
-| File | Use |
+| Beat | Job |
 |------|-----|
-| `mint/about.md` | Gravemint About section |
-| `mint/nft-description.md` | Collection / NFT description |
+| **A — Today** | Entry 003 Path + corruption crack (ARG: Terminal / new reply) |
+| **B** | Name **The Broken** — they corrupt/ruin Fragments; Crown takes, Broken ruins |
+| **C** | Why Activation — Path only survives if many hold it |
+| **D** | Authorized Hunters → **GTD** (Terminal + reply) |
+| **E** | Mint details as Activation Protocols (phases / prices / Gravemint) |
+| **F** | Launch — Path opens / Activate |
 
-Crown + Seekers language is safe (both confirmed public). Path wording: wait for Entry 003 post before hard-locking mint About on Path.
+## Draft — Beat A (today, working)
 
----
+```text
+...ARCHIVE ENTRY 003 RECOVERED.
 
-## Next post direction (draft — not shipped)
+THE FRAGMENTS DO NOT RESTORE THE CHAIN.
+TOGETHER THEY REBUILD THE PATH.
 
-### Archive Entry 003 / Path reveal (when ready)
+Seekers confirmed the reading.
+001. 002. 003. Alignment locked.
 
-Keep short Absolute tone like prior Entries. Working text:
+But the Archive is not clean.
+Corruption is eating one of the last Fragment signatures.
 
-> THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
-> TOGETHER THEY REBUILD THE PATH.
+Something else is in the Signal.
+Not the Crown.
 
-Pair with Seekers finishing decryption + Activation / Gravemint foreshadow as needed.
+Terminal open.
+Reply PATH FORMING if you're still hunting.
 
----
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
 
-## Rules that matter right now
+*(Broken name can wait for Beat B within 24h — or swap the stinger line to “The Broken are in the Archive” if you want them named today.)*
 
-- Small vocab: Signal → Terminal → Fragment → Archive
-- **Seekers** (public ally name) · **The Crown** (named) · **Hunter Standing** (public, soft)
-- Evolve reply CTAs (FRAGMENT RECLAIMED just shipped — don’t reuse next)
-- No em dashes / `--` in public posts
-- The Broken intro soon — prefer **The Broken** as faction name
+## Mint page
 
-## Minimal files
+`mint/about.md` + `mint/nft-description.md` — update Path/Broken language after Beats A–B ship.
 
-1. `CURRENT.md` (this)
-2. `timeline/EVENTS.md`
-3. `posts/` for exact captions
-4. `mint/` for Gravemint copy
+## Rules
 
-## When you send a live post
-
-1. Archive under `posts/017+`
-2. Update `timeline/EVENTS.md`
-3. Refresh this file
-4. Touch `mint/` if needed
+- Seekers stay Seekers · Broken = public faction name · no em dashes
+- New reply each beat · numbers only when real (50, phases, 4663)
+- Gravemint always framed as Activation / Path terminus
