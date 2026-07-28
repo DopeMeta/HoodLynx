@@ -78,16 +78,16 @@ Together they reveal the truth.
 | Beat | Status | Posts |
 |------|--------|-------|
 | Signal strength increasing; 003 surfacing | Confirmed | 013 |
-| Signal interrupted; verified Hunter recover mission | Pending confirm | 014+ |
-| Crown named; creed “Order demands control.” | Pending confirm | 014+ |
-| Fragment 003 reclaimed; Seekers decrypting | Pending confirm | 014+ |
+| Signal interrupted; 50 verified recover; authorized or not | Confirmed | 014 |
+| Crown creed in art: “ORDER DEMANDS CONTROL.” (caption unnamed) | Confirmed via art | 014 |
+| Crown named in caption / Terminal intercept crumb | Pending confirm | 015+ |
+| Fragment 003 reclaimed; Seekers decrypting | Pending confirm | 015+ |
 
-**Working summary (locks after confirm):**
-- Fragment 003 Signal interrupted mid-hunt
-- Intercept points to **The Crown** (centralization / control)
-- Hunters reclaim 003; Seekers begin decryption
-- Hunter Standing rises with reconnections
-- Next lore payoff: Archive Entry 003 (Path / Map)
+**Working summary:**
+- Fragment 003 Signal interrupted mid-hunt (post 014)
+- Rival force shown under Crown propaganda in art
+- 50 verified Hunters; authorized or not may reconnect
+- Next: reclaim 003 → Seekers decrypt → Entry 003 (Path / Map)
 
 **Planned Archive Entry 003 (not public until decipher post):**  
 THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
