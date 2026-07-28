@@ -10,7 +10,8 @@ Usually change only:
 
 - `TARGET` / `STATUS`  
 - mission block (`RETUNE MISSION`, hunters needed, etc.)  
-- after-submit intercept crumb (optional exclusive info)
+- after-submit intercept crumb (optional exclusive info)  
+- after-submit `HUNTER STANDING` line (if/when dynamic)
 
 Do not rebuild the whole Terminal every post.
 
