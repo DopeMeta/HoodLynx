@@ -13,9 +13,10 @@ Keep the vocabulary small. If a word isn’t here, don’t invent a new system n
 | **Archive / HoodLynx Archive** | Where Fragment notes / recovered records are stored | Yes |
 | **Archive Entry** | A short truth recorded from a Fragment (001, 002…) | Yes — only for real entries |
 | **Hunter** | Person answering the Signal / recovering Fragments | Yes |
-| **Keeper** | Knowledge side — helps understand / decrypt (owl) | Lightly; don’t over-explain |
+| **Seeker** | Knowledge / decrypt side (owl) — Hunters recover, Seekers decrypt | Yes — named through post 016 |
 | **Authorized Hunter Access** | GTD whitelist / mint phase | Yes when giving access |
 | **Fragment Access** | FCFS whitelist / mint phase | Yes when relevant |
+| **Hunter Standing** | Soft progression for reconnects / Terminal identity | Yes — light; no public scoreboard |
 
 ## Opposition (introduce carefully)
 
@@ -29,8 +30,9 @@ Keep the vocabulary small. If a word isn’t here, don’t invent a new system n
 - **Recovery Log ###** — not used yet; don’t start at 003
 - Extra numbered systems (Site 03, File packs, etc.) unless they already exist in posts
 - **Link** as a lore object (collides with LYNX / LYNK)
-- **Seekers** (use Keepers if needed)
+- **Keeper** as a rename of Seekers (story already uses Seekers)
 - New mechanic names just for one caption
+- Public lifetime hunter tallies / Standing scoreboards
 
 ## Numbering rules
 

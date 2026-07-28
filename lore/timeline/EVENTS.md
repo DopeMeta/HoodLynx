@@ -81,13 +81,14 @@ Together they reveal the truth.
 | Signal interrupted; 50 verified recover; authorized or not | Confirmed | 014 |
 | Crown creed in art: “ORDER DEMANDS CONTROL.” | Confirmed | 014 |
 | Fragment 003 claimed; **The Crown** named in caption | Confirmed | 015 |
-| Fragment 003 reclaimed; Seekers decrypting | Pending confirm | 016+ |
+| Fragment 003 **RECLAIMED**; Seekers decrypting; Hunter Standing | Confirmed | 016 |
+| Archive Entry 003 (Path) | Not released | — |
 
 **Working summary:**
-- Fragment 003 Signal interrupted (014) → claimed by The Crown (015)
-- Crown: don’t hunt, they take; Order demands control
-- Hunter reply creed: The Chain belongs to everyone
-- Next: reclaim 003 → Seekers decrypt → Entry 003 (Path / Map)
+- 003 interrupted (014) → claimed by Crown (015) → reclaimed by Hunters (016)
+- Seekers: decryption in progress
+- Hunter Standing rises on reconnect
+- Next lore payoff: Archive Entry 003 (Path / Map)
 
 **Planned Archive Entry 003 (not public until decipher post):**  
 THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
@@ -112,7 +113,7 @@ TOGETHER THEY REBUILD THE PATH.
 |----------|----------------|---------------|
 | 001 | Decrypted | Severing not an accident |
 | 002 | Recovered / stored | Remnants of the Chain |
-| 003 | Claimed by The Crown; reclaim pending | Path (planned) |
+| 003 | Reclaimed; Seekers decrypting | Path (planned Entry 003) |
 
 ---
 
@@ -127,4 +128,5 @@ TOGETHER THEY REBUILD THE PATH.
 | 013 | Fragment 003 open | Yes |
 | 014 | Signal interrupted / 50 recover | Yes |
 | 015 | Crown named / 003 claimed | Yes |
-| 016+ | Reclaim / Seekers decrypt | Awaiting paste |
+| 016 | 003 reclaimed / Seekers decrypt | Yes |
+| 017+ | Entry 003 / Path / next beats | Awaiting paste |
