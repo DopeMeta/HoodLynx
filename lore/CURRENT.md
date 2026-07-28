@@ -4,19 +4,18 @@ Only file needed for most sessions. Everything else is reference.
 
 ## Live story position
 
-**Confirmed public (through post 014):**
+**Confirmed public (through post 015):**
 - Fragment **001 + 002** decrypted / stored in Archive
-- Fragment **003** surfaced, then **Signal interrupted** mid-trace
-- Mission: **50 verified Hunters** can recover the Signal
-- **Authorized or not** may enter Terminal to reconnect
-- Crown creed **ORDER DEMANDS CONTROL.** public in **art** (post 014); caption still does not name Crown
-- Last published: **Post 014** — Signal Interrupted (July 25, night 2)
+- Fragment **003** interrupted → **claimed** by **The Crown**
+- Crown creed public: **Order demands control.**
+- Hunter counter-creed / reply: **THE CHAIN BELONGS TO EVERYONE**
+- Mission still open: Terminal recruiting (50 verified recover context from 014)
+- Last published: **Post 015** — Crown named (July 26)
 
 **Awaiting your paste of final live text:**
-- Crown named in caption / Terminal intercept (if shipped)
 - Fragment 003 reclaimed + Seekers decrypting
 - Hunter Standing growth for returning reconnects
-- Anything after July 25
+- Anything after July 26
 
 See `timeline/EVENTS.md` for Confirmed vs Pending.
 
@@ -36,7 +35,7 @@ Entry 003 (next lore payoff, not public until decipher post):
 | `mint/about.md` | Gravemint About section |
 | `mint/nft-description.md` | Collection / NFT description |
 
-Draft only — sync to confirmed releases in `timeline/EVENTS.md` before paste into Gravemint.
+Safe to mention The Crown in mint About now (confirmed public).
 
 ---
 
@@ -59,15 +58,17 @@ HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
+Do **not** reuse `THE CHAIN BELONGS TO EVERYONE` as the reply on the reclaim beat — that CTA just shipped on 015.
+
 ---
 
 ## Rules that matter right now
 
 - Small vocab: Signal → Terminal → Fragment → Archive (`TERMS.md`)
-- Public ally name: **Seekers** (keep consistent with shipped story)
-- No lifetime hunter tallies; numbers only for real mission caps (**50** is live)
-- Caption still has not named **The Crown** — art already shows creed
-- One new beat per post
+- Public ally name: **Seekers**
+- **The Crown** is named and fair game in public copy
+- No lifetime hunter tallies; numbers only for real mission caps (**50** from 014)
+- One new beat per post; evolve reply CTAs
 - No em dashes / `--` in public posts (`voice/account-voice.md`)
 
 ## Minimal files to open next time
@@ -85,7 +86,7 @@ Deep faction theology / Rose & Cross / Broken — later, not daily
 
 ## When you send a live post
 
-1. We archive exact text under `posts/015+`
+1. We archive exact text under `posts/016+`
 2. Update `timeline/EVENTS.md`
 3. Refresh this file’s Live story position
 4. Touch `mint/` if About / NFT description need the new beat

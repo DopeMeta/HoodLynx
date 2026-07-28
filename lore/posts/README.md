@@ -27,6 +27,7 @@ Source of truth for what actually shipped on the HoodLynx account.
 | 012 | `012-archive-directive-updated.md` | Capacity / recruitment |
 | 013 | `013-signal-strength-increasing-003.md` | Fragment 003 |
 | 014 | `014-signal-interrupted-50.md` | Fragment 003 / recover mission |
+| 015 | `015-fragment-003-claimed-crown.md` | Fragment 003 / Crown named |
 
 ## How to log a new live post
 

@@ -21,8 +21,8 @@ Keep the vocabulary small. If a word isn’t here, don’t invent a new system n
 
 | Term | Meaning | Public use |
 |------|---------|------------|
-| **The Crown** | Centralization / control foil to Hunters | Only when ready to name |
-| Until then | “Someone else” / “unidentified organization” | Prefer this first |
+| **The Crown** | Centralization / control foil to Hunters | Yes — named post 015 |
+| Until then | “Someone else” / “unidentified organization” | Prefer this first — **retired after post 015** |
 
 ## Avoid for now
 
