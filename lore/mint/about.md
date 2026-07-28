@@ -10,14 +10,17 @@ Tone: clear for newcomers, true to the ARG. Not a novel.
 
 ## Short About (recommended for Gravemint)
 
-HoodLynx is a community of on-chain Hunters following the Signal across Robinhood Chain.
+HoodLynx is the hunt on Robinhood Chain.
 
-When the Chain was Severed, trust collapsed. Fragments of what remained still surface — undeniable pieces of the old record. Hunters recover them. Seekers help decrypt them. Together, the Archive rebuilds a Path toward Activation.
+When the Chain was Severed, trust collapsed. Hunters recover Fragments. Seekers decrypt them. Together the Archive rebuilds a Path toward Activation — not a return of the old Chain.
+
+Activation opens that Path on Gravemint.io. The Signal does not mint one uniform army. Hunters, Seekers, The Crown, and The Broken all take form along it.
 
 The Crown wants control.  
+The Broken would rather ruin the Path than share it.  
 Hunters believe the Chain belongs to everyone.
 
-Follow the Signal. Enter the Terminal. Earn your place in the hunt.
+Follow the Signal. Enter the Terminal. Activate.
 
 Collection size: **4663**  
 Launch: **Gravemint.io** on **Robinhood Chain**
@@ -35,8 +38,10 @@ Fragment by Fragment, the truth sharpens:
 - Fragments are remnants of the Chain
 - Alone they reveal little; together they rebuild the Path
 
-Now the hunt leads to Activation.  
-Minting a HoodLynx is not just collecting art. It marks you as a Hunter who followed the Signal through the Archive.
+When the Path Activates, every force that touched the Fragments can surface on-chain:
+**Hunters · Seekers · The Crown · The Broken**
+
+Minting a HoodLynx is not just collecting art. It is Activation — locking your place in the hunt so no single throne can own the Path and no ruin can erase every copy.
 
 Phases:
 - **Authorized Hunter Access** (GTD) — 0.003 ETH

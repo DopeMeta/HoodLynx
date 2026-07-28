@@ -10,17 +10,17 @@ Keep shorter than mint About.
 
 ## Primary collection description
 
-HoodLynx — Hunters of the Signal on Robinhood Chain.
+HoodLynx — Activation on Robinhood Chain.
 
-A 4663-piece collection forged from the Archive: recover Fragments, follow the Signal, earn Activation on Gravemint.io. The Chain belongs to everyone.
+A 4663-piece hunt forged from the Archive. Hunters, Seekers, The Crown, and The Broken take form when the Path opens on Gravemint.io. The Chain belongs to everyone.
 
 ---
 
 ## Alternate short
 
-Follow the Signal. Recover the Fragments. Activate as a Hunter.
+Follow the Signal. Rebuild the Path. Activate.
 
-HoodLynx on Robinhood Chain. Supply 4663. Mint on Gravemint.io.
+HoodLynx on Robinhood Chain. Supply 4663. Hunters · Seekers · Crown · Broken. Mint on Gravemint.io.
 
 ---
 

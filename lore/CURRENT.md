@@ -4,44 +4,40 @@ Only file needed for most sessions. Everything else is reference.
 
 ## Live story position
 
-**Confirmed (through post 016, Jul 27):**
-- 001 + 002 stored · 003 **RECLAIMED** from Crown · Seekers decrypting
-- Crown named · Hunter Standing public · Seekers public
+**Confirmed (through post 016):**
+- 001 + 002 stored · 003 **RECLAIMED** · Seekers decrypting
+- Crown named · Standing public · Seekers public
 
-**Today (Tue Jul 28) — wrap mode:**
-- Give decrypt payoff (more info than “still decrypting”)
-- Make 003 feel big (earned from Crown fight)
-- Introduce **Broken corruption** soon (not mint-morning)
-- Build toward epic **Activation** (Gravemint is the terminus, not the whole story)
-- Still need: Authorized = GTD reveal, mint details, ARG texture
+**Mint reality (ops + story must match):**
+- Activation releases **mixed types**: Hunters · Seekers · Crown · **Broken (~30%)**
+- People should want all four — Broken needs an **epic** intro before mint details
+- If mint is slow, post-mint story continues (faction pressure / corruption / more Entries)
 
 Full ladder: [`timeline/wrap-arc-activation.md`](./timeline/wrap-arc-activation.md)
 
-## Epic meaning (one paragraph)
+## Epic meaning
 
-Fragments don’t restore the old Chain — together they rebuild a **Path**.  
-Activation (mint) scatters that Path across 4663 Hunters so **Crown can’t own it** and **Broken can’t erase it**.  
-Gravemint.io = where the Path opens.
+Fragments rebuild a **Path**, not the old Chain.  
+When the Path **Activates** on Gravemint, every force that touched the Fragments can take form on-chain — not only clean Hunters.  
+**4663** Activations lock the conflict so Crown can’t own it all and Broken can’t erase it all.
 
-## Entry 003 (ready to ship)
+## Entry 003 (ready)
 
 > THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
 > TOGETHER THEY REBUILD THE PATH.
-
-Pair with stinger: corruption detected on one of the last Fragment signatures / Archive integrity failing → leads into The Broken.
 
 ## Beat ladder (short)
 
 | Beat | Job |
 |------|-----|
-| **A — Today** | Entry 003 Path + corruption crack (ARG: Terminal / new reply) |
-| **B** | Name **The Broken** — they corrupt/ruin Fragments; Crown takes, Broken ruins |
-| **C** | Why Activation — Path only survives if many hold it |
-| **D** | Authorized Hunters → **GTD** (Terminal + reply) |
-| **E** | Mint details as Activation Protocols (phases / prices / Gravemint) |
-| **F** | Launch — Path opens / Activate |
+| **A — Today** | Entry 003 Path + corruption crack |
+| **B** | Epic **Broken** intro (must land before prices; sell the ~30%) |
+| **C** | Four forces Activate — desire for all mint types |
+| **D** | Authorized → **GTD** |
+| **E** | Mint details / Gravemint as Path terminus |
+| **F** | Launch — Path opens, all types live |
 
-## Draft — Beat A (today, working)
+## Draft — Beat A (today)
 
 ```text
 ...ARCHIVE ENTRY 003 RECOVERED.
@@ -65,14 +61,19 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-*(Broken name can wait for Beat B within 24h — or swap the stinger line to “The Broken are in the Archive” if you want them named today.)*
+## Draft — Beat B direction (Broken epic)
 
-## Mint page
+Crown takes. Broken ruin.  
+They were us — Fragments broke them.  
+When Activation opens, the Broken come through the Path too.  
+Art must look like a faction people want to mint (skelly spectacle + dread).
 
-`mint/about.md` + `mint/nft-description.md` — update Path/Broken language after Beats A–B ship.
+## Mint copy note
+
+Update `mint/about.md` after A–C: Activation ≠ “you are only a Hunter.”  
+Activation = the hunt takes form — all four types.
 
 ## Rules
 
-- Seekers stay Seekers · Broken = public faction name · no em dashes
-- New reply each beat · numbers only when real (50, phases, 4663)
-- Gravemint always framed as Activation / Path terminus
+- Seekers stay Seekers · **The Broken** public name · no em dashes
+- New reply each beat · Broken before mint-morning · ARG > pure ad

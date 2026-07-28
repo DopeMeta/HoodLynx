@@ -1,7 +1,11 @@
 # Wrap Arc — Base Story → Activation (working)
 
 Goal: finish the base ARG with weight. Not “link in bio.”  
-Mint = **Activation** of a Path the community built. Crown wants to own it. Broken want to ruin it.
+**Activation = the Path opens and all four remnant forces flood the terminus.**  
+Mint mixes **Hunters · Seekers · The Crown · The Broken** (~Broken ~30%).  
+People should want every type — not only “good guy” lynx.
+
+If sellout is slow, story continues after launch (hooks below).
 
 ---
 
@@ -9,18 +13,51 @@ Mint = **Activation** of a Path the community built. Crown wants to own it. Brok
 
 Fragments were never going to restore the old Chain.
 
-Together they rebuild a **Path** — a route back to shared consensus that only works if it is **held by many**, not one throne.
+Together they rebuild a **Path** — a route back to shared consensus.
 
-| Force | Wants |
-|-------|--------|
-| **Hunters** | Walk the Path. Activate. Chain belongs to everyone. |
-| **The Crown** | Own the Path. Order demands control. |
-| **The Broken** | Shatter Fragments / Path so nothing can Activate. Better ruin than shared power. |
+When the Path **Activates**, it does not mint one uniform army.  
+It manifests every force that touched the Fragments after the Severing:
 
-**Why mint is epic:**  
-Activation scatters the Path across **4663** Hunters. Crown cannot seize one vault. Broken cannot corrupt one copy. The investigation becomes permanent on-chain.
+| Type in mint | Story desire | Why mint them |
+|--------------|--------------|---------------|
+| **Hunters** | Recover / walk the Path | Default identity of the hunt; “Chain belongs to everyone” |
+| **Seekers** | Decrypt / understand | Owl/knowledge cool; Archive brain |
+| **The Crown** | Own / control the Path | Gold, crowns, power fantasy; antagonist drip people collect |
+| **The Broken** (~30%) | Ruin / corrupt so nothing Activates clean | Skelly/zombie spectacle; tragic power; chaos flex |
 
-Gravemint.io = where the Path terminates / Activation window opens. Still ARG, not a random marketplace drop.
+**Why Activation is epic:**  
+The Path terminus doesn’t filter for purity. Everyone who followed the Signal — or was broken / ordered by it — can take form on-chain.  
+**4663 Activations** lock the conflict into Robinhood Chain. Gravemint.io = where the Path opens.
+
+Distributed mint = Crown can’t own the whole Path, Broken can’t erase every copy, Hunters/Seekers can’t gatekeep truth alone.
+
+---
+
+## Broken must feel epic (not a leftover villain bin)
+
+Broken are ~30% of supply. Intro has to make people **want** them.
+
+### Framing that sells Broken
+
+1. **Tragic power, not joke evil** — They were Hunters / Seekers / Crown once. Too many Fragments broke them. Truth without hope.
+2. **They are already inside the Archive** — Corruption of a last Fragment signature proves they matter to the Path, not a side comic.
+3. **Activation cannot exclude them** — If only “pure” Hunters Activate, the Path is a lie. The Signal pulls ruin too.
+4. **Visual flex** — Skeleton / zombie / flame is the spectacle tier; story should say that out loud (“the ruined walk with us”).
+5. **Post-mint agency** — Broken holders aren’t NPCs; they’re a living pressure in later story (corruption votes, raids, bad endings if they dominate).
+
+### Epic Broken intro beat (required before mint details)
+
+Crown **takes**. Broken **corrupt**.
+
+Art: cracked Fragment canister, sick Signal, skelly/lynx silhouette emerging from rot, Hunter emblem cracked or bone version.
+
+Public lines (pick tone):
+- They were us. The Fragments broke them.
+- They don’t reclaim. They ruin.
+- The Path is forming — and so are they.
+- When Activation opens, the Broken come through too.
+
+Do **not** introduce Broken on mint morning only.
 
 ---
 
@@ -35,53 +72,38 @@ Gravemint.io = where the Path terminates / Activation window opens. Still ARG, n
 
 ## Recommended beat ladder (flexible dates)
 
-### Beat A — Today (Tue): Decrypt payoff + crack in the Archive
+### Beat A — Today (Tue): Path payoff + corruption crack
 
-Seekers finish **enough** of 003 to drop Entry 003 / Path — big reclaim reward — **and** detect corruption eating another Fragment signature (one of the last pieces / Archive integrity failing).
+Entry 003 Path (reclaim reward) + corruption eating one of the last Fragment signatures.
 
-Do **not** dump mint prices today. Give lore + dread + one ARG action (reply / Terminal check).
+```text
+THE FRAGMENTS DO NOT RESTORE THE CHAIN.
+TOGETHER THEY REBUILD THE PATH.
+```
 
-**Entry 003 (hero lines):**
-> THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
-> TOGETHER THEY REBUILD THE PATH.
+Stinger: not Crown — something ruining a signature. Soft-name or full-name Broken within 24h.
 
-**Stinger:** Path forming — but a Fragment reading is rotting / foreign corruption / Signal bleeding black-green. Name **The Broken** here or on Beat B (prefer name within 24h so it doesn’t feel bolted on at mint).
+### Beat B — Epic Broken arrival
 
-### Beat B — Broken named (Wed or Tue night #2)
+Name **The Broken**. Show them corrupting / emerging. Make them terrifying and cool.
 
-Crown **takes**. Broken **corrupt**.
+Seed: Activation won’t only bring Hunters. The ruined are already in the Signal.
 
-One of the last Fragments (or a stored Archive Fragment) is being hollowed out so the Path cannot complete cleanly.
+### Beat C — Four forces / Activation thesis
 
-Public line options:
-- They were Hunters once. The truth broke them.
-- They don’t reclaim. They ruin.
-- If the Path completes, they lose their power to erase what was done.
+Path terminus located. When it opens, **four remnant forces** Activate onto the Chain:
 
-ARG feel: Terminal shows `ARCHIVE: CORRUPTION DETECTED` / `FRAGMENT SIGNATURE: UNSTABLE`. Art = cracked canister / skelly silhouette / sick Signal.
+Hunters · Seekers · Crown · Broken
 
-### Beat C — Why Activation (Wed/Thu)
+This is the “why mint different types” post. Desire engine before prices.
 
-Connect meaning → mint without sounding like an ad.
+### Beat D — Authorized = GTD
 
-Path terminus located. Activation window incoming.  
-Only distributed Activation keeps the Path alive while corruption spreads.
+Authorized Hunter Access → GTD at Activation. Terminal + reply. Earned WL beat.
 
-Tease: Authorized Hunters will receive first passage.
+### Beat E — Mint details as Activation Protocols
 
-### Beat D — Authorized Hunter Access = GTD (Thu)
-
-Dedicated post + Terminal for people who already earned auth:
-
-- Authorized Hunter Access confirmed = **GTD mint**
-- Check Terminal / Standing
-- Reply phrase for Authorized Hunters only (e.g. `AUTHORIZED FOR ACTIVATION`)
-
-This is the WL payoff beat. Make it feel earned from the hunt, not a spreadsheet.
-
-### Beat E — Mint details (Thu night / Fri)
-
-Phases + prices + Gravemint + timing, framed as **Activation Protocols**:
+Phases / prices / Gravemint / supply 4663 — after people already want all four types.
 
 | Phase | Story name | Price |
 |-------|------------|-------|
@@ -89,51 +111,47 @@ Phases + prices + Gravemint + timing, framed as **Activation Protocols**:
 | FCFS | Fragment Access | 0.004 ETH |
 | Public | Public Activation | 0.005 ETH |
 
-Supply **4663**. Chain: Robinhood. Venue: Gravemint.io.
+### Beat F — Launch
 
-Optional ARG crumb: Terminal displays phase schedule as “Path gates.”
-
-### Beat F — Launch (epic)
-
-Path opens. Activation live on Gravemint.  
-Final transmission: Follow the Signal. Activate. Hold the Path.
-
-Crown still watches. Broken still hunger. Base story wraps; world stays open.
+Path opens on Gravemint. All types live. Follow the Signal. Activate.
 
 ---
 
-## Fun ARG toys (pick 2–3, don’t overbuild)
+## Post-mint expandable (if not instant sellout)
 
-1. **Terminal state changes** with each beat (corruption → Path terminus → Activation gates)  
-2. **Different reply CTAs** per beat (no repeats)  
-3. **Authorized-only framing** on GTD reveal (public post, “authorized channel” tone)  
-4. **Corrupted Fragment art** with a small readable glitch (∞ broken, chain link cracked, sick green)  
-5. **Standing rises** copy for reconnects during corruption crisis  
+Keep intrigue without needing a new bible:
 
-Avoid: new numbered log systems, kidnap plots, renaming Seekers.
+1. **Which force is winning the mint** — Standing / Signal lean Hunter vs Broken vs Crown  
+2. **Corruption meter** — Broken supply pressure “eats” Archive readings  
+3. **Crown buy pressure** — control narrative if Crown traits dominate  
+4. **Seeker decrypt sidequests** — more Archive Entries after launch  
+5. **Path unstable until sellout / until N Activations** — soft goal without fake scarcity lies  
+6. **Faction reply days** — different CTAs for holders later  
 
----
-
-## Fragment corruption — preferred fiction
-
-**Recommend:** Entry 003 reveals the Path cleanly (reward for reclaim), then Seekers flag **corruption in a final Fragment signature** needed to stabilize the Path (Fragment 004 / “last Archive node” — don’t over-number if avoidable).
-
-Public can say: “one of the last Fragments” without forcing a full 004 campaign if time is short.
-
-If shorter: corruption is spreading **into the assembling Path** from Broken interference — same stakes, fewer objects.
+Base story wraps at Activation; world stays open on purpose.
 
 ---
 
-## What not to do
+## Fun ARG toys (pick 2–3)
 
-- Jump straight from reclaim → Gravemint link with no Path/Broken meaning  
-- Introduce Broken on mint morning only  
-- Reuse `FRAGMENT RECLAIMED` or `THE CHAIN BELONGS TO EVERYONE` as today’s reply  
-- Explain the whole theology in one caption  
+1. Terminal states: corruption → Broken named → four forces → Activation gates  
+2. New reply CTA each beat  
+3. Authorized-only tone on GTD reveal  
+4. Corrupted Fragment art with readable glitch  
+5. Tease trait lines in art (skelly / owl / crown / hunter emblem) before mint  
+
+Avoid: new log numbering systems, kidnap plots, “only Hunters are real mints.”
+
+---
+
+## Mint About implication
+
+Do **not** say Activation only = you become a Hunter.  
+Say: Activation pulls the hunt on-chain — Hunters, Seekers, Crown, and Broken all take form along the Path.
 
 ---
 
 ## Today’s job (intent)
 
-Draft and ship **Beat A**: Path Entry 003 + corruption stinger (Broken unnamed or soft-named).  
-Optionally lock Beat B caption same day for a double if energy is high.
+Ship **Beat A** (Path + corruption crack).  
+Lock **Beat B** Broken epic intro next (same night or tomorrow) so ~30% Broken supply has story heat before mint details.
