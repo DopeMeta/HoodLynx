@@ -4,59 +4,42 @@ Only file needed for most sessions. Everything else is reference.
 
 ## Live story position
 
-- Fragment **001 + 002** decrypted / stored in Archive  
-- Fragment **003** Signal interrupted mid-trace  
-- Unknown interceptor (Crown not named publicly yet)  
-- Tonight Post 2 package ready: 30 verified Hunters to retune  
+**Confirmed public (through post 013):**
+- Fragment **001 + 002** decrypted / stored in Archive
+- Fragment **003** beginning to surface; Terminal still accessed
+- Last published: **Post 013** — Signal strength increasing / more transmits tonight
 
-Last published: **Post 013** — Signal strength increasing / 003 surfacing / more tonight  
+**In flight / awaiting your paste of final live text:**
+- Signal interrupted + verified Hunter recover / retune mission
+- Crown named + creed
+- Fragment 003 reclaimed + Seekers decrypting
+- Hunter Standing growth for returning reconnects
 
-## Stable Terminal skeleton (easy to edit)
+See `timeline/EVENTS.md` for Confirmed vs Pending.
 
-Keep this shape. Swap only the middle status lines when the story moves.
+## Fragment endgame (planned)
 
-```text
-// HOODLYNX ARCHIVE TERMINAL
-STATUS: ONLINE
-ARCHIVE: 001 + 002 STORED
-----------------------------------------
-TARGET: FRAGMENT 003
-STATUS: SIGNAL INTERRUPTED
-SOURCE: UNKNOWN
-----------------------------------------
-RETUNE MISSION: ACTIVE
-VERIFIED HUNTERS NEEDED: 30
-ELIGIBLE: UNIDENTIFIED IDENTITIES
-ACCESS: AUTHORIZED HUNTER ACCESS
-----------------------------------------
-AWAITING IDENTIFICATION...
-@
-ENTER X HANDLE
-Ξ
-EVM WALLET (0x...)
-▸ RECONNECT
-```
+Fragments rebuild a **Path / Map** → Activation (mint), not the old Chain.  
+Entry 003 (next lore payoff, not public until decipher post):
+> THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
+> TOGETHER THEY REBUILD THE PATH.
 
-After submit:
+---
 
-```text
-...RECONNECT SIGNAL SENT
-...WALLET LOCKED TO IDENTITY
-----------------------------------------
-INTERCEPT LOG // PARTIAL
-SIGNATURE: CENTRAL AUTHORITY
-MARK: GOLD ORDER SEAL
-PHRASE RECOVERED:
-"ORDER DEMANDS CONTROL."
-----------------------------------------
-STAND BY FOR VERIFICATION.
-...RETUNING TRACE
-FOLLOW THE SIGNAL.
-```
+## Mint page drafts (in progress)
 
-**Next Terminal tweak after this mission:** change `STATUS` / mission block only (e.g. `RETUNE COMPLETE` or `TRACE RESTORED`) — don’t rewrite the whole screen.
+| File | Use |
+|------|-----|
+| `mint/about.md` | Gravemint About section |
+| `mint/nft-description.md` | Collection / NFT description |
 
-## Tonight — Post 2 (ready)
+Draft only — sync to confirmed releases in `timeline/EVENTS.md` before paste into Gravemint.
+
+---
+
+## Working package (not confirmed until you paste)
+
+### Interrupted Signal post (draft)
 
 ```text
 ...SIGNAL INTERRUPTED.
@@ -65,37 +48,59 @@ Fragment 003 went dark mid-trace.
 
 Something else is on the frequency.
 
-We need 30 verified Hunters to retune the Signal.
+We need 50 verified Hunters to recover the Signal.
 Enter the Terminal to reconnect.
 
-http://HoodLynx.xyz
+HoodLynx.xyz
 
 FOLLOW THE SIGNAL.
 ```
 
-Ship order: update Terminal → then post.
+*(Cap was workshopped as 30 → then 50; use whatever you actually shipped.)*
+
+### Reclaim post (draft — preferred shape)
+
+```text
+FRAGMENT 003 // STATUS: RECLAIMED
+
+Hunter retrieve mission: Successful
+Seekers: Fragment decryption in progress
+
+Terminal open for new Hunters.
+Reconnecting raises Hunter Standing.
+
+Reply FRAGMENT RECLAIMED if you helped recover it.
+
+HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+---
 
 ## Rules that matter right now
 
-- Small vocab: Signal → Terminal → Fragment → Archive (`TERMS.md`)  
-- No lifetime hunter tallies; numbers only for real mission caps  
-- Don’t name Crown in public until propaganda payoff  
-- One new beat per post  
+- Small vocab: Signal → Terminal → Fragment → Archive (`TERMS.md`)
+- No lifetime hunter tallies; numbers only for real mission caps
+- Don’t name Crown in public until the propaganda / intercept payoff posts
+- One new beat per post
+- No em dashes / `--` in public posts (`voice/account-voice.md`)
 
 ## Minimal files to open next time
 
-1. `CURRENT.md` (this)  
-2. `TERMS.md`  
-3. `posts/` only if checking exact past captions  
-4. `timeline/drafts/` only while a post is in progress  
+1. `CURRENT.md` (this)
+2. `timeline/EVENTS.md` — release tracker
+3. `TERMS.md`
+4. `posts/` when checking exact past captions
+5. `mint/` when polishing Gravemint copy
 
 ## Ignore unless needed
 
-`archive/` — raw mind maps, ChatGPT process notes, spent drafts, traits dump  
-Deep faction theology / Rose & Cross / Broken — later, not daily  
+`archive/` — raw mind maps, ChatGPT process notes, spent drafts  
+Deep faction theology / Rose & Cross / Broken — later, not daily
 
-## After Post 2 ships
+## When you send a live post
 
-1. Move tonight’s draft notes into `posts/014-...md`  
-2. Update this file’s “Live story position”  
-3. Clear or archive `timeline/drafts/today-post-2-LOCKED.md`  
+1. We archive exact text under `posts/014+`
+2. Update `timeline/EVENTS.md`
+3. Refresh this file’s Live story position
+4. Touch `mint/` if About / NFT description need the new beat

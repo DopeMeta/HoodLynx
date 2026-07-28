@@ -6,21 +6,25 @@
 
 | File | Use |
 |------|-----|
-| `CURRENT.md` | Live state, Terminal, next post |
+| `CURRENT.md` | Live state, next post, Terminal notes |
 | `TERMS.md` | Allowed public vocabulary |
-| `voice/account-voice.md` | Tone / freshness |
+| `timeline/EVENTS.md` | Summarized story timeline by event |
 | `posts/` | Confirmed published captions |
+| `voice/account-voice.md` | Tone |
 
-## Deeper reference (only when needed)
+## Mint launch copy
+
+| File | Use |
+|------|-----|
+| `mint/about.md` | Mint page About (draft) |
+| `mint/nft-description.md` | NFT / collection description (draft) |
+
+## Deeper reference
 
 | Path | Use |
 |------|-----|
-| `SCOPE.md` | Project goals, mint phases, timebox |
-| `world/` | Chain / Severing / Fragments / Archive |
-| `factions/` | Hunters, Keepers, Crown, Broken |
-| `ops/project-ops.md` | WL/mint ops |
-| `archive/` | Raw dumps, spent drafts — **ignore for context** |
-
-## Anti-drift
-
-`CANON_RULES.md` — don’t invent; check posts first.
+| `SCOPE.md` | Project goals, mint phases |
+| `world/` / `factions/` | Canon detail |
+| `ops/` | Terminal, Standing, WL |
+| `CANON_RULES.md` | Don’t invent; check posts first |
+| `archive/` | Ignore for daily context |
