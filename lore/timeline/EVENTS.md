@@ -98,12 +98,15 @@ TOGETHER THEY REBUILD THE PATH.
 
 ## 5. Path → Activation (upcoming)
 
-**Status:** Not released
+**Status:** In progress (wrap arc)  
+**Plan:** `wrap-arc-activation.md`
 
-- Fragments assemble into a Map/Path (not the old Chain)
-- Map leads to Activation on Gravemint.io
-- Mint framed as joining the hunt / recognized Hunter
-- Mint page About + NFT description go live with Gravemint listing
+- Entry 003: Fragments rebuild the **Path** (not the Chain)
+- **The Broken** corrupt one of the last Fragment signatures (introduce soon)
+- Meaning: Activation distributes the Path across 4663 Hunters (Crown can’t own / Broken can’t erase)
+- Authorized Hunter Access → GTD reveal
+- Mint details as Activation Protocols on Gravemint.io
+- Launch = Path opens
 
 ---
 
