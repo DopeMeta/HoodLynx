@@ -36,3 +36,13 @@ Mixed lynx + skeleton variants including crowns, robinhood hat, gas masks, flame
 
 ### Trait additions under consideration
 Top hats, antlers, riot helmet, tactical headset, aviators, eye patch, cigar, gold grill, neck slot (gold chain / broken chain / compass / robinhood coin), tattoos (compass rose / ouroboros / trust the chain)
+
+### Pre-gen lore review (2026-07-28)
+
+See `traits-lore-gaps.md`.
+
+**Needed adds only:**
+1. Fragment Canister (hand item — Lynx + Skelly)
+2. HoodLynx Hunter Emblem (chest tattoo preferred)
+
+**Faction public name:** The Broken (not The Corrupted).

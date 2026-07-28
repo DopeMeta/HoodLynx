@@ -4,9 +4,10 @@ Source of truth for what actually shipped on the HoodLynx account.
 
 ## Rules
 
-- Post text here overrides mind-map timeline wording when they differ
+- Post text here overrides mind-map / draft timeline wording when they differ
 - Preserve voice, emoji, URL casing, and CTA patterns exactly as published
 - Visual notes describe attached graphics when image binaries are not stored
+- After logging a post, update `../timeline/EVENTS.md` and `../CURRENT.md`
 
 ## Index
 
@@ -25,3 +26,14 @@ Source of truth for what actually shipped on the HoodLynx account.
 | 011 | `011-archive-entry-002-recovered.md` | Fragment 002 |
 | 012 | `012-archive-directive-updated.md` | Capacity / recruitment |
 | 013 | `013-signal-strength-increasing-003.md` | Fragment 003 |
+| 014 | `014-signal-interrupted-50.md` | Fragment 003 / recover mission |
+| 015 | `015-fragment-003-claimed-crown.md` | Fragment 003 / Crown named |
+| 016 | `016-fragment-003-reclaimed.md` | Fragment 003 reclaim |
+
+## How to log a new live post
+
+Paste the final caption (+ image notes). We’ll:
+1. Add `017+` here
+2. Update `../timeline/EVENTS.md` (event summary + release log)
+3. Refresh `../CURRENT.md`
+4. Touch `../mint/` drafts if About / NFT description need the new beat

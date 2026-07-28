@@ -1,101 +1,105 @@
 # CURRENT — load this first
 
-Only file needed for most sessions. Everything else is reference.
+## Live position
 
-## Live story position
+- Through **016**: 003 RECLAIMED, Seekers decrypting, Crown named  
+- **Today Tue:** 2-post day — Path payoff now, glitchy new Fragment tonight  
+- **Tomorrow AM:** Corrupted Fragment = **The Broken**; ARG unlocks mint **date** for players who’ve been hunting  
+- Mint mixes Hunters · Seekers · Crown · Broken (~30%)
 
-- Fragment **001 + 002** decrypted / stored in Archive  
-- Fragment **003** Signal interrupted mid-trace  
-- Unknown interceptor (Crown not named publicly yet)  
-- Tonight Post 2 package ready: 30 verified Hunters to retune  
+Plan detail: [`timeline/drafts/tue-wed-dual-posts.md`](./timeline/drafts/tue-wed-dual-posts.md)  
+Full wrap: [`timeline/wrap-arc-activation.md`](./timeline/wrap-arc-activation.md)
 
-Last published: **Post 013** — Signal strength increasing / 003 surfacing / more tonight  
+## Epic meaning
 
-## Stable Terminal skeleton (easy to edit)
+Path not Chain → Activation opens Path on Gravemint → all four forces take form.  
+Long players get intel first via Terminal / Standing / Authorized.
 
-Keep this shape. Swap only the middle status lines when the story moves.
+---
 
-```text
-// HOODLYNX ARCHIVE TERMINAL
-STATUS: ONLINE
-ARCHIVE: 001 + 002 STORED
-----------------------------------------
-TARGET: FRAGMENT 003
-STATUS: SIGNAL INTERRUPTED
-SOURCE: UNKNOWN
-----------------------------------------
-RETUNE MISSION: ACTIVE
-VERIFIED HUNTERS NEEDED: 30
-ELIGIBLE: UNIDENTIFIED IDENTITIES
-ACCESS: AUTHORIZED HUNTER ACCESS
-----------------------------------------
-AWAITING IDENTIFICATION...
-@
-ENTER X HANDLE
-Ξ
-EVM WALLET (0x...)
-▸ RECONNECT
-```
-
-After submit:
+## TODAY POST 1 — ship now (Entry 003 + Activation tease)
 
 ```text
-...RECONNECT SIGNAL SENT
-...WALLET LOCKED TO IDENTITY
-----------------------------------------
-INTERCEPT LOG // PARTIAL
-SIGNATURE: CENTRAL AUTHORITY
-MARK: GOLD ORDER SEAL
-PHRASE RECOVERED:
-"ORDER DEMANDS CONTROL."
-----------------------------------------
-STAND BY FOR VERIFICATION.
-...RETUNING TRACE
-FOLLOW THE SIGNAL.
-```
+...ARCHIVE ENTRY 003 RECOVERED.
 
-**Next Terminal tweak after this mission:** change `STATUS` / mission block only (e.g. `RETUNE COMPLETE` or `TRACE RESTORED`) — don’t rewrite the whole screen.
+THE FRAGMENTS DO NOT RESTORE THE CHAIN.
+TOGETHER THEY REBUILD THE PATH.
 
-## Tonight — Post 2 (ready)
+Seekers finished the decrypt.
+001. 002. 003. Alignment locked.
 
-```text
-...SIGNAL INTERRUPTED.
+The Path has a terminus.
+Activation is approaching.
 
-Fragment 003 went dark mid-trace.
-
-Something else is on the frequency.
-
-We need 30 verified Hunters to retune the Signal.
-Enter the Terminal to reconnect.
+Terminal open for Hunters still in the Signal.
+Reply PATH FORMING if you're ready.
 
 http://HoodLynx.xyz
-
 FOLLOW THE SIGNAL.
 ```
 
-Ship order: update Terminal → then post.
+**Art:** Archive Entries 001–003; Path forming; Seeker + Hunters; terminus glow.  
+**Terminal:** ARCHIVE 001+002+003 · PATH FORMING · ACTIVATION APPROACHING  
+**Reply:** `PATH FORMING`
 
-## Rules that matter right now
+---
 
-- Small vocab: Signal → Terminal → Fragment → Archive (`TERMS.md`)  
-- No lifetime hunter tallies; numbers only for real mission caps  
-- Don’t name Crown in public until propaganda payoff  
-- One new beat per post  
+## TODAY POST 2 — tonight (glitchy new Fragment)
 
-## Minimal files to open next time
+```text
+...NEW SIGNAL DETECTED.
 
-1. `CURRENT.md` (this)  
-2. `TERMS.md`  
-3. `posts/` only if checking exact past captions  
-4. `timeline/drafts/` only while a post is in progress  
+Fragment signature: UNSTABLE.
+Transmission: GLITCHED.
 
-## Ignore unless needed
+This one is not like the others.
+Something is wrong with the frequency.
 
-`archive/` — raw mind maps, ChatGPT process notes, spent drafts, traits dump  
-Deep faction theology / Rose & Cross / Broken — later, not daily  
+Hunters: trace it.
+Seekers: stand by for intake.
 
-## After Post 2 ships
+Reply SIGNAL GLITCHED if you can still read this.
 
-1. Move tonight’s draft notes into `posts/014-...md`  
-2. Update this file’s “Live story position”  
-3. Clear or archive `timeline/drafts/today-post-2-LOCKED.md`  
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+**Art:** Stuttering Signal / cracked canister HUD UNSTABLE · GLITCHED.  
+**Reply:** `SIGNAL GLITCHED`  
+**Don’t name Broken yet** — dread only.
+
+---
+
+## TOMORROW AM — corrupted + Broken + ARG date seal
+
+```text
+...FRAGMENT INTAKE FAILED.
+
+Status: CORRUPTED.
+
+The Broken got there first.
+They don't reclaim. They ruin.
+
+Seekers can't finish a clean decrypt.
+Not without a clean key.
+
+Authorized Hunters: return to the Terminal.
+Your Standing may be enough to stabilize the reading.
+
+Solve the corruption.
+Activation intel is behind the seal.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+**Reward:** Terminal puzzle / Standing / Authorized path reveals **Activation date** before public dump.  
+Then later: public date → GTD confirm → full mint protocols.
+
+---
+
+## Rules
+
+- 2 posts/day OK in wrap  
+- New reply every beat · no em dashes · Seekers stay Seekers  
+- Broken epic before prices · date via ARG beats a boring announce  

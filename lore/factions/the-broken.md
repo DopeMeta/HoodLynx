@@ -34,6 +34,12 @@ Former Hood Lynx who abandoned **the Code** (Code undefined) in pursuit of power
 
 This framing naturally explains skeletons, zombies, scarred variants.
 
+## Mint / Activation note
+
+Broken are a major mint type (~30%). Public story must introduce them **epically before mint details** so they feel desirable (tragic power / spectacle), not like filler villains.
+
+When the Path Activates, Broken come through too — Activation does not filter for purity.
+
 ## Guiding question
 
 What can this Link do for me?

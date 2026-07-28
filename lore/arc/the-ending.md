@@ -20,10 +20,14 @@ The Map points to one final hidden location:
 
 The mint is not "buy NFTs."
 
-It is **Activation**.
+It is **Activation** — the Path opens on Gravemint.io.
 
-Every minted HoodLynx becomes an officially recognized **Hunter** — not because they bought an NFT, but because they completed the investigation.
+Activation does **not** only mint clean Hunters. The Signal manifests every force that touched the Fragments:
 
-## Status
+**Hunters · Seekers · The Crown · The Broken** (Broken ~30% of supply)
 
-This is endgame structure from the mind map. Timing, public wording, and how much is teased early remain open.
+Every minted HoodLynx locks a place in the on-chain hunt — whichever remnant type surfaces — so the Path cannot be owned by one throne or erased by ruin alone.
+
+## Post-mint
+
+If Activation does not complete instantly, the conflict continues (faction pressure, corruption, further Archive Entries). Base ARG wraps at Path-open; world stays expandable.
