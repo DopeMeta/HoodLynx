@@ -20,7 +20,7 @@ TOGETHER THEY REBUILD THE PATH.
 Seekers finished the decrypt.
 001. 002. 003. Alignment locked.
 
-The Path has a terminus.
+The Path leads somewhere.
 Activation is approaching.
 
 Terminal open for Hunters still in the Signal.
@@ -36,7 +36,7 @@ FOLLOW THE SIGNAL.
 - 003 text readable on poster/terminal
 - Path/Map forming from three Fragment nodes (not a restored circular Chain)
 - Hunters + Seeker (owl) present
-- Soft Activation hint: distant terminus glow / Gravemint not named in art yet (optional faint gate)
+- Soft Activation hint: distant Activation glow / Gravemint not named in art yet (optional faint gate)
 - Clean HD, no grain
 
 ### Terminal (optional same-day update)
@@ -50,7 +50,7 @@ ENTRY 003: RECOVERED
 READING: THE PATH
 ----------------------------------------
 PATH: FORMING
-TERMINUS: DETECTED
+PATH END: DETECTED
 ACTIVATION: APPROACHING
 ----------------------------------------
 HUNTER STANDING: ACTIVE

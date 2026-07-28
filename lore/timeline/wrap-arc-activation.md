@@ -1,7 +1,7 @@
 # Wrap Arc — Base Story → Activation (working)
 
 Goal: finish the base ARG with weight. Not “link in bio.”  
-**Activation = the Path opens and all four remnant forces flood the terminus.**  
+**Activation = the Path opens and all four remnant forces come through.**  
 Mint mixes **Hunters · Seekers · The Crown · The Broken** (~Broken ~30%).  
 People should want every type — not only “good guy” lynx.
 
@@ -26,7 +26,7 @@ It manifests every force that touched the Fragments after the Severing:
 | **The Broken** (~30%) | Ruin / corrupt so nothing Activates clean | Skelly/zombie spectacle; tragic power; chaos flex |
 
 **Why Activation is epic:**  
-The Path terminus doesn’t filter for purity. Everyone who followed the Signal — or was broken / ordered by it — can take form on-chain.  
+Activation doesn’t filter for purity. Everyone who followed the Signal — or was broken / ordered by it — can take form on-chain.  
 **4663 Activations** lock the conflict into Robinhood Chain. Gravemint.io = where the Path opens.
 
 Distributed mint = Crown can’t own the whole Path, Broken can’t erase every copy, Hunters/Seekers can’t gatekeep truth alone.
@@ -74,7 +74,7 @@ Do **not** introduce Broken on mint morning only.
 
 ### Beat A — Today Post 1: Path + Activation approaching
 
-Entry 003 Path (reclaim reward) + terminus / Activation tease. No prices/date.
+Entry 003 Path (reclaim reward) + Activation tease (“The Path leads somewhere”). No prices/date.
 
 ### Beat A2 — Today Post 2 (tonight): Glitchy new Fragment
 

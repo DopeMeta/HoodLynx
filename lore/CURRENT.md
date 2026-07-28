@@ -28,7 +28,7 @@ TOGETHER THEY REBUILD THE PATH.
 Seekers finished the decrypt.
 001. 002. 003. Alignment locked.
 
-The Path has a terminus.
+The Path leads somewhere.
 Activation is approaching.
 
 Terminal open for Hunters still in the Signal.
@@ -38,7 +38,7 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Archive Entries 001–003; Path forming; Seeker + Hunters; terminus glow.  
+**Art:** Archive Entries 001–003; Path forming; Seeker + Hunters; distant Activation glow.  
 **Terminal:** ARCHIVE 001+002+003 · PATH FORMING · ACTIVATION APPROACHING  
 **Reply:** `PATH FORMING`
 
