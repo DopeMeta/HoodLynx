@@ -3,52 +3,69 @@
 ## Live position
 
 - Tue: Entry 003 Path + glitchy final Fragment Signal  
-- **Today Wed:** Clearer recovery post — too easy, creature fled, hope it didn’t meddle, Signal off, home ready to decrypt  
-- Broken still unnamed; dread sets decrypt beat  
+- **Today Wed:** Outgoing recovery transmission — too easy, something ran, hope no meddle, Signal off, ready to decrypt  
+- Broken unnamed until decrypt beat  
 - **Activation / mint: Saturday Aug 1** (separate drip)
 
-## Voice note (wrap phase)
+## Voice note
 
-Less cryptic one-word punch lines. Clearer sentences so late joiners can follow. Still transmission-flavored, just readable.
-
-## Today’s job
-
-Exciting but clear recovery. Hint Broken via the creature that ran. End ready to decrypt.  
-No mint crumbs.
+Outgoing status / “we” transmission — not third-person story narration.  
+Clear sentences. Not one-word staccato.
 
 ---
 
-## WEDNESDAY POST — recommended (280 chars)
+## WEDNESDAY POST — recommended (267 chars)
 
 ```text
 ...FRAGMENT RECOVERED.
 
-Hunters secured the Fragment, but it felt too easy.
-A creature ran off the second they got there.
+We got it. Faster than expected.
+Almost too easy.
 
-They're hoping it didn't meddle with what's inside.
-The Signal still feels off.
+Something ran off when we hit the site.
+Hoping it didn't meddle with what's inside.
 
-It's back at base, ready to decrypt.
+Signal still feels off.
+Fragment is back at base.
+Ready to decrypt.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Hunters grab canister as a wrong/ominous creature flees into dark; then sealed at Archive ready for decrypt. Clean HD. Exciting, eerie, readable.
-
-### Alt (263) — slightly tighter
+### Alt — status tone (242)
 
 ```text
 ...FRAGMENT RECOVERED.
 
-The Hunters picked it up, but it felt too easy.
-A creature ran off as soon as they got there.
+Status: secured and back at base.
+Pickup felt too easy.
 
-Hoping it didn't meddle with the Fragment.
-The Signal still feels off.
+Something ran off when we arrived.
+Hoping it didn't meddle with what's inside.
 
-It's home now, ready to decrypt.
+Signal still feels off.
+Decrypt incoming.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+### Alt — “we're back” (259)
+
+```text
+...FRAGMENT RECOVERED.
+
+We're back.
+Fragment is sealed at base.
+
+Pickup felt too easy though.
+A creature ran off the second we got there.
+
+Hoping it didn't touch what's inside.
+Signal still feels off.
+
+Ready to decrypt.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
@@ -56,9 +73,9 @@ FOLLOW THE SIGNAL.
 
 ## Next
 
-Decrypt → something’s wrong / name **The Broken** → push toward Sat Activation.
+Decrypt → Broken reveal → Sat Activation drip.
 
 ## Rules
 
-- Clearer prose in wrap · Broken hinted not named today  
+- Outgoing transmission · clearer prose · no mint crumbs today  
 - No em dashes · Seekers stay Seekers  
