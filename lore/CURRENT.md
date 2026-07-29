@@ -2,107 +2,67 @@
 
 ## Live position
 
-- Through **016**: 003 RECLAIMED, Seekers decrypting, Crown named  
-- **Today Tue:** 2-post day — Path payoff now, glitchy new Fragment tonight  
-- **Tomorrow AM:** Corrupted Fragment = **The Broken**; ARG unlocks mint **date** for players who’ve been hunting  
-- Mint mixes Hunters · Seekers · Crown · Broken (~30%)
-
-Plan detail: [`timeline/drafts/tue-wed-dual-posts.md`](./timeline/drafts/tue-wed-dual-posts.md)  
-Full wrap: [`timeline/wrap-arc-activation.md`](./timeline/wrap-arc-activation.md)
+- Through Tue: Entry 003 Path + glitchy “final Fragment” Signal (Crown race / shadow watcher)  
+- **Today Wed Jul 29:** Recover corrupted Fragment → name **The Broken** → Terminal starts **leaking mint crumbs**  
+- **Mint / Activation: Saturday Aug 1**  
+- Drip plan: [`timeline/drafts/wed-sat-activation-drip.md`](./timeline/drafts/wed-sat-activation-drip.md)
 
 ## Epic meaning
 
-Path not Chain → Activation opens Path on Gravemint → all four forces take form.  
-Long players get intel first via Terminal / Standing / Authorized.
+Fragments rebuild a **Path** to **Activation** (not the old Chain).  
+Activation pulls **Hunters · Seekers · Crown · Broken** on-chain. Supply / chain ID **4663**.
+
+## Verdict
+
+Your Wed game plan is right: corrupted return + Broken faction reveal + Terminal mint leak.  
+Keep stairs: **Wed identity crumbs → Thu date (locked-in first) → Fri full public protocols → Sat launch.**
 
 ---
 
-## TODAY POST 1 — ship now (Entry 003 + Activation tease)
+## WEDNESDAY — working post (Broken + Terminal leak)
 
 ```text
-...ARCHIVE ENTRY 003 RECOVERED.
+...CORRUPTED FRAGMENT RECOVERED.
 
-THE FRAGMENTS DO NOT RESTORE THE CHAIN.
-TOGETHER THEY REBUILD THE PATH.
+Hunters brought it home.
+Seekers opened the decrypt.
 
-Seekers finished the decrypt.
-001. 002. 003. Alignment locked.
+The Terminal caught the infection.
 
-The Path leads somewhere.
-Activation is approaching.
-
-Terminal open for Hunters still in the Signal.
-Tag 3 people you want in the Activation.
-
-http://HoodLynx.xyz
-FOLLOW THE SIGNAL.
-```
-
-**Art:** Archive Entries 001–003; Path forming; Seeker + Hunters; distant Activation glow.  
-**Terminal:** ARCHIVE 001+002+003 · PATH FORMING · ACTIVATION APPROACHING  
-**CTA:** Tag 3 friends for Activation (no reply phrase on this one)
-
----
-
-## TODAY POST 2 — LOCKED (glitchy Fragment / race the Crown)
-
-Meshes with art: chaotic glitch Signal, injured Hunters held back, strike team moving out, Crown closing in, hooded skeleton only in the shadows (unnamed).
-
-```text
-...NEW SIGNAL DETECTED.
-
-Signature: UNSTABLE.
-Transmission: GLITCHED.
-The waves are wrong.
-
-This may be the final Fragment.
-Find it before The Crown intercepts.
-Something else is watching.
-
-Reply SIGNAL GLITCHED if you can still read this.
-
-http://HoodLynx.xyz
-FOLLOW THE SIGNAL.
-```
-
-**(279 characters — fits X 280)**  
-**Art:** Chaotic glitchy Signal · hunters moving out · Crown pressure · hooded skeleton in shadows (no label). Injured hunters visual-only.  
-**Reply:** `SIGNAL GLITCHED`  
-**Don’t name Broken yet** — skeleton = visual dread only.
-
----
-
-## TOMORROW AM — corrupted + Broken + ARG date seal
-
-```text
-...FRAGMENT INTAKE FAILED.
-
-Status: CORRUPTED.
-
-The Broken got there first.
+THE BROKEN.
+They were us once.
+The Fragments ruined them.
 They don't reclaim. They ruin.
 
-Seekers can't finish a clean decrypt.
-Not without a clean key.
+The Path was never back to the old Chain.
+It leads to Activation.
 
-Authorized Hunters: return to the Terminal.
-Your Standing may be enough to stabilize the reading.
+4663...
+Robinhood...
+Hunters. Seekers. Crown. Broken.
 
-Solve the corruption.
-Activation intel is behind the seal.
+The Terminal is leaking.
+Enter if you can still read it.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Reward:** Terminal puzzle / Standing / Authorized path reveals **Activation date** before public dump.  
-Then later: public date → GTD confirm → full mint protocols.
+**Art:** Hunters returning to Archive/base with cracked/sick Fragment canister; Seeker at Terminal as screens glitch; hooded Broken/skeleton presence; mint crumbs half-readable on monitors (4663, four names). Clean HD.  
+**Terminal:** corruption flash + partial mint scrape; Authorized/Standing see more than new users.  
+**Don’t** dump Gravemint URL + full prices today.
 
----
+## Thu → Sat (short)
+
+| Day | Public | Locked-in (Terminal) |
+|-----|--------|----------------------|
+| Thu | Broken / Path unstable / Activation forming | **Saturday** date clears; GTD crumb for Authorized |
+| Fri | Full Activation Protocols (Gravemint, phases, prices, Sat) | Matches public |
+| Sat | Path opens / mint live | ACTIVATION ONLINE |
 
 ## Rules
 
-- 2 posts/day OK in wrap  
-- Post 1 today: tag-3 CTA (not reply) · Post 2: reply `SIGNAL GLITCHED`  
+- Crown takes · Broken ruin  
 - No em dashes · Seekers stay Seekers  
-- Broken epic before prices · date via ARG beats a boring announce  
+- Early players get date before cold public dump  
+- Broken must feel mint-worthy (~30%)  
