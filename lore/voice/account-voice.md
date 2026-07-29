@@ -81,6 +81,7 @@ Derived only from confirmed posts. Use this for continuity.
 - Inventing new numbered systems (logs, sites, files) that don’t already exist
 - Too many proper nouns in one caption — stick to `TERMS.md`
 - Em dashes / `--` connectors in public posts (reads AI-ish). Use a period or new line instead.
+- In wrap / late ARG: don’t overdo one-word staccato lines (“Barely.” / “Silent.”). Prefer clear short sentences so people still joining can follow.
 
 ## Public brand lines (from site / graphics — not deep lore)
 
