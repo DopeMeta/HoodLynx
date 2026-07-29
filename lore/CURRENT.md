@@ -3,72 +3,52 @@
 ## Live position
 
 - Tue: Entry 003 Path + glitchy final Fragment Signal  
-- **Today Wed:** Exciting recovery — Hunters arrive, ominous shapes **flee away from the Fragment**, canister home but wrong  
-- Broken still unnamed; dread sets them up for decrypt beat  
-- **Activation / mint: Saturday Aug 1** (separate drip — not today’s caption)
+- **Today Wed:** Clearer recovery post — too easy, creature fled, hope it didn’t meddle, Signal off, home ready to decrypt  
+- Broken still unnamed; dread sets decrypt beat  
+- **Activation / mint: Saturday Aug 1** (separate drip)
+
+## Voice note (wrap phase)
+
+Less cryptic one-word punch lines. Clearer sentences so late joiners can follow. Still transmission-flavored, just readable.
 
 ## Today’s job
 
-Make the recovery exciting. Hint The Broken by what runs from the Fragment.  
-No mint crumbs. No roster dump.
+Exciting but clear recovery. Hint Broken via the creature that ran. End ready to decrypt.  
+No mint crumbs.
 
 ---
 
-## WEDNESDAY POST — recommended (271 chars)
+## WEDNESDAY POST — recommended (280 chars)
 
 ```text
 ...FRAGMENT RECOVERED.
 
-Hunters reached it first.
-Barely.
+Hunters secured the Fragment, but it felt too easy.
+A creature ran off the second they got there.
 
-Shapes fled into the dark as they arrived.
-Away from the Fragment.
-Fast. Wrong. Silent.
+They're hoping it didn't meddle with what's inside.
+The Signal still feels off.
 
-Home. Sealed.
-The canister still feels hunted.
-
-Reply THEY FLED if you're watching.
+It's back at base, ready to decrypt.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Why it works:** race energy (“Barely”) + creatures flee *from the Fragment* (Broken hint) + still wrong at base.  
-**Art:** Hunters grabbing canister as hooded/skeletal shapes sprint into darkness away from Signal; then sealed at base optional second beat or single chase frame. Clean HD, exciting, eerie.
+**Art:** Hunters grab canister as a wrong/ominous creature flees into dark; then sealed at Archive ready for decrypt. Clean HD. Exciting, eerie, readable.
 
-### Alt — “creatures” wording (266)
-
-```text
-...FRAGMENT RECOVERED.
-
-Hunters closed on the Signal.
-Creatures broke and ran.
-Not at them. Away from the Fragment.
-
-Canister sealed at base.
-Something hollow stayed behind in the glow.
-
-Reply THEY FLED if you saw the shadows.
-
-http://HoodLynx.xyz
-FOLLOW THE SIGNAL.
-```
-
-### Alt — tighter chase (255)
+### Alt (263) — slightly tighter
 
 ```text
 ...FRAGMENT RECOVERED.
 
-Hunters got there just in time.
-Ominous figures fled as they arrived.
-Away from the canister. Into the dark.
+The Hunters picked it up, but it felt too easy.
+A creature ran off as soon as they got there.
 
-Sealed. Home.
-But the Signal still feels wrong.
+Hoping it didn't meddle with the Fragment.
+The Signal still feels off.
 
-Reply THEY RAN if you're online.
+It's home now, ready to decrypt.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
@@ -76,9 +56,9 @@ FOLLOW THE SIGNAL.
 
 ## Next
 
-Decrypt / open → name **The Broken** → Terminal corruption → Sat Activation drip.
+Decrypt → something’s wrong / name **The Broken** → push toward Sat Activation.
 
 ## Rules
 
-- Today = exciting wrong recovery · Broken hinted not named  
+- Clearer prose in wrap · Broken hinted not named today  
 - No em dashes · Seekers stay Seekers  
