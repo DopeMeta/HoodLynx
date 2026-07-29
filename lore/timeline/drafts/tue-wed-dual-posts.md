@@ -64,22 +64,24 @@ Tag 3 people you want in the Activation. (No reply phrase on Post 1.)
 
 ---
 
-## TODAY — Post 2 (tonight): New Fragment / glitchy Signal
+## TODAY — Post 2 (LOCKED): Glitchy Fragment / race the Crown
 
-**Job:** Fresh hunt object. Unusual / glitchy. Sets Broken corruption for morning. ARG energy without solving mint yet.
+**Job:** Fresh hunt object. Chaotic glitch Signal. Injured held back. Strike team races Crown. Skeleton dread unnamed. Sets Broken corruption for morning.
 
-### Caption (LOCKED draft)
+### Caption (LOCKED)
 
 ```text
 ...NEW SIGNAL DETECTED.
 
 Fragment signature: UNSTABLE.
 Transmission: GLITCHED.
+The waves are wrong.
 
-This one is not like the others.
-Something is wrong with the frequency.
+Injured Hunters hold the line.
+The rest move now.
 
-Trace it before it vanishes.
+Find it before The Crown intercepts.
+Something else is already watching from the dark.
 
 Reply SIGNAL GLITCHED if you can still read this.
 
@@ -87,13 +89,13 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### Art direction
+### Art direction (matches `glitchy-fragment-art-prompt.md`)
 
-- New Fragment canister / Signal beam that **stutters** — tear frames, chromatic split, sick green + static black
-- HUD: `FRAGMENT_???` / `STATUS: UNSTABLE` / `SIGNAL: GLITCHED`
-- Hint of bone/crack/corruption without naming Broken yet
-- Same city / Path glow in background so it feels continuous from Post 1
-- Canister mark broken ∞ or cracked chain-link
+- Chaotic unstable Signal: broken radar rings / warped waves / intentional glitch on beam only
+- Injured HoodLynx stay behind; healthier Hunters move out fast
+- Distant Crown intercept pressure
+- Hooded skeleton lurking in shadows (no name / no label)
+- Clean HD, no grain
 
 ### Terminal tweak (tonight)
 

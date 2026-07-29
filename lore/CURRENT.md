@@ -44,18 +44,22 @@ FOLLOW THE SIGNAL.
 
 ---
 
-## TODAY POST 2 — tonight (glitchy new Fragment)
+## TODAY POST 2 — LOCKED (glitchy Fragment / race the Crown)
+
+Meshes with art: chaotic glitch Signal, injured Hunters held back, strike team moving out, Crown closing in, hooded skeleton only in the shadows (unnamed).
 
 ```text
 ...NEW SIGNAL DETECTED.
 
 Fragment signature: UNSTABLE.
 Transmission: GLITCHED.
+The waves are wrong.
 
-This one is not like the others.
-Something is wrong with the frequency.
+Injured Hunters hold the line.
+The rest move now.
 
-Trace it before it vanishes.
+Find it before The Crown intercepts.
+Something else is already watching from the dark.
 
 Reply SIGNAL GLITCHED if you can still read this.
 
@@ -63,9 +67,9 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Stuttering Signal / cracked canister HUD UNSTABLE · GLITCHED.  
+**Art:** Chaotic glitchy Signal waves · injured stay behind · hunters deploying · Crown pressure distant · hooded skeleton in shadows (no label).  
 **Reply:** `SIGNAL GLITCHED`  
-**Don’t name Broken yet** — dread only.
+**Don’t name Broken yet** — skeleton = visual dread only.
 
 ---
 
