@@ -73,21 +73,21 @@ Tag 3 people you want in the Activation. (No reply phrase on Post 1.)
 ```text
 ...NEW SIGNAL DETECTED.
 
-Fragment signature: UNSTABLE.
+Signature: UNSTABLE.
 Transmission: GLITCHED.
 The waves are wrong.
 
-Injured Hunters hold the line.
-The rest move now.
-
+This may be the final Fragment.
 Find it before The Crown intercepts.
-Something else is already watching from the dark.
+Something else is watching.
 
 Reply SIGNAL GLITCHED if you can still read this.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
+
+**(279 characters — fits X 280)**
 
 ### Art direction (matches `glitchy-fragment-art-prompt.md`)
 

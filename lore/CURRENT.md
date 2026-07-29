@@ -51,15 +51,13 @@ Meshes with art: chaotic glitch Signal, injured Hunters held back, strike team m
 ```text
 ...NEW SIGNAL DETECTED.
 
-Fragment signature: UNSTABLE.
+Signature: UNSTABLE.
 Transmission: GLITCHED.
 The waves are wrong.
 
-Injured Hunters hold the line.
-The rest move now.
-
+This may be the final Fragment.
 Find it before The Crown intercepts.
-Something else is already watching from the dark.
+Something else is watching.
 
 Reply SIGNAL GLITCHED if you can still read this.
 
@@ -67,7 +65,8 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Chaotic glitchy Signal waves · injured stay behind · hunters deploying · Crown pressure distant · hooded skeleton in shadows (no label).  
+**(279 characters — fits X 280)**  
+**Art:** Chaotic glitchy Signal · hunters moving out · Crown pressure · hooded skeleton in shadows (no label). Injured hunters visual-only.  
 **Reply:** `SIGNAL GLITCHED`  
 **Don’t name Broken yet** — skeleton = visual dread only.
 
