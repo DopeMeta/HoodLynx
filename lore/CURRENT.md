@@ -2,67 +2,70 @@
 
 ## Live position
 
-- Through Tue: Entry 003 Path + glitchy “final Fragment” Signal (Crown race / shadow watcher)  
-- **Today Wed Jul 29:** Recover corrupted Fragment → name **The Broken** → Terminal starts **leaking mint crumbs**  
-- **Mint / Activation: Saturday Aug 1**  
-- Drip plan: [`timeline/drafts/wed-sat-activation-drip.md`](./timeline/drafts/wed-sat-activation-drip.md)
+- Tue: Entry 003 Path + glitchy final Fragment Signal  
+- **Today Wed Jul 29:** Corrupted Fragment returned · **The Broken** named · Terminal leaks mint crumbs  
+- **Activation / mint: Saturday Aug 1**  
+- Drip: [`timeline/drafts/wed-sat-activation-drip.md`](./timeline/drafts/wed-sat-activation-drip.md)
 
 ## Epic meaning
 
-Fragments rebuild a **Path** to **Activation** (not the old Chain).  
-Activation pulls **Hunters · Seekers · Crown · Broken** on-chain. Supply / chain ID **4663**.
-
-## Verdict
-
-Your Wed game plan is right: corrupted return + Broken faction reveal + Terminal mint leak.  
-Keep stairs: **Wed identity crumbs → Thu date (locked-in first) → Fri full public protocols → Sat launch.**
+Path → Activation. Four forces mint. Supply/chain **4663**.
 
 ---
 
-## WEDNESDAY — working post (Broken + Terminal leak)
+## WEDNESDAY POST — LOCKED candidate (269 chars)
 
 ```text
 ...CORRUPTED FRAGMENT RECOVERED.
 
 Hunters brought it home.
-Seekers opened the decrypt.
-
-The Terminal caught the infection.
+Decrypt infected the Terminal.
 
 THE BROKEN.
 They were us once.
-The Fragments ruined them.
 They don't reclaim. They ruin.
 
-The Path was never back to the old Chain.
-It leads to Activation.
-
-4663...
-Robinhood...
+Path leads to Activation.
+4663 · Robinhood
 Hunters. Seekers. Crown. Broken.
-
-The Terminal is leaking.
-Enter if you can still read it.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Hunters returning to Archive/base with cracked/sick Fragment canister; Seeker at Terminal as screens glitch; hooded Broken/skeleton presence; mint crumbs half-readable on monitors (4663, four names). Clean HD.  
-**Terminal:** corruption flash + partial mint scrape; Authorized/Standing see more than new users.  
-**Don’t** dump Gravemint URL + full prices today.
+**Hits:** recovery · Broken faction · Terminal infection · Path→Activation · 4663/Robinhood · four mint types  
+**CTA:** site/Terminal (no reply — saves characters)  
+**Art:** Hunters returning cracked canister to base; Terminal screens glitching mint crumbs; hooded Broken visible; clean HD  
+**Terminal same day:** flash corrupted scrape of 4663 / four types / Activation; date still sealed for most
 
-## Thu → Sat (short)
+### Alt (260) — harder “leak” tone
 
-| Day | Public | Locked-in (Terminal) |
-|-----|--------|----------------------|
-| Thu | Broken / Path unstable / Activation forming | **Saturday** date clears; GTD crumb for Authorized |
-| Fri | Full Activation Protocols (Gravemint, phases, prices, Sat) | Matches public |
-| Sat | Path opens / mint live | ACTIVATION ONLINE |
+```text
+...CORRUPTED FRAGMENT RECOVERED.
+
+Hunters brought it home.
+Decrypt infected the Terminal.
+
+THE BROKEN.
+They were us once.
+They don't reclaim. They ruin.
+
+Activation leak:
+4663 · Robinhood
+Hunters. Seekers. Crown. Broken.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+## Thu → Sat
+
+| Day | Beat |
+|-----|------|
+| Thu | Saturday date to Authorized/Standing first |
+| Fri | Full public Gravemint + phases + prices |
+| Sat | Activation live |
 
 ## Rules
 
-- Crown takes · Broken ruin  
-- No em dashes · Seekers stay Seekers  
-- Early players get date before cold public dump  
-- Broken must feel mint-worthy (~30%)  
+- Crown takes · Broken ruin · no em dashes · Seekers stay Seekers  
