@@ -31,46 +31,14 @@ Tight but workable calendar if you **soft-leak date by Thu** and **hard-announce
 
 ---
 
-## Wednesday post direction (recommended shape)
+## Wednesday post direction (corrected)
 
-One strong post (or 2 if you want art + Terminal same day):
+**Today is NOT a mint leak post.**
 
-1. Hunters **recovered** the glitched Fragment and brought it home  
-2. Seekers tried to decrypt → **corruption**  
-3. Name **The Broken** (they were us; they ruin; they got to this Fragment)  
-4. Terminal is flashing / leaking — Path was always leading to Activation  
-5. CTA: enter Terminal / reply for engagement  
+Today = Hunters return the Fragment to base. Eerie. Wrong. Something came back with it.  
+Save Broken name + Terminal mint crumbs for the decrypt/corruption beat next.
 
-**Do not dump full prices or Gravemint link yet on Wed** — leak identity of the mint (4663, four forces, Activation soon). Save date+venue for Thu/Fri so the drip has stairs.
-
-### Draft caption (working — trim for 280 if needed)
-
-```text
-...CORRUPTED FRAGMENT RECOVERED.
-
-Hunters brought it home.
-Seekers opened the decrypt.
-
-The Terminal caught the infection.
-
-THE BROKEN.
-They were us once.
-The Fragments ruined them.
-They don't reclaim. They ruin.
-
-The Path was never back to the old Chain.
-It leads to Activation.
-
-4663...
-Robinhood...
-Hunters. Seekers. Crown. Broken.
-
-The Terminal is leaking.
-Enter if you can still read it.
-
-http://HoodLynx.xyz
-FOLLOW THE SIGNAL.
-```
+4663 / Robinhood / four-force roster are ongoing campaign facts — do not re-announce them in this caption.
 
 ### Terminal glitch (Wed) — example leak frames
 
