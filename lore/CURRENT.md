@@ -3,18 +3,19 @@
 ## Live position
 
 - Wed: Fragment **004** secured  
-- **Today Thu:** Post 1 LOCKED — decryption attempted → Terminal corruption / leak  
-- Post 2 later: Broken named + Archive opening (info from 004 / Seekers’ record)  
+- **Today Thu:** Post 1 — decryption attempted → Terminal corruption / classified breach  
+- Post 2 later: Broken named + Archive opening (four types live there, not Terminal)  
 - **Mint / Activation: Saturday Aug 1**
 
 ## Voice rules
 
 - Clear outgoing transmission · flowing lines · no one-word staccato stacks  
-- Caption = story event · Terminal = “too much revealed” spectacle
+- Caption = story event · don’t hard-CTA “enter the Terminal” · link is enough  
+- Four forces reveal = Archive / Post 2, not Terminal type dump
 
 ---
 
-## THURSDAY POST 1 — LOCKED (201 chars)
+## THURSDAY POST 1 — LOCKED (180 chars)
 
 ```text
 FRAGMENT 004 // DECRYPTION ATTEMPTED
@@ -25,20 +26,18 @@ The Terminal took the hit.
 Corruption is in the system now.
 Too much is coming through.
 
-Enter the Terminal.
-
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Job:** Cause only. Send people to Terminal.  
-**Art:** Hunters/Seekers at Terminal as screens glitch and overflow with half-readable Activation crumbs. Clean HD, bright enough for feed.
+**Job:** Cause only. Soft push via link, not “enter the Terminal.”  
+**Art:** Terminal screens glitching with half-readable Activation crumbs. Clean HD, bright enough for feed.
 
 ---
 
-## TERMINAL — corrupted leak (ship with Post 1)
+## TERMINAL — corrupted breach (ship with Post 1)
 
-Spectacle screen. Feels broken. Too much Activation intel visible. Full clean announce still Friday.
+Feels like clearance failed and classified output is unprotected. No four-type roster here.
 
 ### Opening screen
 
@@ -49,22 +48,20 @@ ARCHIVE: 001 + 002 + 003 STORED
 FRAGMENT 004: DECRYPTION UNSTABLE
 ----------------------------------------
 ERROR: CONTAINMENT BREACH
-DATA LEAK IN PROGRESS
+CLEARANCE PROTOCOL: SUSPENDED
+CLASSIFIED FILES: UNPROTECTED
 ----------------------------------------
 ACTIVATION: SATURDAY
 VENUE: GRAVEMINT.IO
 SUPPLY: 4663
 CHAIN: ROBINHOOD
 ----------------------------------------
-TYPES DETECTED:
-HUNTERS / SEEKERS / CROWN / BROKEN
-----------------------------------------
 PHASES:
 AUTHORIZED HUNTER ACCESS
 FRAGMENT ACCESS
 PUBLIC
 ----------------------------------------
-SYSTEM CANNOT CONTAIN OUTPUT
+OUTPUT UNCONTAINED
 ▸ RECONNECT ANYWAY
 ```
 
@@ -75,7 +72,7 @@ SYSTEM CANNOT CONTAIN OUTPUT
 ...WALLET LOCKED TO IDENTITY
 HUNTER STANDING: SIGNAL DETECTED
 ----------------------------------------
-LEAK PARTIALLY STABILIZED FOR YOUR SESSION
+CLASSIFIED CHANNEL: PARTIALLY OPEN
 ACTIVATION: SATURDAY
 GRAVEMINT.IO
 ----------------------------------------
@@ -91,7 +88,7 @@ FOLLOW THE SIGNAL.
 HUNTER STANDING: RISING
 ----------------------------------------
 PRIOR RECONNECTIONS COUNTED.
-LEAK ACCESS: EXPANDED
+CLASSIFIED CHANNEL: EXPANDED
 ----------------------------------------
 ACTIVATION: SATURDAY
 GRAVEMINT.IO // 4663
@@ -101,13 +98,11 @@ STAND BY FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-Returning hunters get a clearer GTD crumb. New users still see Saturday + Gravemint.
-
 ---
 
 ## POST 2 direction (not locked yet)
 
-Broken named · Archive breach / Seekers’ record opening · site Archive book seed.  
+Broken named · Archive opening · four forces / Seekers’ record on site.  
 004 gave information; the cost was the system tearing open.
 
 ## Fri / Sat
