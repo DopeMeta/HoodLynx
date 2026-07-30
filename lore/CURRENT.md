@@ -98,21 +98,21 @@ FOLLOW THE SIGNAL.
 3. **Fri** — Clean public Activation protocols
 4. **Sat** — Activation / mint live
 
-### Post 2 working pick (not locked — see `timeline/drafts/thu-post-2-broken-archive.md`)
+### Post 2 working pick (not locked)
+
+Archive not ready → no Archive CTA. Soft Broken hypothesis + epic 004 close.  
+Drafts: `timeline/drafts/thu-post-2-broken-hypothesis-entry.md`
 
 ```text
-FRAGMENT 004 // SIGNATURE: BROKEN
+FRAGMENT 004 // PARTIAL
 
-Decrypt failed clean.
-Something else came through with it.
+Too easy to take. Impossible to read clean.
+Seekers hypothesize The Broken rode in with it.
 
-They call themselves The Broken.
-They don't reclaim. They ruin.
+004 forced one absolute reading through:
 
-THE CHAIN DESERVED TO FALL
-
-Classified files are unprotected.
-Read the Archive.
+THE CHAIN WAS NEVER MEANT TO CLOSE AGAIN.
+TOGETHER THE FRAGMENTS OPEN THE PATH.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
