@@ -16,14 +16,17 @@
 
 ---
 
-## WEDNESDAY POST — recommended (272 chars)
+## WEDNESDAY POST — LOCKED (owner edit, 268 chars)
 
 ```text
-...FRAGMENT 004 // STATUS: SECURED
+FRAGMENT 004 // STATUS: SECURED
 
-Pickup was too easy. We glimpsed something rickety before it fled, and there was a stench of death in the air.
+Pickup was too easy.
+We glimpsed something rickety before it fled.
+There was a stench of death in the air.
 
-Signal feels off, but a successful decrypt could complete the chain. We have to try.
+Signal feels off, but we have to try.
+A successful decryption could complete the chain.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
