@@ -1,28 +1,25 @@
 # The Chain
 
 **HoodLynx Archive · Record 01**  
-**Status:** FOUNDATIONAL  
-**Compiled by:** Seekers
+**Status:** FOUNDATIONAL
 
 ---
 
-Before the Severing, there was the Chain.
+Before the break, there was the Chain.
 
-Not a metaphor people used lightly. Not a slogan. The Chain was the living fabric of shared trust: the agreement that identity, ownership, promise, and memory could be verified by more than whoever shouted loudest. Markets moved on it. Communities stood on it. Kingdoms borrowed legitimacy from it.
+Not a slogan. A living agreement. Identity, ownership, promise, and memory could be verified by more than whoever shouted loudest. Where the Chain held, deception had to work harder than truth.
 
-Where the Chain held, deception had to work harder than truth.
+Hunters say it belonged to everyone.  
+The Crown says it needed guardians.  
+Seekers say it was consensus made durable.
 
-Seekers describe the Chain as consensus made durable. Hunters describe it as something that belonged to everyone. The Crown describes it as something that required guardianship. All three descriptions can be true at once and still incomplete.
-
-What matters for this record is simpler:
+All three can be true. None of them saved it.
 
 The Chain was real enough to break.
 
-When it held, strangers could coordinate without surrendering everything to a single throne. When it failed, belief itself became unstable. That is why later recoveries matter so much. Fragments are not souvenirs of a dead age. They are pieces of the agreement that once made reality hard to fake.
-
-Some still speak of “restoring the Chain” as if the old circle can be soldered shut and worn again. The Archive no longer treats that as settled doctrine. Fragment 003 forced a harder reading. See later records.
+Some still talk about restoring it like you can solder a circle shut and wear it again. The Archive no longer treats that as settled. Later Fragments forced a harder reading.
 
 For now, hold this:
 
-The Chain was shared trust made undeniable.  
+Shared trust made the world hard to fake.  
 Its absence is why the Signal still calls.

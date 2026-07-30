@@ -1,29 +1,29 @@
 # The Severing
 
 **HoodLynx Archive · Record 02**  
-**Status:** FOUNDATIONAL  
-**Compiled by:** Seekers
+**Status:** FOUNDATIONAL
 
 ---
 
-The Chain was not destroyed in fire. It was **Severed**.
+The Chain did not burn.
 
-Someone discovered how to cut trust itself. Not the appearance of trust. The mechanism. After that cut, people stopped believing in the same reality at the same time. Kingdoms collapsed. Markets failed. Communities fractured. Truth and deception became difficult to tell apart because the shared standard that once separated them was gone.
+It was **Severed**.
 
-Public recovery later produced the first absolute line:
+Someone found a way to cut trust itself — not the performance of trust, the mechanism. After that cut, people stopped living in the same reality at the same time. Kingdoms folded. Markets failed. Truth and deception blurred because the standard that separated them was gone.
+
+Then Fragment 001 forced the first absolute line into daylight:
 
 > THE SEVERING WAS NOT AN ACCIDENT. SOMEONE MADE THE CHOICE.
 
-That sentence is not Seeker speculation. It came through Fragment 001 and entered the Archive as Entry 001. It means the wound had an author.
+The wound had an author.
 
-We still do not publish a name for that author. The Archive refuses to invent one. Motive remains contested: liberation, control, revenge, experiment, accident dressed as doctrine. What we can say is that the Severing was a decision with consequences large enough to echo into the present hunt.
+We still do not print a name. Motive stays contested: liberation, coup, revenge, experiment. What is verified is simpler and worse.
 
-Date crumbs appear in older materials — including a mark reading SEVERED: APRIL 6TH 1963. Whether that stamp is literal history, ritual calendar, or puzzle residue remains under review. Seekers do not promote unverified chronology as law.
+The Severing ended the Chain as living consensus.  
+It was chosen.  
+Everything after — Signal, Fragments, factions, Terminal — lives in that shadow.
 
-What is verified:
+Older materials stamp a date: **SEVERED: APRIL 6TH 1963**. Literal history, ritual calendar, or puzzle residue? Still under review.
 
-- The Severing ended the Chain as a living consensus
-- It was chosen
-- Everything after — Signal, Fragments, factions, Terminal — exists in the shadow of that choice
-
-If the Chain was the agreement, the Severing was the betrayal of agreement. The rest of this Archive is the attempt to understand what can still be rebuilt, and what must never be rebuilt the same way.
+If the Chain was the agreement, the Severing was the betrayal of agreement.  
+This Archive is the attempt to learn what can still be rebuilt — and what must never return the same way.
