@@ -91,9 +91,33 @@ STAND BY FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-## Next
+## Thursday beat map
 
-Tomorrow: decrypt goes wrong → name **The Broken** → update Terminal to corruption state → Sat Activation drip.
+1. **Post 1** — 004 decryption attempted → Terminal mayhem / lockdown (`Terminal Code: 4663` in art)
+2. **Post 2** — Name **The Broken** + Archive leak on site (four forces live in Archive pages, not a mint dump)
+3. **Fri** — Clean public Activation protocols
+4. **Sat** — Activation / mint live
+
+### Post 2 working pick (not locked — see `timeline/drafts/thu-post-2-broken-archive.md`)
+
+```text
+FRAGMENT 004 // SIGNATURE: BROKEN
+
+Decrypt failed clean.
+Something else came through with it.
+
+They call themselves The Broken.
+They don't reclaim Fragments. They ruin them.
+
+Their creed is already in the Archive:
+THE CHAIN DESERVED TO FALL
+
+Classified files are unprotected.
+Read what leaked.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
 
 ## Archive site book (draft ready)
 
