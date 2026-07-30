@@ -34,7 +34,7 @@ FOLLOW THE SIGNAL.
 
 ## TERMINAL — Fragment 004 build (ship with Wed post)
 
-Corruption / Broken naming = **tomorrow**. Tonight = secured, unstable, decrypt pending.
+Not full glitch chaos yet. Something is starting to rot underneath. Broken naming = tomorrow.
 
 ### Opening screen
 
@@ -46,12 +46,14 @@ ARCHIVE: 001 + 002 + 003 STORED
 TARGET: FRAGMENT 004
 STATUS: SECURED
 SIGNAL: UNSTABLE
-CONTAINMENT: HOLDING
+CONTAINMENT: HOLDING... FOR NOW
 ----------------------------------------
 DECRYPTION: QUEUED
-NOTE: PICKUP ANOMALY LOGGED
-COMPLETE CHAIN ATTEMPT: PENDING
+WARNING: FOREIGN TRACE DETECTED
+CORRUPTION INDEX: RISING
+CHAOS THRESHOLD: APPROACHING
 ----------------------------------------
+COMPLETE CHAIN ATTEMPT: PENDING
 HUNTER STANDING: ACTIVE
 RECRUITMENT: OPEN
 ----------------------------------------
@@ -74,6 +76,9 @@ FRAGMENT 004: SECURED
 SIGNAL: UNSTABLE
 DECRYPTION: QUEUED
 ----------------------------------------
+WARNING: FOREIGN TRACE DETECTED
+CORRUPTION INDEX: RISING
+----------------------------------------
 IDENTITY QUEUED FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
@@ -89,8 +94,10 @@ PRIOR RECONNECTIONS COUNTED.
 YOUR SIGNAL CARRIES MORE WEIGHT.
 ----------------------------------------
 FRAGMENT 004: SECURED
-SIGNAL: UNSTABLE
 DECRYPTION: QUEUED
+WARNING: FOREIGN TRACE DETECTED
+CORRUPTION INDEX: RISING
+CHAOS THRESHOLD: APPROACHING
 ----------------------------------------
 STAND BY FOR VERIFICATION.
 FOLLOW THE SIGNAL.
