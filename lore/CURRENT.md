@@ -2,113 +2,115 @@
 
 ## Live position
 
-- Wed: Fragment **004** secured (too easy / rickety / death stench) · Terminal already uneasy  
-- **Today Thu Jul 30:** 2 posts — decryption attempt corrupts Terminal + Archive/Broken payoff  
-- **Mint / Activation: Saturday Aug 1**  
-- Archive-as-site-book is a lasting asset; seed it today, don’t dump the whole book in captions
+- Wed: Fragment **004** secured  
+- **Today Thu:** Post 1 LOCKED — decryption attempted → Terminal corruption / leak  
+- Post 2 later: Broken named + Archive opening (info from 004 / Seekers’ record)  
+- **Mint / Activation: Saturday Aug 1**
 
-## Story editor verdict (unbiased)
+## Voice rules
 
-Your instinct is right on the **engine**:
-decrypt 004 → Terminal corruption → too much truth leaks.
-
-Where it gets weak:
-if Post 1 already dumps launch info **and** Post 2 is “archives broadcasting too much info,” both posts do the same job. Post 2 will feel like a repeat, not a ramp.
-
-Also: “decrypted successfully” + “Terminal corrupted” can muddy stakes. Pick one clean causality.
-
-**Best causality:**
-We attempted decryption → corruption hit → in the bleed, intel spilled / Archive tore open.
-Whether 004 is “fully decrypted” can stay partial: Seekers got a reading, but the cost was the system opening too wide.
-
-**Archive book idea:** excellent. That’s the Seekers’ lasting gift. Use Post 2 to *open* the Archive publicly; put the real pages on the site. Don’t try to fit the whole book into X.
+- Clear outgoing transmission · flowing lines · no one-word staccato stacks  
+- Caption = story event · Terminal = “too much revealed” spectacle
 
 ---
 
-## Recommended Thu 2-post ramp
-
-### POST 1 — Cause (corruption event)
-**Job only:** We tried to decrypt Fragment 004. It corrupted the Terminal. Something is leaking. Send people to the Terminal.
-
-Do **not** fully explain Broken yet. Do **not** dump full mint schedule. Let the Terminal be the “too much got revealed” toy.
-
-### POST 2 — Cost / reveal (same night)
-**Job:** Name **The Broken**. Seekers confirm the Archive is being forced open / broadcast. Tease HoodLynx Archive on site. Optional soft Activation crumb if Terminal already leaked date.
-
-This is the “at what cost” post — not a second leak dump.
-
-| Post | One job |
-|------|---------|
-| 1 | Decrypt attempt → Terminal corruption → go look |
-| 2 | Broken named + Archive opening / broadcast + site book seed |
-
----
-
-## What should leak where (Thu)
-
-**Terminal (locked-in first):** scrambled / flashing Activation crumbs — date Saturday, Gravemint, phases, 4663, four forces — feels broken and “too much”
-
-**Post 1 caption:** corruption event only  
-**Post 2 caption:** Broken + Archive cost  
-**Site:** start Archive book pages (Seekers’ ongoing record of Fragments 001–004)
-
-**Fri:** clean public Activation announcement (phases/prices/Gravemint/Saturday)  
-**Sat:** mint
-
----
-
-## Draft direction — POST 1 (working)
+## THURSDAY POST 1 — LOCKED (201 chars)
 
 ```text
-...DECRYPTION ATTEMPT: FRAGMENT 004
+FRAGMENT 004 // DECRYPTION ATTEMPTED
 
 We opened it.
 The Terminal took the hit.
 
-Corruption is spreading through the system.
+Corruption is in the system now.
 Too much is coming through.
 
-Enter the Terminal if you can still read it.
+Enter the Terminal.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-## Draft direction — POST 2 (working)
+**Job:** Cause only. Send people to Terminal.  
+**Art:** Hunters/Seekers at Terminal as screens glitch and overflow with half-readable Activation crumbs. Clean HD, bright enough for feed.
+
+---
+
+## TERMINAL — corrupted leak (ship with Post 1)
+
+Spectacle screen. Feels broken. Too much Activation intel visible. Full clean announce still Friday.
+
+### Opening screen
 
 ```text
-...ARCHIVE BREACH
+// HOODLYNX ARCHIVE TERMINAL
+STATUS: CORRUPTED
+ARCHIVE: 001 + 002 + 003 STORED
+FRAGMENT 004: DECRYPTION UNSTABLE
+----------------------------------------
+ERROR: CONTAINMENT BREACH
+DATA LEAK IN PROGRESS
+----------------------------------------
+ACTIVATION: SATURDAY
+VENUE: GRAVEMINT.IO
+SUPPLY: 4663
+CHAIN: ROBINHOOD
+----------------------------------------
+TYPES DETECTED:
+HUNTERS / SEEKERS / CROWN / BROKEN
+----------------------------------------
+PHASES:
+AUTHORIZED HUNTER ACCESS
+FRAGMENT ACCESS
+PUBLIC
+----------------------------------------
+SYSTEM CANNOT CONTAIN OUTPUT
+▸ RECONNECT ANYWAY
+```
 
-Fragment 004 gave us a reading.
-At a cost.
+### After submit — NEW
 
-The Broken were in the Signal.
-They don't reclaim. They ruin.
-THE CHAIN DESERVED TO FALL.
-
-Seekers can't stop the Archive from broadcasting.
-The record is opening.
-
-http://HoodLynx.xyz
+```text
+...RECONNECT SIGNAL SENT
+...WALLET LOCKED TO IDENTITY
+HUNTER STANDING: SIGNAL DETECTED
+----------------------------------------
+LEAK PARTIALLY STABILIZED FOR YOUR SESSION
+ACTIVATION: SATURDAY
+GRAVEMINT.IO
+----------------------------------------
+IDENTITY QUEUED FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-*(Trim both to 280 when locking. Terminal gets the loud mint glitch; posts stay story-clean.)*
+### After submit — RETURNING
 
-## Archive book (site)
+```text
+...RECONNECT SIGNAL SENT
+...RETURNING IDENTITY RECOGNIZED
+HUNTER STANDING: RISING
+----------------------------------------
+PRIOR RECONNECTIONS COUNTED.
+LEAK ACCESS: EXPANDED
+----------------------------------------
+ACTIVATION: SATURDAY
+GRAVEMINT.IO // 4663
+AUTHORIZED HUNTER ACCESS: GTD WINDOW
+----------------------------------------
+STAND BY FOR VERIFICATION.
+FOLLOW THE SIGNAL.
+```
 
-Seeker perspective. Ongoing log as Fragments were found.
-Pages can include:
-- what a Fragment is
-- Entry 001 / 002 / 003
-- 004 anomaly / Broken
-- Path vs Chain
-- Activation approaching
+Returning hunters get a clearer GTD crumb. New users still see Saturday + Gravemint.
 
-This becomes the lore home after mint too.
+---
 
-## Rules
+## POST 2 direction (not locked yet)
 
-- Clear outgoing transmission · no one-word staccato stacks  
-- One new job per post  
-- Terminal = leak spectacle · posts = story meaning  
+Broken named · Archive breach / Seekers’ record opening · site Archive book seed.  
+004 gave information; the cost was the system tearing open.
+
+## Fri / Sat
+
+Fri: clean public Activation protocols  
+Sat: mint live  
