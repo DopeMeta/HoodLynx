@@ -3,6 +3,8 @@
 For ChatGPT / image gen. Pair with locked Fragment 004 post.  
 Attach HoodLynx hunter emblem / logo if you want the cloak sigil exact.
 
+**Broken creed (locked for public crumbs):** THE CHAIN DESERVED TO FALL
+
 ## Paste this
 
 ```text
@@ -34,8 +36,8 @@ Half in shadow, half outlined by green glitch light. Not center stage. Not gore.
 3) HIDDEN / HARD-TO-READ ENVIRONMENT TEXT (tiny, low contrast, easy to miss):
 Place these as environmental details only — NOT main titles, NOT stickers, NOT centered captions. Very small, half in shadow, slightly glitched or stamped:
 
-- Somewhere on a distant wall / metal panel / graffiti stencil, a Broken creed crumb in tiny letters:
-  POWER BELONGS TO THOSE WILLING TO TAKE IT
+- Somewhere on a distant wall / metal panel / graffiti stencil, the Broken creed in tiny letters exactly:
+  THE CHAIN DESERVED TO FALL
   (optional tiny second line near it: THE BROKEN)
 - Somewhere else hard to notice (canister rim stamp, wet reflection, cracked glass, far terminal scrap):
   LAUNCH IMMINENT
@@ -54,7 +56,7 @@ AVOID: crystals, purple glow, cartoon look, comic halftone, big HUD spam, floati
 ## If text is too loud
 
 ```text
-Same image. Make POWER BELONGS TO THOSE WILLING TO TAKE IT, LAUNCH IMMINENT, and gravemint.io much smaller and harder to notice. Push them into background environment detail only. Keep main scene unchanged: triumphant Hunters with glitched Fragment 004, hunter sigils on cloaks, rickety bone-lynx-eared figure fleeing into darkness.
+Same image. Make THE CHAIN DESERVED TO FALL, LAUNCH IMMINENT, and gravemint.io much smaller and harder to notice. Push them into background environment detail only. Keep main scene unchanged: triumphant Hunters with glitched Fragment 004, hunter sigils on cloaks, rickety bone-lynx-eared figure fleeing into darkness.
 ```
 
 ## If grainy / noisy
@@ -72,5 +74,5 @@ Same image. Push the fleeing rickety figure deeper into shadow, but keep bone ly
 
 Too hidden:
 ```text
-Same image. Make the fleeing rickety figure’s bone lynx ear silhouette slightly more readable without moving it to center stage.
+Same image. Make the fleeing rickety figure's bone lynx ear silhouette slightly more readable without moving it to center stage.
 ```
