@@ -3,7 +3,7 @@
 ## Live position
 
 - Tue: Entry 003 Path + glitchy final Fragment Signal  
-- **Today Wed:** Recovery transmission — too easy, rickety/undead glimpse fled, Signal off, decrypt anyway because it could complete the chain  
+- **Today Wed:** Recovery transmission — too easy, rickety glimpse fled, stench of death, Signal off, decrypt anyway because it could complete the chain  
 - Broken unnamed until decrypt lands wrong  
 - **Activation / mint: Saturday Aug 1** (separate drip)
 
@@ -16,14 +16,14 @@
 
 ---
 
-## WEDNESDAY POST — recommended (280 chars)
+## WEDNESDAY POST — recommended (277 chars)
 
 ```text
 ...FRAGMENT RECOVERED.
 
 Status: SECURED
 
-Got it back to base. Pickup was too easy, and we caught a glimpse of something rickety and undead before it fled.
+Pickup was too easy. We glimpsed something rickety before it fled, and there was a stench of death in the air.
 
 Signal feels off, but a successful decrypt could complete the chain. We have to try.
 
@@ -31,16 +31,16 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### Alt — tighter (250)
+### Alt — with “back at base” (check chars if edited)
 
 ```text
 ...FRAGMENT RECOVERED.
 
 Status: SECURED
 
-Too easy. A rickety, half-dead shape bolted when we hit the site, and the Signal still feels wrong.
+Back at base. Pickup was too easy. Something rickety fled when we arrived, and there was a stench of death in the air.
 
-Even so, a clean decrypt could complete the chain. We're opening it.
+Signal feels off, but a successful decrypt could complete the chain. We have to try.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
