@@ -14,7 +14,9 @@ Clear sentences. Not one-word staccato.
 
 ---
 
-## WEDNESDAY POST — recommended (265 chars)
+## WEDNESDAY POST — recommended (227 chars)
+
+More report / oomph, less story narration. Rickety undead glimpse.
 
 ```text
 ...FRAGMENT RECOVERED.
@@ -22,34 +24,51 @@ Clear sentences. Not one-word staccato.
 Status: SECURED
 Signal: UNSTABLE
 
-We got it. Faster than expected.
-Almost too easy.
+Recovery: too easy.
+Visual: rickety. Half-dead. Moving wrong.
+It fled on contact.
 
-Something ran off when we hit the site.
-Hoping it didn't meddle with what's inside.
-
-Back at base.
-Ready to decrypt.
+Fragment sealed.
+Decrypt incoming. Stay sharp.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### Alt — extra official lines (275)
+### Alt — skeletal word (236)
 
 ```text
 ...FRAGMENT RECOVERED.
 
-Status: SECURED // BACK AT BASE
+Status: SECURED
+Signal: CORRUPT TRACE
 
-We got it. Faster than expected.
-Almost too easy.
+We got it.
+But not clean.
 
-Something ran off when we hit the site.
-Hoping it didn't meddle with what's inside.
+Glimpse in the dark: something skeletal. Rickety.
+It ran the second we hit the site.
 
-Signal integrity: OFF
-Decrypt: STANDING BY
+Decrypt standing by.
+
+http://HoodLynx.xyz
+FOLLOW THE SIGNAL.
+```
+
+### Alt — site contact tone (230)
+
+```text
+...FRAGMENT RECOVERED.
+
+Status: SECURED
+Signal: UNSTABLE
+
+Too easy.
+Site contact: glimpse of a rickety figure.
+Dead-looking. It bolted.
+
+Fragment sealed at base.
+Do not decrypt unsupervised.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
