@@ -3,76 +3,66 @@
 For ChatGPT / image gen. Pair with locked Fragment 004 post.  
 Attach HoodLynx hunter emblem / logo if you want the cloak sigil exact.
 
-**Broken creed (locked for public crumbs):** THE CHAIN DESERVED TO FALL
+**Broken creed crumb:** THE CHAIN DESERVED TO FAIL  
+**Hidden mint crumb only:** gravemint.io
 
 ## Paste this
 
 ```text
 Cinematic ultra-clean HD digital illustration for HoodLynx ARG, widescreen 16:9.
 
-MOOD: Epic and triumphant, but eerie. Hunters won the recovery. The Fragment is wrong. Something rickety fled into the dark.
+MOOD: Epic chase / escape energy. The grab just happened. Everyone is moving. Triumph mixed with dread.
 
-SETTING: Nighttime HoodLynx return / overlook after the grab. Rainy cyber-noir industrial city. Deep blacks, chaotic neon lime-green Fragment glitch light, muted steel. Controlled composition, not cluttered. Triumphant pose energy with dread in the edges.
+SETTING: Rainy cyber-noir industrial night street / overlook between the Fragment site and HoodLynx base. Deep blacks, neon lime-green Fragment light, muted steel, wet ground. Controlled composition, not cluttered. Clear left-vs-right motion.
 
 QUALITY (STRICT):
 Ultra sharp, premium clean concept art.
 NO film grain, NO noise, NO speckles, NO dust, NO dirty texture overlays, NO grit filters, NO muddy compression.
 Smooth materials, crisp edges, clean wet reflections.
-Chaos/glitch effects ONLY on the Fragment canister and its aura — intentional graphic distortion, not random image grain.
+Any glitch/chaos stays light and tied to the Fragment canister only — not random image grain.
 
 MAIN STORY BEATS:
 
-1) FOREGROUND / CENTER — HUNTERS WITH FRAGMENT 004
-2–3 anthropomorphic hooded lynx Hunters in a triumphant recovery pose, holding up ONE glowing Fragment canister between them (the last Fragment).
-The canister is heavily GLITCHED and filled with chaos: stuttering neon-green chain-link energy inside, torn signal shards, unstable flicker, warped light, corrupted UI-like fractures around the canister only. NOT crystals. Chain-link Fragment tech.
-Hunters look battle-ready and victorious but tense — they know something is off.
-On their hooded cloaks / backs: clear HoodLynx HUNTER SIGIL (lynx head inside chain-link circle). Use the attached logo/sigil if provided. Do not invent a random crest.
+1) ONE SIDE — HUNTERS RUNNING BACK TO BASE
+2–3 anthropomorphic hooded lynx Hunters sprinting away from the scene toward base / safety, carrying ONE Fragment canister.
+Urgent, fast, triumphant escape energy — they got it and they are getting out.
+On their hooded cloaks / backs: clear HoodLynx HUNTER SIGIL (lynx head inside chain-link circle). Use the attached logo/sigil if provided.
 
-2) BACKGROUND RIGHT / EDGE — RICKETY FIGURE FLEEING
-A shadowy figure sprinting away into deep darkness, same energy as prior chase art.
-Still readable as a rickety being: thin bone limbs, broken posture, hooded, with distinct BONE LYNX EARS on the silhouette (solidifies The Broken without a name label on the figure).
-Half in shadow, half outlined by green glitch light. Not center stage. Not gore. Eerie and fast.
+2) FRAGMENT CANISTER
+The canister contains a glowing chain-link Fragment — literally a link of chains / fragmented chain piece inside the secure canister (NOT crystals, NOT gems).
+Neon lime-green chain-link energy visible through the canister glass. Slightly unstable glow OK, but keep it readable as a chain link in a canister.
 
-3) HIDDEN / HARD-TO-READ ENVIRONMENT TEXT (tiny, low contrast, easy to miss):
-Place these as environmental details only — NOT main titles, NOT stickers, NOT centered captions. Very small, half in shadow, slightly glitched or stamped:
+3) OPPOSITE SIDE — THE BROKEN ESCAPING THE OTHER DIRECTION
+A rickety hooded figure fleeing the opposite direction from the Hunters (split escape / opposite paths).
+IMPORTANT LOOK: wearing a WIZARD HAT and a CLOAK. Thin / rickety undead-skeleton energy, but the silhouette read is wizard hat + cloak first.
+A tiny bit of lightning / electric arcs coming off him as he runs — small, sharp, controlled, not a full storm.
+Not center-stage gore. Fast, eerie, escaping.
 
-- Somewhere on a distant wall / metal panel / graffiti stencil, the Broken creed in tiny letters exactly:
-  THE CHAIN DESERVED TO FALL
-  (optional tiny second line near it: THE BROKEN)
-- Somewhere else hard to notice (canister rim stamp, wet reflection, cracked glass, far terminal scrap):
-  LAUNCH IMMINENT
-- Somewhere else equally hard to notice:
+4) HIDDEN / HARD-TO-READ ENVIRONMENT TEXT (tiny, low contrast, easy to miss):
+Only these two crumbs. Environmental detail only — NOT main titles, NOT stickers, NOT centered captions:
+
+- Distant wall / metal panel / graffiti stencil, very hard to read:
+  THE CHAIN DESERVED TO FAIL
+- Somewhere else equally hard to notice (wet reflection, cracked glass, far scrap, canister rim stamp):
   gravemint.io
 
-Do NOT make LAUNCH IMMINENT or gravemint.io large or obvious.
-Primary scene should read first as: triumphant Hunters + chaotic Fragment + fleeing rickety bone-eared figure.
+Do NOT add LAUNCH IMMINENT.
+Do NOT make either line obvious.
 
-COLOR: deep black, chaotic neon lime green, muted steel, wet asphalt, faint bone-white rim light on the fleeing figure.
-One clear epic read left-to-right or center-out: Hunters with glitched Fragment → fleeing Broken silhouette into dark.
+COLOR: deep black, neon lime green chain-link glow, muted steel, wet asphalt, small pale lightning accents on the fleeing wizard-hat figure.
+One clear epic read: Hunters racing one way with the chain-link canister ↔ Broken wizard-hat figure fleeing the other way with tiny lightning.
 
-AVOID: crystals, purple glow, cartoon look, comic halftone, big HUD spam, floating badges, watermarks, gore, blood pools, crowded collage, readable giant marketing text, misspellings.
+AVOID: crystals, purple glow, cartoon look, comic halftone, big HUD spam, floating badges, watermarks, gore, blood pools, crowded collage, giant readable marketing text, misspellings, Launch Imminent text.
 ```
 
 ## If text is too loud
 
 ```text
-Same image. Make THE CHAIN DESERVED TO FALL, LAUNCH IMMINENT, and gravemint.io much smaller and harder to notice. Push them into background environment detail only. Keep main scene unchanged: triumphant Hunters with glitched Fragment 004, hunter sigils on cloaks, rickety bone-lynx-eared figure fleeing into darkness.
+Same image. Make THE CHAIN DESERVED TO FAIL and gravemint.io much smaller and harder to notice. Background environment detail only. Keep composition: Hunters running one way with chain-link Fragment canister, wizard-hat cloaked Broken fleeing the opposite way with tiny lightning.
 ```
 
 ## If grainy / noisy
 
 ```text
-Same image. Remove all grain, noise, speckles, and dirty texture. Keep intentional glitch chaos only on the Fragment canister. Ultra clean HD.
-```
-
-## If Broken silhouette is too clear / too hidden
-
-Too clear:
-```text
-Same image. Push the fleeing rickety figure deeper into shadow, but keep bone lynx ears readable in the outline.
-```
-
-Too hidden:
-```text
-Same image. Make the fleeing rickety figure's bone lynx ear silhouette slightly more readable without moving it to center stage.
+Same image. Remove all grain, noise, speckles, and dirty texture. Ultra clean HD. Keep the chain-link Fragment in the canister and the tiny lightning on the fleeing wizard-hat figure.
 ```
