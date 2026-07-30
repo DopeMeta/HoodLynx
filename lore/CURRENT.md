@@ -16,12 +16,10 @@
 
 ---
 
-## WEDNESDAY POST — recommended (277 chars)
+## WEDNESDAY POST — recommended (272 chars)
 
 ```text
-...FRAGMENT RECOVERED.
-
-Status: SECURED
+...FRAGMENT 004 // STATUS: SECURED
 
 Pickup was too easy. We glimpsed something rickety before it fled, and there was a stench of death in the air.
 
