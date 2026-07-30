@@ -107,17 +107,18 @@ Decrypt failed clean.
 Something else came through with it.
 
 They call themselves The Broken.
-They don't reclaim Fragments. They ruin them.
+They don't reclaim. They ruin.
 
-Their creed is already in the Archive:
 THE CHAIN DESERVED TO FALL
 
 Classified files are unprotected.
-Read what leaked.
+Read the Archive.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
+
+(~279 chars — not locked until you approve)
 
 ## Archive site book (draft ready)
 
