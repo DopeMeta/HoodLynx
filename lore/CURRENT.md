@@ -15,7 +15,7 @@
 
 ---
 
-## THURSDAY POST 1 — LOCKED (223 chars)
+## THURSDAY POST 1 — LOCKED (260 chars)
 
 ```text
 FRAGMENT 004 // DECRYPTION ATTEMPTED
@@ -23,16 +23,16 @@ FRAGMENT 004 // DECRYPTION ATTEMPTED
 We opened it.
 The Terminal took the hit.
 
-Corruption is in the system now.
 Too much is coming through.
+Hunters need to access the Terminal and help protect the information.
 
-Reply BREACH CONFIRMED if you checked it.
+Reply ALPHA CONTAINED if you got through.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Job:** Cause only. Soft site link + reply CTA so people who open Terminal come back and participate in comments.  
+**Job:** Corruption event + mission CTA to Terminal + reply loop back to comments (`ALPHA CONTAINED`).  
 **Art:** Terminal screens glitching with half-readable Activation crumbs. Clean HD, bright enough for feed.
 
 ---
