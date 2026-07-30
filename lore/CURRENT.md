@@ -95,6 +95,12 @@ FOLLOW THE SIGNAL.
 
 Tomorrow: decrypt goes wrong → name **The Broken** → update Terminal to corruption state → Sat Activation drip.
 
+## Archive site book (draft ready)
+
+Longform Seeker pages for hoodlynx.xyz live in `lore/hoodlynx-archive/` (Records 00–15).  
+Leak framing: Terminal breach → CLASSIFIED FILES UNPROTECTED → these pages can surface on site.  
+Use **Seekers** publicly; keep Broken mysterious; Activation page stays soft/redacted.
+
 ## Note
 
-Public Entry 003 already said Fragments rebuild the **Path**, not the old Chain. Using “complete the chain” here is in-world urgency / what the network is fighting for — fine unless you want “Path” instead.
+Public Entry 003 already said Fragments rebuild the **Path**, not the old Chain. Using “complete the chain” here is in-world urgency / what the network is fighting for — fine unless you want “Path” instead. Record 13 in the Archive wrestles with that tension on purpose.
