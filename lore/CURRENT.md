@@ -3,7 +3,7 @@
 ## Live position
 
 - Tue: Entry 003 Path + glitchy final Fragment Signal  
-- **Today Wed:** Recovery transmission — too easy, rickety glimpse fled, stench of death, Signal off, decrypt anyway because it could complete the chain  
+- **Today Wed:** Fragment **004** secured — too easy, rickety glimpse fled, stench of death, Signal off, decrypt anyway because it could complete the chain  
 - Broken unnamed until decrypt lands wrong  
 - **Activation / mint: Saturday Aug 1** (separate drip)
 
