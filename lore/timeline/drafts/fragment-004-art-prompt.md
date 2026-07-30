@@ -3,73 +3,87 @@
 For ChatGPT / image gen. Pair with locked Fragment 004 post.  
 Attach HoodLynx hunter emblem / logo if you want the cloak sigil exact.
 
-**Broken creed crumb:** THE CHAIN DESERVED TO FALL  
-**Hidden mint crumb only:** gravemint.io
+**Must-include hidden crumbs:**
+- THE CHAIN DESERVED TO FALL
+- LAUNCH IMMINENT
+- gravemint.io
 
 ## Paste this
 
 ```text
-Cinematic ultra-clean HD digital illustration for HoodLynx ARG, widescreen 16:9.
+Cinematic ultra-clean HD digital illustration for HoodLynx ARG, widescreen 16:9. Bright enough and clear enough to read easily as a social media post on a phone. Lift midtones. Strong clear contrast. Do not crush into near-black.
 
-MOOD: Epic chase / escape energy. The grab just happened. Everyone is moving. Triumph mixed with dread.
+MOOD: Epic escape after the grab. Hunters got Fragment 004 and are running it home. Something wrong flees the other way into shadow.
 
-SETTING: Rainy cyber-noir industrial night street / overlook between the Fragment site and HoodLynx base. Deep blacks, neon lime-green Fragment light, muted steel, wet ground. Controlled composition, not cluttered. Clear left-vs-right motion.
+SETTING: Rainy cyber-noir industrial night path between the Fragment site and HoodLynx base. Deep blacks with lifted midtones, neon lime-green Fragment light, muted steel, wet ground. Controlled composition. Not cluttered.
 
 QUALITY (STRICT):
 Ultra sharp, premium clean concept art.
-BRIGHTNESS / READABILITY: Make the image brighter and clearer than a typical dark noir frame so it is easily viewable as a social media post on phones. Lift midtones, keep subjects well-lit, strong clear contrast. Dark mood is fine, but do NOT crush the image into near-black. Must read clearly at small feed size.
+BRIGHT and CLEAR for feed viewing.
 NO film grain, NO noise, NO speckles, NO dust, NO dirty texture overlays, NO grit filters, NO muddy compression.
 Smooth materials, crisp edges, clean wet reflections.
-Any glitch/chaos stays light and tied to the Fragment canister only — not random image grain.
+
+COMPOSITION PRIORITY:
+MAIN FOCUS = the Hunters running back toward base with the Fragment canister.
+SECONDARY / BACKGROUND ONLY = a skeleton lynx figure escaping into the shadows the opposite way. Small in frame. Not the focus. Do not center it. Do not make it large.
 
 MAIN STORY BEATS:
 
-1) ONE SIDE — HUNTERS RUNNING BACK TO BASE
-2–3 anthropomorphic hooded lynx Hunters sprinting away from the scene toward base / safety, carrying ONE Fragment canister.
-Urgent, fast, triumphant escape energy — they got it and they are getting out.
+1) MAIN FOCUS — HUNTERS RUNNING BACK TO BASE
+2–3 anthropomorphic hooded lynx Hunters sprinting toward base / safety, carrying ONE Fragment canister.
+Urgent escape energy. They are the clear heroes and the largest readable subjects.
 On their hooded cloaks / backs: clear HoodLynx HUNTER SIGIL (lynx head inside chain-link circle). Use the attached logo/sigil if provided.
 
 2) FRAGMENT CANISTER
-The canister contains a glowing chain-link Fragment — literally a link of chains / fragmented chain piece inside the secure canister (NOT crystals, NOT gems).
-Neon lime-green chain-link energy visible through the canister glass. Slightly unstable glow OK, but keep it readable as a chain link in a canister.
+Canister contains a glowing chain-link Fragment — a metal chain link / fragmented chain piece inside the canister. NOT crystals. NOT gems.
+Neon lime-green chain-link energy visible through the glass.
 
-3) OPPOSITE SIDE — THE BROKEN ESCAPING THE OTHER DIRECTION
-A rickety hooded figure fleeing the opposite direction from the Hunters (split escape / opposite paths).
-IMPORTANT LOOK: wearing a WIZARD HAT and a CLOAK. Thin / rickety undead-skeleton energy, but the silhouette read is wizard hat + cloak first.
-A tiny bit of lightning / electric arcs coming off him as he runs — small, sharp, controlled, not a full storm.
-Not center-stage gore. Fast, eerie, escaping.
+3) BACKGROUND ONLY — SKELETON LYNX FLEEING INTO SHADOWS
+In the opposite direction, farther back and smaller: a rickety SKELETON LYNX fleeing into the shadows.
+MUST have clear bone LYNX EARS on the skull/silhouette so it reads as a lynx skeleton, not a generic skeleton.
+Hooded cloak and optional wizard hat OK if it does not hide the bone lynx ears.
+Tiny bit of lightning / electric arcs coming off it as it runs — small and controlled.
+Keep this figure secondary. Shadows. Escape. Not the focus.
 
-4) HIDDEN / HARD-TO-READ ENVIRONMENT TEXT (tiny, low contrast, easy to miss):
-Only these two crumbs. Environmental detail only — NOT main titles, NOT stickers, NOT centered captions:
+4) HIDDEN TEXT THAT MUST STILL APPEAR IN THE IMAGE
+These three lines MUST be present in the final image as tiny hard-to-notice environmental text. They should be tough to read at a glance, but they must be actually rendered and spelled correctly. Do not omit them.
 
-- Distant wall / metal panel / graffiti stencil, very hard to read:
-  THE CHAIN DESERVED TO FALL
-- Somewhere else equally hard to notice (wet reflection, cracked glass, far scrap, canister rim stamp):
-  gravemint.io
+Place them separately as faint graffiti / stamped metal / etched wall / cracked glass / wet reflection detail:
+1) THE CHAIN DESERVED TO FALL
+2) LAUNCH IMMINENT
+3) gravemint.io
 
-Do NOT add LAUNCH IMMINENT.
-Do NOT make either line obvious.
+Rules for hidden text:
+- Small and low-contrast
+- Not titles, not stickers, not centered captions
+- Not the first thing you notice
+- But visibly present if someone looks closely
+- Exact spelling required
 
-COLOR: deep black, neon lime green chain-link glow, muted steel, wet asphalt, small pale lightning accents on the fleeing wizard-hat figure.
-One clear epic read: Hunters racing one way with the chain-link canister ↔ Broken wizard-hat figure fleeing the other way with tiny lightning.
+COLOR: brighter noir — lifted blacks, neon lime green chain-link glow, muted steel, wet asphalt, tiny lightning on the distant skeleton lynx.
+Clear feed read: Hunters racing home with canister are dominant. Skeleton lynx with bone ears is a small shadow escape on the far side.
 
-AVOID: crystals, purple glow, cartoon look, comic halftone, big HUD spam, floating badges, watermarks, gore, blood pools, crowded collage, giant readable marketing text, misspellings, Launch Imminent text.
+AVOID: crystals, purple glow, cartoon look, comic halftone, big HUD spam, floating badges, watermarks, gore, blood pools, crowded collage, giant obvious marketing text, missing hidden text, missing bone lynx ears, making the skeleton the main subject.
 ```
 
-## If text is too loud
+## If hidden text is missing
 
 ```text
-Same image. Make THE CHAIN DESERVED TO FALL and gravemint.io much smaller and harder to notice. Background environment detail only. Keep composition: Hunters running one way with chain-link Fragment canister, wizard-hat cloaked Broken fleeing the opposite way with tiny lightning.
+Same image. Keep the composition. Add these three tiny hard-to-read but actually visible environmental text lines with exact spelling:
+THE CHAIN DESERVED TO FALL
+LAUNCH IMMINENT
+gravemint.io
+Place them small in the background on walls/metal/glass/reflections. Do not make them big titles.
 ```
 
-## If grainy / noisy
+## If skeleton is too prominent
 
 ```text
-Same image. Remove all grain, noise, speckles, and dirty texture. Ultra clean HD. Keep the chain-link Fragment in the canister and the tiny lightning on the fleeing wizard-hat figure.
+Same image. Shrink the skeleton lynx and push it deeper into the shadows so Hunters remain the main focus. Keep bone lynx ears readable on its silhouette.
 ```
 
-## If too dark for a post
+## If too dark
 
 ```text
-Same image. Brighten it and increase clarity so it is easily viewable as a social media post. Lift the midtones, keep subjects clear and well-lit, preserve the story and composition. Do not make it flat or washed out.
+Same image. Brighten it and increase clarity for social feed viewing. Lift midtones. Keep subjects clear. Do not wash it out.
 ```
