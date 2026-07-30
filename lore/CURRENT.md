@@ -31,21 +31,6 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### Alt — with “back at base” (check chars if edited)
-
-```text
-...FRAGMENT RECOVERED.
-
-Status: SECURED
-
-Back at base. Pickup was too easy. Something rickety fled when we arrived, and there was a stench of death in the air.
-
-Signal feels off, but a successful decrypt could complete the chain. We have to try.
-
-http://HoodLynx.xyz
-FOLLOW THE SIGNAL.
-```
-
 ## Next
 
 Decrypt goes wrong → name **The Broken** → Sat Activation drip.
