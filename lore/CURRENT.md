@@ -3,72 +3,44 @@
 ## Live position
 
 - Tue: Entry 003 Path + glitchy final Fragment Signal  
-- **Today Wed:** Outgoing recovery transmission — too easy, something ran, hope no meddle, Signal off, ready to decrypt  
-- Broken unnamed until decrypt beat  
+- **Today Wed:** Recovery transmission — too easy, rickety/undead glimpse fled, Signal off, decrypt anyway because it could complete the chain  
+- Broken unnamed until decrypt lands wrong  
 - **Activation / mint: Saturday Aug 1** (separate drip)
 
-## Voice note
+## Voice rules (hard)
 
-Outgoing status / “we” transmission — not third-person story narration.  
-Clear sentences. Not one-word staccato.
+- **No** one-word-then-period stacks (“Too easy.” / “Silent.” / “Rickety.”)  
+- **One** colon max in the body (e.g. `Status: SECURED` only)  
+- 2–3 flowing hard lines/paragraphs, outgoing transmission  
+- Clear enough for people still catching up
 
 ---
 
-## WEDNESDAY POST — recommended (227 chars)
-
-More report / oomph, less story narration. Rickety undead glimpse.
+## WEDNESDAY POST — recommended (280 chars)
 
 ```text
 ...FRAGMENT RECOVERED.
 
 Status: SECURED
-Signal: UNSTABLE
 
-Recovery: too easy.
-Visual: rickety. Half-dead. Moving wrong.
-It fled on contact.
+Got it back to base. Pickup was too easy, and we caught a glimpse of something rickety and undead before it fled.
 
-Fragment sealed.
-Decrypt incoming. Stay sharp.
+Signal feels off, but a successful decrypt could complete the chain. We have to try.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### Alt — skeletal word (236)
+### Alt — tighter (250)
 
 ```text
 ...FRAGMENT RECOVERED.
 
 Status: SECURED
-Signal: CORRUPT TRACE
 
-We got it.
-But not clean.
+Too easy. A rickety, half-dead shape bolted when we hit the site, and the Signal still feels wrong.
 
-Glimpse in the dark: something skeletal. Rickety.
-It ran the second we hit the site.
-
-Decrypt standing by.
-
-http://HoodLynx.xyz
-FOLLOW THE SIGNAL.
-```
-
-### Alt — site contact tone (230)
-
-```text
-...FRAGMENT RECOVERED.
-
-Status: SECURED
-Signal: UNSTABLE
-
-Too easy.
-Site contact: glimpse of a rickety figure.
-Dead-looking. It bolted.
-
-Fragment sealed at base.
-Do not decrypt unsupervised.
+Even so, a clean decrypt could complete the chain. We're opening it.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
@@ -76,9 +48,8 @@ FOLLOW THE SIGNAL.
 
 ## Next
 
-Decrypt → Broken reveal → Sat Activation drip.
+Decrypt goes wrong → name **The Broken** → Sat Activation drip.
 
-## Rules
+## Note
 
-- Outgoing transmission · clearer prose · no mint crumbs today  
-- No em dashes · Seekers stay Seekers  
+Public Entry 003 already said Fragments rebuild the **Path**, not the old Chain. Using “complete the chain” here is in-world urgency / what the network is fighting for — fine unless you want “Path” instead.
