@@ -67,3 +67,9 @@ Same image. Make THE CHAIN DESERVED TO FALL and gravemint.io much smaller and ha
 ```text
 Same image. Remove all grain, noise, speckles, and dirty texture. Ultra clean HD. Keep the chain-link Fragment in the canister and the tiny lightning on the fleeing wizard-hat figure.
 ```
+
+## If too dark for a post
+
+```text
+Same image. Brighten it and increase clarity so it is easily viewable as a social media post. Lift the midtones, keep subjects clear and well-lit, preserve the story and composition. Do not make it flat or washed out.
+```
