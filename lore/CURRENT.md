@@ -34,7 +34,7 @@ FOLLOW THE SIGNAL.
 
 ## TERMINAL — Fragment 004 build (ship with Wed post)
 
-Not full glitch chaos yet. Something is starting to rot underneath. Broken naming = tomorrow.
+Clear and short. 004 is secured. Decryption is about to start. Something is already wrong. Full chaos tomorrow.
 
 ### Opening screen
 
@@ -43,17 +43,12 @@ Not full glitch chaos yet. Something is starting to rot underneath. Broken namin
 STATUS: ONLINE
 ARCHIVE: 001 + 002 + 003 STORED
 ----------------------------------------
-TARGET: FRAGMENT 004
-STATUS: SECURED
+FRAGMENT 004: SECURED
 SIGNAL: UNSTABLE
-CONTAINMENT: HOLDING... FOR NOW
+DECRYPTION: ABOUT TO BEGIN
 ----------------------------------------
-DECRYPTION: QUEUED
-WARNING: FOREIGN TRACE DETECTED
-CORRUPTION INDEX: RISING
-CHAOS THRESHOLD: APPROACHING
+WARNING: CORRUPTION STARTING
 ----------------------------------------
-COMPLETE CHAIN ATTEMPT: PENDING
 HUNTER STANDING: ACTIVE
 RECRUITMENT: OPEN
 ----------------------------------------
@@ -73,11 +68,8 @@ EVM WALLET (0x...)
 HUNTER STANDING: SIGNAL DETECTED
 ----------------------------------------
 FRAGMENT 004: SECURED
-SIGNAL: UNSTABLE
-DECRYPTION: QUEUED
-----------------------------------------
-WARNING: FOREIGN TRACE DETECTED
-CORRUPTION INDEX: RISING
+DECRYPTION: ABOUT TO BEGIN
+WARNING: CORRUPTION STARTING
 ----------------------------------------
 IDENTITY QUEUED FOR VERIFICATION.
 FOLLOW THE SIGNAL.
@@ -91,13 +83,10 @@ FOLLOW THE SIGNAL.
 HUNTER STANDING: RISING
 ----------------------------------------
 PRIOR RECONNECTIONS COUNTED.
-YOUR SIGNAL CARRIES MORE WEIGHT.
 ----------------------------------------
 FRAGMENT 004: SECURED
-DECRYPTION: QUEUED
-WARNING: FOREIGN TRACE DETECTED
-CORRUPTION INDEX: RISING
-CHAOS THRESHOLD: APPROACHING
+DECRYPTION: ABOUT TO BEGIN
+WARNING: CORRUPTION STARTING
 ----------------------------------------
 STAND BY FOR VERIFICATION.
 FOLLOW THE SIGNAL.
