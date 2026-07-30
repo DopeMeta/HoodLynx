@@ -3,21 +3,23 @@
 Pair with decryption-attempted / Terminal corruption beat.  
 **Must-read crumb:** wall/desk note `Terminal Code: 4663` (people need this to enter Terminal and see launch info).
 
+**Character rule:** All characters are anthropomorphic **lynxes**. Seekers are lynxes who wear an **owl symbol** on their outfits — they are NOT owls.
+
 ---
 
 ## Concept options
 
 ### A — Decrypt Desk Blowout (RECOMMENDED)
-Close-mid cinematic shot of 1–2 owl Seekers at a Terminal desk. Fragment **004** canister on the desk is violently glitching — lime chain-link energy arcing into the monitors. Screens scream errors / containment failure. One Seeker braced like they just opened the wrong door; another reaching to abort. Handwritten sticky note on the wall or monitor edge: **Terminal Code: 4663**. Feels like the exact second everything went wrong. Best for feed: clear hero action + readable code.
+Close-mid cinematic shot of 1–2 lynx Seekers at a Terminal desk (owl emblem on cloaks/gear). Fragment **004** canister on the desk is violently glitching — lime chain-link energy arcing into the monitors. Screens scream errors / containment failure. One Seeker braced like they just opened the wrong door; another reaching to abort. Handwritten sticky note on the wall or monitor edge: **Terminal Code: 4663**. Feels like the exact second everything went wrong. Best for feed: clear hero action + readable code.
 
 ### B — Room-Wide Breach
-Wide Archive/Terminal chamber. Multiple CRT/LED banks cascading green-white corruption. Seekers scrambling between stations. 004 canister in a cracked containment cradle, spilling Signal into the floor grid. Hunters silhouetted in a doorway rushing in for lockdown. Sticky note on a cork/steel board mid-frame: **Terminal Code: 4663**. More epic scale; code must stay readable at phone size.
+Wide Archive/Terminal chamber. Multiple CRT/LED banks cascading green-white corruption. Lynx Seekers scrambling between stations. 004 canister in a cracked containment cradle, spilling Signal into the floor grid. Lynx Hunters silhouetted in a doorway rushing in for lockdown. Sticky note on a cork/steel board mid-frame: **Terminal Code: 4663**. More epic scale; code must stay readable at phone size.
 
 ### C — Over-the-Shoulder Immersion
-POV behind one Seeker’s shoulder as their Terminal fills with unreadable overflow. Fragment canister reflected in the glass, unstable. Hands on keyboard mid-panic. Sticky note stuck to the bezel right beside the screen: **Terminal Code: 4663** — almost diegetic UI. Intimate and tense; slightly less “poster epic,” very ARG.
+POV behind one lynx Seeker’s shoulder as their Terminal fills with unreadable overflow. Fragment canister reflected in the glass, unstable. Hands on keyboard mid-panic. Sticky note stuck to the bezel right beside the screen: **Terminal Code: 4663** — almost diegetic UI. Intimate and tense; slightly less “poster epic,” very ARG.
 
 ### D — Freeze-Frame Alarm
-Seekers mid-motion as red/amber alarm wash hits lime Fragment light. Papers flying, one Archive binder open, Terminal towers behind them fracturing into Signal ribbons. Note pinned with a magnet on a server rack: **Terminal Code: 4663**. High energy poster; watch clutter.
+Lynx Seekers mid-motion as red/amber alarm wash hits lime Fragment light. Papers flying, one Archive binder open, Terminal towers behind them fracturing into Signal ribbons. Note pinned with a magnet on a server rack: **Terminal Code: 4663**. High energy poster; watch clutter.
 
 **Pick for today:** **A** (or **B** if you want bigger cinematic scale). Both keep the code findable without turning the image into an ad.
 
@@ -38,6 +40,12 @@ BRIGHTNESS / READABILITY: Bright enough for a social media feed on phones. Lift 
 NO film grain, NO noise, NO speckles, NO dust overlays, NO grit filters, NO muddy compression.
 Smooth materials, crisp edges, clean reflections. Glitch/chaos only from the Fragment and Terminal screens — not random image grain.
 
+CHARACTER RULE (STRICT):
+EVERY character is an anthropomorphic LYNX (lynx face, lynx ears, lynx body language).
+NO owl heads. NO bird faces. NO owl bodies.
+Seekers are lynxes who wear a clear OWL SYMBOL / emblem on their cloaks, patches, or chest gear to mark Seeker role.
+Hunters (if shown) are also lynxes in more tactical gear.
+
 MAIN STORY BEATS:
 
 1) CENTER / DESK — FRAGMENT 004 CAUSING MAYHEM
@@ -46,7 +54,8 @@ Inside: glowing neon lime-green chain-link Fragment (metal chain link energy, NO
 The canister is unstable: sharp lime energy arcs / Signal ribbons jumping from the canister into the Terminal screens and desk grid. Glass stress cracks OK. Feels like it is flooding the system.
 
 2) SEEKERS WORKING THE CRISIS
-1–2 anthropomorphic owl Seekers in dark cloaks (subtle owl emblem OK).
+1–2 anthropomorphic lynx Seekers in dark scholar/decrypt cloaks.
+Each wears a visible owl symbol on the outfit (patch, embroidered emblem, or chest mark) — that is the ONLY owl element.
 They are actively working the Fragment / Terminal — not calmly reading.
 One Seeker recoiling or bracing as overflow hits; another slamming keys / reaching for an abort or lockdown control.
 Urgent, cinematic body language. Intelligent panic, not slapstick.
@@ -72,9 +81,9 @@ OPTIONAL BACKGROUND ONLY:
 Dim Archive shelves, older Entry posters out of focus, cables, one distant doorway where a lynx Hunter silhouette may be rushing in for lockdown. Keep secondary.
 
 COLOR: deep black, neon lime green Fragment light, cold monitor cyan/white, amber alarm accents, muted steel.
-One clear epic read: Seekers caught mid-decrypt as Fragment 004 blows open the Terminal — and a sticky note with Terminal Code: 4663.
+One clear epic read: Lynx Seekers (owl emblem on gear) caught mid-decrypt as Fragment 004 blows open the Terminal — and a sticky note with Terminal Code: 4663.
 
-AVOID: crystals, gems, purple glow, cartoon look, comic halftone, floating badges, stickers as UI chrome, watermarks, gore, blood, Broken skeleton center-stage, crowded collage, giant marketing slogans, misspellings, wrong code numbers, making 4663 tiny/unreadable.
+AVOID: owl-headed characters, bird faces, crystals, gems, purple glow, cartoon look, comic halftone, floating badges, stickers as UI chrome, watermarks, gore, blood, Broken skeleton center-stage, crowded collage, giant marketing slogans, misspellings, wrong code numbers, making 4663 tiny/unreadable.
 ```
 
 ---
@@ -90,15 +99,17 @@ SETTING: Wide HoodLynx Archive Terminal chamber. Rows of screens cascading corru
 
 QUALITY: Ultra clean HD, bright enough for phone feed, NO grain/noise/speckles/grit.
 
+CHARACTER RULE (STRICT): Every character is an anthropomorphic LYNX. Seekers wear an owl symbol on their outfits. NO owl heads or bird bodies.
+
 STORY:
-- Midground: anthropomorphic owl Seekers scrambling between Terminal stations as systems fail.
+- Midground: anthropomorphic lynx Seekers (owl emblem on cloaks/patches) scrambling between Terminal stations as systems fail.
 - Focal object: Fragment 004 canister in a cracked containment cradle, neon lime chain-link energy (NOT crystals) flooding into the floor grid and screens.
 - Screens show sparse sharp phrases: CONTAINMENT BREACH / DECRYPTION UNSTABLE / STATUS: CORRUPTED.
 - REQUIRED readable diegetic note on a wall board or server rack magnet: Terminal Code: 4663
 - Background: 1–2 lynx Hunter silhouettes bursting through a doorway for lockdown.
 
 COLOR: black, lime green, cold monitor light, amber alarm, steel.
-AVOID: purple, crystals, grain, gore, tiny unreadable 4663, collage clutter, floating UI stickers.
+AVOID: owl faces, purple, crystals, grain, gore, tiny unreadable 4663, collage clutter, floating UI stickers.
 ```
 
 ---
@@ -122,10 +133,15 @@ Same image. Remove all grain, noise, speckles, and dirty texture. Ultra clean HD
 
 ### If too cluttered
 ```text
-Same image. Simplify. Keep Seekers, Fragment 004 canister disrupting the Terminal, sparse breach HUD text, and the readable note Terminal Code: 4663. Remove extra junk props.
+Same image. Simplify. Keep lynx Seekers, Fragment 004 canister disrupting the Terminal, sparse breach HUD text, and the readable note Terminal Code: 4663. Remove extra junk props.
+```
+
+### If Seekers look like owls
+```text
+Same image. All characters must be anthropomorphic lynxes with lynx faces and lynx ears. Seekers only wear an owl symbol/patch on their cloaks — do NOT give them owl heads or bird features.
 ```
 
 ### If Seekers look like Hunters
 ```text
-Same image. Make the main figures clearly owl Seekers in scholar/decrypt cloaks, not tactical lynx Hunters. Hunters only as distant doorway silhouettes if present.
+Same image. Keep main figures as lynx Seekers in scholar/decrypt cloaks with a visible owl emblem on the outfit. Hunters only as distant doorway silhouettes in tactical gear if present.
 ```
