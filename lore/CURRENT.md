@@ -15,7 +15,7 @@
 
 ---
 
-## THURSDAY POST 1 — LOCKED (275 chars)
+## THURSDAY POST 1 — LOCKED (266 chars)
 
 ```text
 FRAGMENT 004 // DECRYPTION ATTEMPTED
@@ -24,20 +24,16 @@ We shouldn't have tried reading it.
 The Terminal is in danger.
 
 Too much is coming through.
-Hunters need to access the Terminal and help protect it.
+Hunters need to access the Terminal and lock it down.
 
-Reply ALPHA CONTAINED if you helped protect it.
+Reply ALPHA CONTAINED if you held the line.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Job:** Regret + danger · mission CTA to Terminal · reply `ALPHA CONTAINED if you helped protect it` back in comments.  
+**Job:** Regret + danger · access Terminal to lock it down · reply `ALPHA CONTAINED if you held the line`.  
 **Art:** Terminal screens glitching with half-readable Activation crumbs. Clean HD, bright enough for feed.
-
-### Reply alt (277) if you want it more command-like
-
-`Reply ALPHA CONTAINED to protect the information.`
 
 ---
 
