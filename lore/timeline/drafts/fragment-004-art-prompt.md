@@ -17,6 +17,7 @@ SETTING: Rainy cyber-noir industrial night street / overlook between the Fragmen
 
 QUALITY (STRICT):
 Ultra sharp, premium clean concept art.
+BRIGHTNESS / READABILITY: Make the image brighter and clearer than a typical dark noir frame so it is easily viewable as a social media post on phones. Lift midtones, keep subjects well-lit, strong clear contrast. Dark mood is fine, but do NOT crush the image into near-black. Must read clearly at small feed size.
 NO film grain, NO noise, NO speckles, NO dust, NO dirty texture overlays, NO grit filters, NO muddy compression.
 Smooth materials, crisp edges, clean wet reflections.
 Any glitch/chaos stays light and tied to the Fragment canister only — not random image grain.
