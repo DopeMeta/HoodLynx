@@ -15,7 +15,7 @@
 
 ---
 
-## THURSDAY POST 1 — LOCKED (180 chars)
+## THURSDAY POST 1 — LOCKED (223 chars)
 
 ```text
 FRAGMENT 004 // DECRYPTION ATTEMPTED
@@ -26,11 +26,13 @@ The Terminal took the hit.
 Corruption is in the system now.
 Too much is coming through.
 
+Reply BREACH CONFIRMED if you checked it.
+
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Job:** Cause only. Soft push via link, not “enter the Terminal.”  
+**Job:** Cause only. Soft site link + reply CTA so people who open Terminal come back and participate in comments.  
 **Art:** Terminal screens glitching with half-readable Activation crumbs. Clean HD, bright enough for feed.
 
 ---
