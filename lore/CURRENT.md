@@ -32,9 +32,74 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
+## TERMINAL — Fragment 004 build (ship with Wed post)
+
+Corruption / Broken naming = **tomorrow**. Tonight = secured, unstable, decrypt pending.
+
+### Opening screen
+
+```text
+// HOODLYNX ARCHIVE TERMINAL
+STATUS: ONLINE
+ARCHIVE: 001 + 002 + 003 STORED
+----------------------------------------
+TARGET: FRAGMENT 004
+STATUS: SECURED
+SIGNAL: UNSTABLE
+CONTAINMENT: HOLDING
+----------------------------------------
+DECRYPT: QUEUED
+NOTE: PICKUP ANOMALY LOGGED
+COMPLETE CHAIN ATTEMPT: PENDING
+----------------------------------------
+HUNTER STANDING: ACTIVE
+RECRUITMENT: OPEN
+----------------------------------------
+AWAITING IDENTIFICATION...
+@
+ENTER X HANDLE
+Ξ
+EVM WALLET (0x...)
+▸ RECONNECT
+```
+
+### After submit — NEW
+
+```text
+...RECONNECT SIGNAL SENT
+...WALLET LOCKED TO IDENTITY
+HUNTER STANDING: SIGNAL DETECTED
+----------------------------------------
+FRAGMENT 004: SECURED
+SIGNAL: UNSTABLE
+DECRYPT: STANDING BY
+----------------------------------------
+IDENTITY QUEUED FOR VERIFICATION.
+STAY ONLINE FOR DECRYPT UPDATE.
+FOLLOW THE SIGNAL.
+```
+
+### After submit — RETURNING
+
+```text
+...RECONNECT SIGNAL SENT
+...RETURNING IDENTITY RECOGNIZED
+HUNTER STANDING: RISING
+----------------------------------------
+PRIOR RECONNECTIONS COUNTED.
+YOUR SIGNAL CARRIES MORE WEIGHT.
+----------------------------------------
+FRAGMENT 004: SECURED
+SIGNAL: UNSTABLE
+DECRYPT: STANDING BY
+----------------------------------------
+STAND BY FOR VERIFICATION.
+FOLLOW THE SIGNAL.
+```
+
 ## Next
 
-Decrypt goes wrong → name **The Broken** → Sat Activation drip.
+Tomorrow: decrypt goes wrong → name **The Broken** → update Terminal to corruption state → Sat Activation drip.
 
 ## Note
 
