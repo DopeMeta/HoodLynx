@@ -81,6 +81,8 @@ Derived only from confirmed posts. Use this for continuity.
 - Inventing new numbered systems (logs, sites, files) that don’t already exist
 - Too many proper nouns in one caption — stick to `TERMS.md`
 - Em dashes / `--` connectors in public posts (reads AI-ish). Use a period or new line instead.
+- **Never** use one-word-then-period stacks in public posts (“Barely.” / “Silent.” / “Rickety.”). Owner does not want this. Use flowing short sentences or 2–3 hard paragraphs.
+- Prefer at most one `Status:` / label colon in a caption unless the beat truly needs more.
 
 ## Public brand lines (from site / graphics — not deep lore)
 

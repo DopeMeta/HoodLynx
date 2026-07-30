@@ -14,7 +14,9 @@ The Chain deserved to fall.
 
 The Severing was liberation.
 
-> "Power belongs to those willing to take it."
+> "The Chain deserved to fall."
+
+Older draft line (retired as public creed): "Power belongs to those willing to take it."
 
 ## Mission
 

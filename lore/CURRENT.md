@@ -2,104 +2,99 @@
 
 ## Live position
 
-- Through **016**: 003 RECLAIMED, Seekers decrypting, Crown named  
-- **Today Tue:** 2-post day — Path payoff now, glitchy new Fragment tonight  
-- **Tomorrow AM:** Corrupted Fragment = **The Broken**; ARG unlocks mint **date** for players who’ve been hunting  
-- Mint mixes Hunters · Seekers · Crown · Broken (~30%)
+- Tue: Entry 003 Path + glitchy final Fragment Signal  
+- **Today Wed:** Fragment **004** secured — too easy, rickety glimpse fled, stench of death, Signal off, decrypt anyway because it could complete the chain  
+- Broken unnamed until decrypt lands wrong  
+- **Activation / mint: Saturday Aug 1** (separate drip)
 
-Plan detail: [`timeline/drafts/tue-wed-dual-posts.md`](./timeline/drafts/tue-wed-dual-posts.md)  
-Full wrap: [`timeline/wrap-arc-activation.md`](./timeline/wrap-arc-activation.md)
+## Voice rules (hard)
 
-## Epic meaning
-
-Path not Chain → Activation opens Path on Gravemint → all four forces take form.  
-Long players get intel first via Terminal / Standing / Authorized.
+- **No** one-word-then-period stacks (“Too easy.” / “Silent.” / “Rickety.”)  
+- **One** colon max in the body (e.g. `Status: SECURED` only)  
+- 2–3 flowing hard lines/paragraphs, outgoing transmission  
+- Clear enough for people still catching up
 
 ---
 
-## TODAY POST 1 — ship now (Entry 003 + Activation tease)
+## WEDNESDAY POST — LOCKED (owner edit, 268 chars)
 
 ```text
-...ARCHIVE ENTRY 003 RECOVERED.
+FRAGMENT 004 // STATUS: SECURED
 
-THE FRAGMENTS DO NOT RESTORE THE CHAIN.
-TOGETHER THEY REBUILD THE PATH.
+Pickup was too easy.
+We glimpsed something rickety before it fled.
+There was a stench of death in the air.
 
-Seekers finished the decrypt.
-001. 002. 003. Alignment locked.
-
-The Path has a terminus.
-Activation is approaching.
-
-Terminal open for Hunters still in the Signal.
-Reply PATH FORMING if you're ready.
+Signal feels off, but we have to try.
+A successful decryption could complete the chain.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Archive Entries 001–003; Path forming; Seeker + Hunters; terminus glow.  
-**Terminal:** ARCHIVE 001+002+003 · PATH FORMING · ACTIVATION APPROACHING  
-**Reply:** `PATH FORMING`
+## TERMINAL — Fragment 004 build (ship with Wed post)
 
----
+Clear and short. 004 is secured. Decryption is about to start. Something is already wrong. Full chaos tomorrow.
 
-## TODAY POST 2 — tonight (glitchy new Fragment)
+### Opening screen
 
 ```text
-...NEW SIGNAL DETECTED.
+// HOODLYNX ARCHIVE TERMINAL
+STATUS: ONLINE
+ARCHIVE: 001 + 002 + 003 STORED
+----------------------------------------
+FRAGMENT 004: SECURED
+SIGNAL: UNSTABLE
+DECRYPTION: ABOUT TO BEGIN
+----------------------------------------
+ERROR: SIGNAL PARSE FAILED
+RETRYING... RESPONSE UNKNOWN
+----------------------------------------
+HUNTER STANDING: ACTIVE
+RECRUITMENT: OPEN
+----------------------------------------
+AWAITING IDENTIFICATION...
+@
+ENTER X HANDLE
+Ξ
+EVM WALLET (0x...)
+▸ RECONNECT
+```
 
-Fragment signature: UNSTABLE.
-Transmission: GLITCHED.
+### After submit — NEW
 
-This one is not like the others.
-Something is wrong with the frequency.
-
-Hunters: trace it.
-Seekers: stand by for intake.
-
-Reply SIGNAL GLITCHED if you can still read this.
-
-http://HoodLynx.xyz
+```text
+...RECONNECT SIGNAL SENT
+...WALLET LOCKED TO IDENTITY
+HUNTER STANDING: SIGNAL DETECTED
+----------------------------------------
+FRAGMENT 004: SECURED
+DECRYPTION: ABOUT TO BEGIN
+----------------------------------------
+IDENTITY QUEUED FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-**Art:** Stuttering Signal / cracked canister HUD UNSTABLE · GLITCHED.  
-**Reply:** `SIGNAL GLITCHED`  
-**Don’t name Broken yet** — dread only.
-
----
-
-## TOMORROW AM — corrupted + Broken + ARG date seal
+### After submit — RETURNING
 
 ```text
-...FRAGMENT INTAKE FAILED.
-
-Status: CORRUPTED.
-
-The Broken got there first.
-They don't reclaim. They ruin.
-
-Seekers can't finish a clean decrypt.
-Not without a clean key.
-
-Authorized Hunters: return to the Terminal.
-Your Standing may be enough to stabilize the reading.
-
-Solve the corruption.
-Activation intel is behind the seal.
-
-http://HoodLynx.xyz
+...RECONNECT SIGNAL SENT
+...RETURNING IDENTITY RECOGNIZED
+HUNTER STANDING: RISING
+----------------------------------------
+PRIOR RECONNECTIONS COUNTED.
+----------------------------------------
+FRAGMENT 004: SECURED
+DECRYPTION: ABOUT TO BEGIN
+----------------------------------------
+STAND BY FOR VERIFICATION.
 FOLLOW THE SIGNAL.
 ```
 
-**Reward:** Terminal puzzle / Standing / Authorized path reveals **Activation date** before public dump.  
-Then later: public date → GTD confirm → full mint protocols.
+## Next
 
----
+Tomorrow: decrypt goes wrong → name **The Broken** → update Terminal to corruption state → Sat Activation drip.
 
-## Rules
+## Note
 
-- 2 posts/day OK in wrap  
-- New reply every beat · no em dashes · Seekers stay Seekers  
-- Broken epic before prices · date via ARG beats a boring announce  
+Public Entry 003 already said Fragments rebuild the **Path**, not the old Chain. Using “complete the chain” here is in-world urgency / what the network is fighting for — fine unless you want “Path” instead.

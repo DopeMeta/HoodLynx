@@ -20,11 +20,11 @@ TOGETHER THEY REBUILD THE PATH.
 Seekers finished the decrypt.
 001. 002. 003. Alignment locked.
 
-The Path has a terminus.
+The Path leads somewhere.
 Activation is approaching.
 
 Terminal open for Hunters still in the Signal.
-Reply PATH FORMING if you're ready.
+Tag 3 people you want in the Activation.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
@@ -36,7 +36,7 @@ FOLLOW THE SIGNAL.
 - 003 text readable on poster/terminal
 - Path/Map forming from three Fragment nodes (not a restored circular Chain)
 - Hunters + Seeker (owl) present
-- Soft Activation hint: distant terminus glow / Gravemint not named in art yet (optional faint gate)
+- Soft Activation hint: distant Activation glow / Gravemint not named in art yet (optional faint gate)
 - Clean HD, no grain
 
 ### Terminal (optional same-day update)
@@ -50,7 +50,7 @@ ENTRY 003: RECOVERED
 READING: THE PATH
 ----------------------------------------
 PATH: FORMING
-TERMINUS: DETECTED
+PATH END: DETECTED
 ACTIVATION: APPROACHING
 ----------------------------------------
 HUNTER STANDING: ACTIVE
@@ -59,28 +59,27 @@ RECRUITMENT: OPEN
 AWAITING IDENTIFICATION...
 ```
 
-### Reply CTA
-`PATH FORMING`
+### CTA
+Tag 3 people you want in the Activation. (No reply phrase on Post 1.)
 
 ---
 
-## TODAY — Post 2 (tonight): New Fragment / glitchy Signal
+## TODAY — Post 2 (LOCKED): Glitchy Fragment / race the Crown
 
-**Job:** Fresh hunt object. Unusual / glitchy. Sets Broken corruption for morning. ARG energy without solving mint yet.
+**Job:** Fresh hunt object. Chaotic glitch Signal. Injured held back. Strike team races Crown. Skeleton dread unnamed. Sets Broken corruption for morning.
 
-### Caption (LOCKED draft)
+### Caption (LOCKED)
 
 ```text
 ...NEW SIGNAL DETECTED.
 
-Fragment signature: UNSTABLE.
+Signature: UNSTABLE.
 Transmission: GLITCHED.
+The waves are wrong.
 
-This one is not like the others.
-Something is wrong with the frequency.
-
-Hunters: trace it.
-Seekers: stand by for intake.
+This may be the final Fragment.
+Find it before The Crown intercepts.
+Something else is watching.
 
 Reply SIGNAL GLITCHED if you can still read this.
 
@@ -88,13 +87,15 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-### Art direction
+**(279 characters — fits X 280)**
 
-- New Fragment canister / Signal beam that **stutters** — tear frames, chromatic split, sick green + static black
-- HUD: `FRAGMENT_???` / `STATUS: UNSTABLE` / `SIGNAL: GLITCHED`
-- Hint of bone/crack/corruption without naming Broken yet
-- Same city / Path glow in background so it feels continuous from Post 1
-- Canister mark broken ∞ or cracked chain-link
+### Art direction (matches `glitchy-fragment-art-prompt.md`)
+
+- Chaotic unstable Signal: broken radar rings / warped waves / intentional glitch on beam only
+- Injured HoodLynx stay behind; healthier Hunters move out fast
+- Distant Crown intercept pressure
+- Hooded skeleton lurking in shadows (no name / no label)
+- Clean HD, no grain
 
 ### Terminal tweak (tonight)
 
