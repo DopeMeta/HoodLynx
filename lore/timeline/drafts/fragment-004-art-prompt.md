@@ -3,7 +3,7 @@
 For ChatGPT / image gen. Pair with locked Fragment 004 post.  
 Attach HoodLynx hunter emblem / logo if you want the cloak sigil exact.
 
-**Broken creed crumb:** THE CHAIN DESERVED TO FAIL  
+**Broken creed crumb:** THE CHAIN DESERVED TO FALL  
 **Hidden mint crumb only:** gravemint.io
 
 ## Paste this
@@ -42,7 +42,7 @@ Not center-stage gore. Fast, eerie, escaping.
 Only these two crumbs. Environmental detail only — NOT main titles, NOT stickers, NOT centered captions:
 
 - Distant wall / metal panel / graffiti stencil, very hard to read:
-  THE CHAIN DESERVED TO FAIL
+  THE CHAIN DESERVED TO FALL
 - Somewhere else equally hard to notice (wet reflection, cracked glass, far scrap, canister rim stamp):
   gravemint.io
 
@@ -58,7 +58,7 @@ AVOID: crystals, purple glow, cartoon look, comic halftone, big HUD spam, floati
 ## If text is too loud
 
 ```text
-Same image. Make THE CHAIN DESERVED TO FAIL and gravemint.io much smaller and harder to notice. Background environment detail only. Keep composition: Hunters running one way with chain-link Fragment canister, wizard-hat cloaked Broken fleeing the opposite way with tiny lightning.
+Same image. Make THE CHAIN DESERVED TO FALL and gravemint.io much smaller and harder to notice. Background environment detail only. Keep composition: Hunters running one way with chain-link Fragment canister, wizard-hat cloaked Broken fleeing the opposite way with tiny lightning.
 ```
 
 ## If grainy / noisy
