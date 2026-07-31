@@ -53,33 +53,23 @@ The holder owns a **Fragment** until form resolves at reveal.
 
 Avoid “decrypt” in this placeholder.
 
-### Recommended (sleek + charge)
+### Recommended (2 lines)
 
 ```text
 FRAGMENT LOCKED
-
-Your HoodLynx is in the Signal.
-It has not broken through yet.
-
-When it does, you will know.
-FOLLOW THE SIGNAL.
+Your HoodLynx has not broken through.
 ```
 
-### Alt
+### Alts
 
 ```text
 FRAGMENT LOCKED
-
-Power is sealed inside this Fragment.
-Your HoodLynx is waiting to strike form.
-
-FOLLOW THE SIGNAL.
+Your HoodLynx is still in the Signal.
 ```
 
-### Ultra-short metadata
-
 ```text
-Fragment locked. HoodLynx ready to break through. Follow the Signal.
+FRAGMENT LOCKED
+The Signal has not released your HoodLynx.
 ```
 
 ---
