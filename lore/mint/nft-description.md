@@ -57,19 +57,19 @@ Avoid “decrypt” in this placeholder.
 
 ```text
 FRAGMENT LOCKED
-Your HoodLynx has not broken through.
+The Signal has your HoodLynx. Not for long.
 ```
 
 ### Alts
 
 ```text
 FRAGMENT LOCKED
-Your HoodLynx is still in the Signal.
+The Signal is about to release your HoodLynx.
 ```
 
 ```text
 FRAGMENT LOCKED
-The Signal has not released your HoodLynx.
+Your HoodLynx is charging in the Signal.
 ```
 
 ---
