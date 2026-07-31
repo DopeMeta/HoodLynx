@@ -80,12 +80,39 @@ AVOID: long chains, 8+ link rows, multiple owl patches on one Seeker, owl heads,
 
 ---
 
-## If chain still too long
-```text
-Same image. Make the Path chain much shorter and more compact in the center. Exactly 4 MAIN links and 3 SMALL connectors only (main, small, main, small, main, small, main). Do not stretch it across the frame.
-```
+## EDIT the first image (not a new picture)
 
-## If owl marks still repeat
+Attach your Hunter / HoodLynx sigil.  
+Use on the first version you liked.
+
 ```text
-Same image. Each Seeker may have only ONE owl insignia total. Remove extra owl patches/repeats. Hunters and Archive book keep the attached HoodLynx hunter sigil only.
+Same image. Edit this exact picture. Do not create a new composition or redesign the room. Keep the same Seekers, desk, lighting, mood, Broken wall sketch, hidden gravemint.io / 4663, background society hints, and overall scene. Ultra clean, smooth, HD, no grain.
+
+EDITS ONLY:
+
+1) INSIGNIAS
+- Seekers: exactly ONE owl insignia per lynx. Remove extra/repeated owl marks.
+- Hunters: HoodLynx hunter sigil from the attached logo only.
+- HoodLynx Archive book: same attached HoodLynx hunter sigil on the cover.
+Do not mix marks. No owl marks on Hunters. No hunter sigils on Seekers. No owl heads.
+
+2) FEWER HUNTERS
+Remove most background Hunters. Keep only 1–2 far-back celebrating Hunters so sigils stay clean.
+
+3) SHORTER CHAIN
+Replace the long chain with a compact centered Path chain:
+- 4 MAIN chain links
+- 3 SMALL connecting links between them
+- Pattern: main, small, main, small, main, small, main
+Neon lime-green. Not crystals. Do not stretch a long chain across the frame.
+
+4) TEXT
+Keep centered and readable:
+FOUR FRAGMENTS FORM THE PATH.
+ACTIVATION IS IMMINENT.
+
+5) HEADS
+Fix any warped/messed-up lynx heads. Clean lynx faces and ears.
+
+Everything else stays the same as this image.
 ```
