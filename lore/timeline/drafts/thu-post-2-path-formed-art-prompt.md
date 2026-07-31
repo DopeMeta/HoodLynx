@@ -3,7 +3,7 @@
 Pair with caption: `FRAGMENT 004 // CORRUPTION CONTAINED`  
 Characters: all anthropomorphic **lynxes**. Seekers = lynxes with **owl insignia**. Hunters = lynxes, tactical, celebrating in back.
 
-**Fragment build note:** Each Fragment reads as a short chain segment of **3 links** (two outer links joined by a middle link). Four Fragments assembled in a row = **12 chain links total** forming one horizontal Path-line. Neon lime-green chain energy. NOT crystals/gems.
+**Fragment build note (updated):** Assembled Path = **8 MAIN chain links** in a row, each connected by a **smaller little connector link** between them (big-little-big-little…). Neon lime-green chain energy. NOT crystals/gems.
 
 ---
 
@@ -114,4 +114,26 @@ Same image. Brighten for phone feed readability. Remove all grain, noise, and sp
 ### If Broken is too rendered
 ```text
 Same image. The Broken must remain only a rough unfinished wall sketch with question-mark energy — not a full character standing in the room.
+```
+
+### Touch-up (hunter head + centered text + 8 main chains)
+
+```text
+Same image. Keep the same composition, characters, lighting, Archive book, celebrating Hunters, Broken wall sketch, hidden gravemint.io and 4663, and background society hints. Keep it ultra clean, smooth, and HD with no grain.
+
+FIXES:
+1) Repair the messed-up lynx Hunter head in the background. Clean correct anthropomorphic lynx face and lynx ears, matching the other Hunters. No warped face, no melted features, no extra eyes/ears.
+
+2) Center the decoded Fragment writing clearly in a clean readable spot:
+FOUR FRAGMENTS FORM THE PATH.
+ACTIVATION IS IMMINENT.
+Keep exact spelling. Make that text centered and easy to read.
+
+3) Rebuild the assembled Fragments as ONE horizontal Path of chain:
+- Exactly 8 MAIN chain links in a row
+- Each main link connected to the next by a SMALLER little connector link in between
+- So the row reads: big, little, big, little, big, little... through all 8 main links
+Neon lime-green chain energy. NOT crystals. Keep Seekers assembling/joining them from opened canisters.
+
+Everything else stays the same. Smooth materials, crisp edges, phone-feed bright enough.
 ```
