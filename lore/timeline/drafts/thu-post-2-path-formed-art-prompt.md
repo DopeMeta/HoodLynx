@@ -1,9 +1,11 @@
 # Art prompt — Post 2: Seekers assemble four Fragments / Path formed
 
 Pair with caption: `FRAGMENT 004 // CORRUPTION CONTAINED`  
-Characters: all anthropomorphic **lynxes**. Seekers = lynxes with **owl insignia**. Hunters = lynxes, tactical, celebrating in back.
+Characters: all anthropomorphic **lynxes**.  
+**Seekers** = lynxes with **owl insignia**.  
+**Hunters** = lynxes with the **posted HoodLynx Hunter insignia** (attach logo).
 
-**Fragment build note (updated):** Assembled Path = **8 MAIN chain links** in a row, each connected by a **smaller little connector link** between them (big-little-big-little…). Neon lime-green chain energy. NOT crystals/gems.
+**Fragment build note:** Assembled Path = **8 MAIN chain links** + **7 SMALL connecting links** between them. Neon lime-green. NOT crystals/gems.
 
 ---
 
@@ -26,21 +28,22 @@ CHARACTER RULE (STRICT):
 EVERY character is an anthropomorphic LYNX (lynx face, lynx ears).
 NO owl heads. NO bird faces.
 SEEKERS: lynxes in scholar/decrypt cloaks or coats, each with a clear OWL INSIGNIA / owl emblem patch on chest, shoulder, or cloak.
-HUNTERS: lynxes in tactical hunter gear further in the background, celebrating.
+HUNTERS: lynxes in tactical hunter gear further in the background, celebrating, each wearing the HoodLynx Hunter insignia from the attached/posted logo reference.
 
 MAIN STORY BEATS:
 
-1) FOREGROUND / CENTER — SEEKERS ASSEMBLING THE FOUR FRAGMENTS
-2–3 lynx Seekers (owl insignia visible) have opened Fragment canisters and are actively joining the four Fragments together into one horizontal sequence.
+1) FOREGROUND / CENTER — SEEKERS ASSEMBLING THE FRAGMENTS
+2–3 lynx Seekers (owl insignia visible) have opened Fragment canisters and are actively joining the Fragments into one horizontal Path.
 Empty / opened canisters nearby on the desk or floor, lids off, residual glow.
-THE FRAGMENTS: four separate short chain segments being locked into one continuous row.
-Each Fragment = exactly 3 metal chain links (two links connected by one middle link).
-Four Fragments in a row = 12 chain links total, reading left-to-right like a Path forming.
+THE ASSEMBLED PATH CHAIN:
+- Exactly 8 MAIN chain links
+- Exactly 7 SMALL connecting chain links between them
+- Pattern: main, small, main, small, main, small, main, small, main, small, main, small, main, small, main
 Neon lime-green energy racing through the connected chain as it completes.
 Epic moment of attachment / assembly — hands guiding the final link into place, energy surge, papers fluttering.
 
-2) DECODED TEXT — MUST BE READABLE
-On a Seeker board, chalkboard, cracked Terminal printout, or fresh Archive sheet in clear readable lettering after decode:
+2) DECODED TEXT — MUST BE READABLE AND CENTERED
+On a Seeker board, chalkboard, cracked Terminal printout, or fresh Archive sheet in clear readable centered lettering after decode:
 
 FOUR FRAGMENTS FORM THE PATH.
 ACTIVATION IS IMMINENT.
@@ -49,6 +52,7 @@ Exact spelling. Sharp and legible at feed size. This is newly decoded truth, not
 
 3) BACKGROUND — HUNTERS CELEBRATING
 2–4 lynx Hunters in the back of the room celebrating the win: fists up, embracing, cheering, one maybe holding an empty canister or hood up in triumph.
+Hunter insignia from attached logo visible on their gear.
 Clearly secondary to the Seekers + chain assembly. Soft depth, not competing with the foreground.
 
 4) WALL SKETCH — THE BROKEN (HYPOTHESIS ONLY)
@@ -58,7 +62,7 @@ NOT a fully rendered Broken character in-scene. Sketch only.
 
 5) HOODLYNX ARCHIVE BOOK
 A thick book or binder titled HOODLYNX ARCHIVE (or HOODLYNX ARCHIVES) on the desk / leaning against the board.
-On the cover: clear HoodLynx HUNTER LOGO / lynx-in-chain emblem.
+On the cover: clear HoodLynx HUNTER LOGO / lynx-in-chain emblem from the attached reference.
 Premium prop, readable enough to notice.
 
 6) HIDDEN CRUMBS (hard to notice, environmental only — NOT main titles):
@@ -75,7 +79,7 @@ Very subtle, half-shadowed, out-of-focus wall marks / carvings / wax seals / fad
 Keep them BACKGROUND ONLY — muted, partial, never competing with Fragments, decoded text, Seekers, or Archive book. No giant conspiracy collage. Just atmospheric hints that older mysteries hang in this room.
 
 COLOR: deep black, neon lime-green chain Path, warm amber lamps, cold monitor cyan, muted steel, chalk gray on the Broken sketch wall.
-One clear epic read: Seekers joining four 3-link Fragments into a 12-link Path while decoded text declares Activation imminent, Hunters celebrating behind, Broken only a wall sketch.
+One clear epic read: Seekers joining an 8-main + 7-small chain Path while decoded text declares Activation imminent, Hunters celebrating behind, Broken only a wall sketch.
 
 AVOID: owl-headed characters, bird faces, crystals, gems, purple glow, cartoon look, comic halftone, floating UI stickers, watermarks, gore, blood pools, fully rendered Broken center-stage, giant readable marketing slogans besides the required decoded lines, making gravemint.io or 4663 huge, putting secret-society symbols in the foreground, misspellings.
 ```
@@ -84,26 +88,38 @@ AVOID: owl-headed characters, bird faces, crystals, gems, purple glow, cartoon l
 
 ## Follow-ups
 
+### Touch-up (go-back / same image) — USE THIS
+
+Attach your Hunter logo/insignia when pasting.
+
+```text
+Same image. Go back and keep this exact scene. Do not redesign the room, pose energy, Archive book, celebrating Hunters, Broken wall sketch, hidden gravemint.io / 4663, or background society hints. Keep it ultra clean, smooth, HD, no grain.
+
+CLARIFY INSIGNIAS:
+- SEEKERS (foreground, assembling Fragments): anthropomorphic lynxes wearing the OWL insignia / owl emblem on their cloaks or gear.
+- HUNTERS (background, celebrating): anthropomorphic lynxes wearing the HoodLynx Hunter insignia from the attached/posted logo reference (lynx-in-chain hunter mark). Use that exact hunter emblem on Hunter gear.
+NO owl heads. Everyone stays lynx-faced.
+
+FIXES:
+1) Fix the messed-up HoodLynx head in the back. Clean correct lynx face and lynx ears on that background Hunter. No warped/melted face, no extra eyes/ears.
+
+2) Center the decoded writing clearly:
+FOUR FRAGMENTS FORM THE PATH.
+ACTIVATION IS IMMINENT.
+Exact spelling. Centered and readable.
+
+3) Rebuild the assembled Path chain exactly as:
+- 8 MAIN chain links
+- 7 SMALL connecting chain links between them
+- Pattern: main, small, main, small, main, small, main, small, main, small, main, small, main, small, main
+Neon lime-green chain energy. NOT crystals. Seekers still joining them from opened canisters.
+
+Everything else stays the same. Smooth materials, crisp edges, bright enough for phone feed.
+```
+
 ### If Seekers look like owls
 ```text
 Same image. All characters must be anthropomorphic lynxes with lynx faces and lynx ears. Seekers only wear an owl insignia/patch on their outfits — no owl heads or bird features.
-```
-
-### If chain count is wrong
-```text
-Same image. Each Fragment must be a 3-link chain segment (two links joined by a middle link). Four Fragments assembled in one row = 12 chain links total forming the Path. No crystals.
-```
-
-### If decoded text is wrong/unreadable
-```text
-Same image. Make this text sharp and clearly readable on the decode board/sheet:
-FOUR FRAGMENTS FORM THE PATH.
-ACTIVATION IS IMMINENT.
-```
-
-### If secret symbols are too loud
-```text
-Same image. Push Rosicrucian, Illuminati eye-triangle, ankh, and other society marks further into muted background only. Keep focus on Seekers assembling the 12-link Path, decoded text, Archive book, celebrating Hunters, and the Broken wall sketch.
 ```
 
 ### If too dark / grainy
@@ -114,26 +130,4 @@ Same image. Brighten for phone feed readability. Remove all grain, noise, and sp
 ### If Broken is too rendered
 ```text
 Same image. The Broken must remain only a rough unfinished wall sketch with question-mark energy — not a full character standing in the room.
-```
-
-### Touch-up (hunter head + centered text + 8 main chains)
-
-```text
-Same image. Keep the same composition, characters, lighting, Archive book, celebrating Hunters, Broken wall sketch, hidden gravemint.io and 4663, and background society hints. Keep it ultra clean, smooth, and HD with no grain.
-
-FIXES:
-1) Repair the messed-up lynx Hunter head in the background. Clean correct anthropomorphic lynx face and lynx ears, matching the other Hunters. No warped face, no melted features, no extra eyes/ears.
-
-2) Center the decoded Fragment writing clearly in a clean readable spot:
-FOUR FRAGMENTS FORM THE PATH.
-ACTIVATION IS IMMINENT.
-Keep exact spelling. Make that text centered and easy to read.
-
-3) Rebuild the assembled Fragments as ONE horizontal Path of chain:
-- Exactly 8 MAIN chain links in a row
-- Each main link connected to the next by a SMALLER little connector link in between
-- So the row reads: big, little, big, little, big, little... through all 8 main links
-Neon lime-green chain energy. NOT crystals. Keep Seekers assembling/joining them from opened canisters.
-
-Everything else stays the same. Smooth materials, crisp edges, phone-feed bright enough.
 ```
