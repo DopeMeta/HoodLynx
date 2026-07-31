@@ -46,9 +46,52 @@ FOLLOW THE SIGNAL.
 
 ---
 
-## Per-token placeholder (generic trait-safe)
+## Unrevealed token placeholder (Fragment seal)
 
-A HoodLynx forged at Activation. One of 4663 signals locked to Robinhood Chain after the Fragments formed the Path.
+Use instead of “NFT will be revealed soon.”  
+The holder owns a **Fragment** until decrypt/reveal.
+
+### Recommended
+
+```text
+FRAGMENT LOCKED
+
+This HoodLynx has not yet taken form.
+A Fragment holds the Signal until Activation settles.
+
+Decrypt pending.
+FOLLOW THE SIGNAL.
+```
+
+### Alt — encrypted
+
+```text
+STATUS: ENCRYPTED
+
+This is not empty space.
+It is a Fragment waiting to resolve into a HoodLynx.
+
+The Path is open. Form comes after Activation.
+FOLLOW THE SIGNAL.
+```
+
+### Alt — canister
+
+```text
+UNREVEALED FRAGMENT
+
+The canister is closed.
+Your HoodLynx is forming behind the Signal.
+
+Decrypt in progress.
+FOLLOW THE SIGNAL.
+```
+
+### Ultra-short metadata
+
+```text
+Fragment locked. HoodLynx decrypt pending. Follow the Signal.
+```
 
 ---
 
