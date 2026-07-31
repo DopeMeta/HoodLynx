@@ -91,24 +91,48 @@ AVOID: purple glow, blue neon takeover, crystals/gems, owl-headed characters, mu
 
 ---
 
-## Follow-ups
+## Touch-up edit (same image) — Seeker mark + symbol cleanup
 
-### If portal color is wrong
-```text
-Same image. Make the portal glow true Robinhood green: yellowy green / chartreuse-lime. Not purple. Not teal-blue.
-```
+Attach: **Seeker insignia image** + Hunter sigil if needed for reference.  
+Hunters stay the same. Everything else keeps the solid portal composition.
 
-### If sigils mix or repeat
 ```text
-Same image. Each lynx gets exactly one sigil. Seekers: one owl only. Hunters: one attached HoodLynx hunter sigil only. Archive book uses the hunter sigil. No mixed marks.
-```
+Same exact image. Edit this picture only. Do not redesign the portal arch, Activation glow, characters' poses, Archive book placement, Fragment Entry wall texts, or overall composition. Keep ultra clean HD: no grain, no noise, no speckles, no fuzz.
 
-### If fuzzy / noisy
-```text
-Same image. Remove all grain, noise, speckles, and fuzz. Ultra clean sharp HD. Keep the same composition.
-```
+EDITS:
 
-### If chain arch is too clean
-```text
-Same image. Keep the chain archway, but add subtle pulsing corrupted Signal glitch along the chain frame only. Do not change the rest.
+1) SEEKER INSIGNIAS
+Replace the Seeker marks with the attached Seeker symbol/picture.
+Each Seeker lynx gets EXACTLY ONE Seeker insignia from the attachment.
+Hunters stay unchanged: keep the HoodLynx hunter sigil exactly as-is (one per Hunter).
+Do not put Seeker marks on Hunters.
+Do not put hunter sigils on Seekers.
+Archive book keeps the hunter sigil.
+
+2) REMOVE CROWN FROM THE MAIN SCENE
+Take Crown symbols / royal crest presence off the portal and main focal areas.
+Crown was not part of this moment.
+
+3) CROWN ONLY ON OLD SEEKER BRAINSTORM BOARD
+It is fine to leave ONE small Crown symbol on an old Seekers brainstorm / investigation board on the side wall — prior research leftovers, not active Crown presence.
+
+4) ROSICRUCIAN
+Keep only the rose-cross SYMBOL itself.
+Do NOT write the word Rosicrucian / Rosicrucianism / any label naming it.
+
+5) REDUCE ILLUMINATI EYE-PYRAMIDS
+There are too many eye-in-triangle / pyramid-eye marks. Remove most of them from the portal arch and walls.
+Keep at most one subtle all-seeing eye if needed.
+
+Replace the extras with a mix of cryptic wall/arch details such as:
+- Ouroboros (serpent eating its tail)
+- A chain breaking / severed chain
+- A sketch or picture of The Broken
+- The phrase: Follow the Signal
+- A Robinhood feather logo hint
+- A dragon
+- Other cryptic occult / ARG marks (seals, unknown glyphs)
+Keep these atmospheric and scattered — not louder than the yellowy-green chain portal.
+
+Everything else stays the same and solid.
 ```
