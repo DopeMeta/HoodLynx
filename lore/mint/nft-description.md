@@ -56,20 +56,20 @@ Avoid “decrypt” in this placeholder.
 ### Recommended (2 lines)
 
 ```text
-FRAGMENT LOCKED
-The Signal has your HoodLynx. Not for long.
+ACTIVATION INITIATED
+The Signal is charging your Fragment.
 ```
 
 ### Alts
 
 ```text
-FRAGMENT LOCKED
-The Signal is about to release your HoodLynx.
+ACTIVATION INITIATED
+Your Fragment is charging in the Signal.
 ```
 
 ```text
-FRAGMENT LOCKED
-Your HoodLynx is charging in the Signal.
+SIGNAL CHARGING
+Your Fragment is coming online.
 ```
 
 ---
