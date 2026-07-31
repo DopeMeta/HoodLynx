@@ -98,27 +98,30 @@ FOLLOW THE SIGNAL.
 3. **Fri** — Clean public Activation protocols
 4. **Sat** — Activation / mint live
 
-### Post 2 working pick (not locked) — sense-first Path unlock
+### Post 2 working pick (not locked) — sleek Path formed
 
-Draft: `timeline/drafts/thu-post-2-path-unlocked-clear.md`  
-Meaning: four Fragments rebuild a Path (not old Chain) → that enables Activation.
+Draft: `timeline/drafts/thu-post-2-sleek-path-formed.md`  
+Entry 004 absolute: **THE PATH IS FORMED.**
 
 ```text
-FRAGMENT 004 // PATH UNLOCKED
+FRAGMENT 004
 
-This is why they wanted all four.
+THE PATH IS FORMED.
 
-The Fragments rebuild a Path, not the old Chain.
-Hunters secure the route. Seekers make it readable.
+Four Fragments build a Path to Activation.
+The final piece worked.
 
-Completing them enables Activation.
-The Path can open now.
+ACTIVATION IS IMMINENT.
+
+Legends said The Broken could corrupt.
+We did not think they were still around.
+Contained, but not erased.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-(~266 chars — not locked until you approve)
+(~274 chars — not locked until you approve)
 
 ## Archive site book (draft ready)
 
