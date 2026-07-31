@@ -98,21 +98,19 @@ FOLLOW THE SIGNAL.
 3. **Fri** — Clean public Activation protocols
 4. **Sat** — Activation / mint live
 
-### Post 2 working pick (not locked) — sleek Path formed
+### Post 2 working pick (not locked)
 
-Draft: `timeline/drafts/thu-post-2-sleek-path-formed.md`  
-Entry 004 absolute: **THE PATH IS FORMED.**
+Entry 004 absolute:
+**FOUR FRAGMENTS FORM THE PATH.**  
+**ACTIVATION IS IMMINENT.**
 
 ```text
 FRAGMENT 004
 
-THE PATH IS FORMED.
-
-Four Fragments build a Path to Activation.
-The final piece worked.
-
+FOUR FRAGMENTS FORM THE PATH.
 ACTIVATION IS IMMINENT.
 
+The final piece worked.
 Legends said The Broken could corrupt.
 We did not think they were still around.
 Contained, but not erased.
@@ -121,7 +119,7 @@ http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-(~274 chars — not locked until you approve)
+(~239 chars — not locked until you approve)
 
 ## Archive site book (draft ready)
 
