@@ -98,27 +98,27 @@ FOLLOW THE SIGNAL.
 3. **Fri** — Clean public Activation protocols
 4. **Sat** — Activation / mint live
 
-### Post 2 working pick (not locked)
+### Post 2 working pick (not locked) — sense-first Path unlock
 
-Archive not ready → no Archive CTA. Soft Broken hypothesis + epic 004 close.  
-Drafts: `timeline/drafts/thu-post-2-broken-hypothesis-entry.md`
+Draft: `timeline/drafts/thu-post-2-path-unlocked-clear.md`  
+Meaning: four Fragments rebuild a Path (not old Chain) → that enables Activation.
 
 ```text
-FRAGMENT 004 // PARTIAL
+FRAGMENT 004 // PATH UNLOCKED
 
-Too easy to take. Impossible to read clean.
-Seekers hypothesize The Broken rode in with it.
+This is why they wanted all four.
 
-004 forced one absolute reading through:
+The Fragments rebuild a Path, not the old Chain.
+Hunters secure the route. Seekers make it readable.
 
-THE CHAIN WAS NEVER MEANT TO CLOSE AGAIN.
-TOGETHER THE FRAGMENTS OPEN THE PATH.
+Completing them enables Activation.
+The Path can open now.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-(~279 chars — not locked until you approve)
+(~266 chars — not locked until you approve)
 
 ## Archive site book (draft ready)
 
