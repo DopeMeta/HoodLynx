@@ -88,33 +88,32 @@ AVOID: owl-headed characters, bird faces, crystals, gems, purple glow, cartoon l
 
 ## Follow-ups
 
-### Touch-up (go-back / same image) — USE THIS
+### Touch-up (go-back) — fewer Hunters + hard insignia lock
 
-Attach your Hunter logo/insignia when pasting.
+Attach your Hunter / HoodLynx sigil when pasting.
 
 ```text
-Same image. Go back and keep this exact scene. Do not redesign the room, pose energy, Archive book, celebrating Hunters, Broken wall sketch, hidden gravemint.io / 4663, or background society hints. Keep it ultra clean, smooth, HD, no grain.
+Same image. Go back and keep this exact scene otherwise. Keep the Seekers assembling the Path chain, centered decoded text, Broken wall sketch, hidden gravemint.io / 4663, background society hints, lighting, and ultra clean smooth HD with no grain.
 
-CLARIFY INSIGNIAS:
-- SEEKERS (foreground, assembling Fragments): anthropomorphic lynxes wearing the OWL insignia / owl emblem on their cloaks or gear.
-- HUNTERS (background, celebrating): anthropomorphic lynxes wearing the HoodLynx Hunter insignia from the attached/posted logo reference (lynx-in-chain hunter mark). Use that exact hunter emblem on Hunter gear.
+REDUCE HUNTERS:
+Remove most background Hunters. Keep only 1–2 lynx Hunters in the far back celebrating, small and secondary.
+Fewer Hunters so insignias do not get mixed up.
+
+HARD INSIGNIA LOCK (STRICT):
+- SEEKERS (foreground only): owl insignia / owl emblem on cloaks or gear. Owl mark ONLY on Seekers.
+- HUNTERS (1–2 in background only): HoodLynx hunter sigil from the attached/posted logo reference on their gear. HoodLynx sigil ONLY on Hunters.
+- HOODLYNX ARCHIVE book/binder: same HoodLynx hunter sigil on the cover. Exact same hunter mark as the Hunters.
+Do NOT put owl marks on Hunters.
+Do NOT put HoodLynx hunter sigils on Seekers.
 NO owl heads. Everyone stays lynx-faced.
 
-FIXES:
-1) Fix the messed-up HoodLynx head in the back. Clean correct lynx face and lynx ears on that background Hunter. No warped/melted face, no extra eyes/ears.
-
-2) Center the decoded writing clearly:
+KEEP:
+- Centered readable text:
 FOUR FRAGMENTS FORM THE PATH.
 ACTIVATION IS IMMINENT.
-Exact spelling. Centered and readable.
-
-3) Rebuild the assembled Path chain exactly as:
-- 8 MAIN chain links
-- 7 SMALL connecting chain links between them
-- Pattern: main, small, main, small, main, small, main, small, main, small, main, small, main, small, main
-Neon lime-green chain energy. NOT crystals. Seekers still joining them from opened canisters.
-
-Everything else stays the same. Smooth materials, crisp edges, bright enough for phone feed.
+- Path chain: 8 MAIN links + 7 SMALL connecting links
+- Fixed clean lynx heads on any remaining background Hunter
+- Everything else the same
 ```
 
 ### If Seekers look like owls
