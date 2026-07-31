@@ -80,39 +80,28 @@ AVOID: long chains, 8+ link rows, multiple owl patches on one Seeker, owl heads,
 
 ---
 
-## EDIT the first image (not a new picture)
-
-Attach your Hunter / HoodLynx sigil.  
-Use on the first version you liked.
-
+## Quality-only upgrade
 ```text
-Same image. Edit this exact picture. Do not create a new composition or redesign the room. Keep the same Seekers, desk, lighting, mood, Broken wall sketch, hidden gravemint.io / 4663, background society hints, and overall scene. Ultra clean, smooth, HD, no grain.
+Same exact image. Do not change composition, characters, poses, chain, text, insignias, props, colors, or framing at all.
 
-EDITS ONLY:
+Only improve technical quality:
+- Sharper, cleaner, higher resolution
+- Remove fuzziness, blur, mushy details, and compression artifacts
+- Restore crisp edges, clean materials, and clear faces
+- Keep text readable and exact
+- Ultra clean HD, smooth, no grain, no noise, no speckles
 
-1) INSIGNIAS
-- Seekers: exactly ONE owl insignia per lynx. Remove extra/repeated owl marks.
-- Hunters: HoodLynx hunter sigil from the attached logo only.
-- HoodLynx Archive book: same attached HoodLynx hunter sigil on the cover.
-Do not mix marks. No owl marks on Hunters. No hunter sigils on Seekers. No owl heads.
+Literally everything else stays identical. Quality upgrade only.
+```
 
-2) FEWER HUNTERS
-Remove most background Hunters. Keep only 1–2 far-back celebrating Hunters so sigils stay clean.
+## Fix only gravemint.io + 4663
+```text
+Same exact image. Keep literally everything identical: composition, characters, poses, chain, decoded text, insignias, Archive book, Broken sketch, lighting, colors, framing, quality.
 
-3) SHORTER CHAIN
-Replace the long chain with a compact centered Path chain:
-- 4 MAIN chain links
-- 3 SMALL connecting links between them
-- Pattern: main, small, main, small, main, small, main
-Neon lime-green. Not crystals. Do not stretch a long chain across the frame.
+CHANGE ONLY THESE TWO HIDDEN CRUMBS:
+1) Restore / correct the tiny environmental text to exactly: gravemint.io
+2) Restore / correct the tiny environmental text to exactly: 4663
 
-4) TEXT
-Keep centered and readable:
-FOUR FRAGMENTS FORM THE PATH.
-ACTIVATION IS IMMINENT.
-
-5) HEADS
-Fix any warped/messed-up lynx heads. Clean lynx faces and ears.
-
-Everything else stays the same as this image.
+Exact spelling. Keep both small and easy to miss, not giant titles.
+Do not change anything else.
 ```
