@@ -49,7 +49,9 @@ FOLLOW THE SIGNAL.
 ## Unrevealed token placeholder (Fragment seal)
 
 Use instead of “NFT will be revealed soon.”  
-The holder owns a **Fragment** until decrypt/reveal.
+The holder owns a **Fragment** until form resolves at reveal.
+
+Avoid “decrypt” in this placeholder.
 
 ### Recommended
 
@@ -59,14 +61,14 @@ FRAGMENT LOCKED
 This HoodLynx has not yet taken form.
 A Fragment holds the Signal until Activation settles.
 
-Decrypt pending.
+Form pending.
 FOLLOW THE SIGNAL.
 ```
 
-### Alt — encrypted
+### Alt — sealed Signal
 
 ```text
-STATUS: ENCRYPTED
+STATUS: SEALED
 
 This is not empty space.
 It is a Fragment waiting to resolve into a HoodLynx.
@@ -83,14 +85,13 @@ UNREVEALED FRAGMENT
 The canister is closed.
 Your HoodLynx is forming behind the Signal.
 
-Decrypt in progress.
 FOLLOW THE SIGNAL.
 ```
 
 ### Ultra-short metadata
 
 ```text
-Fragment locked. HoodLynx decrypt pending. Follow the Signal.
+Fragment locked. HoodLynx form pending. Follow the Signal.
 ```
 
 ---
