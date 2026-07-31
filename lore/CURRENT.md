@@ -98,28 +98,29 @@ FOLLOW THE SIGNAL.
 3. **Fri** — Clean public Activation protocols
 4. **Sat** — Activation / mint live
 
-### Post 2 working pick (not locked)
+### Post 2 working pick (owner direction — polish, not fully locked)
 
 Entry 004 absolute:
 **FOUR FRAGMENTS FORM THE PATH.**  
 **ACTIVATION IS IMMINENT.**
 
 ```text
-FRAGMENT 004
+FRAGMENT 004 // CORRUPTION CONTAINED
 
 FOUR FRAGMENTS FORM THE PATH.
 ACTIVATION IS IMMINENT.
 
-The final piece worked.
-Legends said The Broken could corrupt.
-We did not think they were still around.
-Contained, but not erased.
+Legends say The Broken could corrupt.
+We thought they disappeared long ago.
+
+The Fragment was saved.
+The corruption could not be removed.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-(~239 chars — not locked until you approve)
+(~270 chars)
 
 ## Archive site book (draft ready)
 

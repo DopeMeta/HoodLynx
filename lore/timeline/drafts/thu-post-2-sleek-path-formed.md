@@ -1,28 +1,28 @@
-# Thursday Post 2 — sleek Path formed + Broken (working)
+# Thursday Post 2 — Corruption Contained (owner direction)
 
-## Absolute Fragment lines (Entry 004)
+## Entry 004
 
 ```text
 FOUR FRAGMENTS FORM THE PATH.
 ACTIVATION IS IMMINENT.
 ```
 
-## Caption — RECOMMENDED (~239)
+## Caption — working (~270)
 
 ```text
-FRAGMENT 004
+FRAGMENT 004 // CORRUPTION CONTAINED
 
 FOUR FRAGMENTS FORM THE PATH.
 ACTIVATION IS IMMINENT.
 
-The final piece worked.
-Legends said The Broken could corrupt.
-We did not think they were still around.
-Contained, but not erased.
+Legends say The Broken could corrupt.
+We thought they disappeared long ago.
+
+The Fragment was saved.
+The corruption could not be removed.
 
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-Fragment carries the Path + Activation meaning.  
-Body only adds: final piece worked + Broken shock + contained/not erased.
+Owner draft kept; polished spelling (`disappeared`) and split the last beat into two clean lines instead of a trailing comma break.
