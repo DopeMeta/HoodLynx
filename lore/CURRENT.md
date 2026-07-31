@@ -112,15 +112,14 @@ ACTIVATION IS IMMINENT.
 
 Legends say The Broken could corrupt.
 We thought they disappeared long ago.
+Fragment saved. Corruption not removed.
 
-The Fragment was saved.
-The corruption could not be removed.
-
+Reply ACTIVATION IS IMMINENT.
 http://HoodLynx.xyz
 FOLLOW THE SIGNAL.
 ```
 
-(~270 chars)
+(~278 chars · reply CTA fitted)
 
 ## Archive site book (draft ready)
 
