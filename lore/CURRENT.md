@@ -4,7 +4,7 @@
 
 - **Today Sat Aug 1 — ACTIVATION DAY**  
 - T-minus 1hr post before phases  
-- **Phases:** Authorized Hunters 11:30 AM EST · Fragment Access 12:00 PM EST · Public 12:30 PM EST  
+- **Phases:** Authorized Hunters 11:30 AM EST · Seeker Access 12:00 PM EST · Public 12:30 PM EST  
 - Venue: Gravemint.io · Supply: 4663 · Robinhood Chain
 
 ## Voice rules (hard)
@@ -28,7 +28,7 @@ The Path held.
 The portal is ready.
 
 Authorized Hunters enter at 11:30 AM EST.
-Fragment Access at 12:00 PM EST.
+Seeker Access at 12:00 PM EST.
 Public at 12:30 PM EST.
 
 Gravemint.io

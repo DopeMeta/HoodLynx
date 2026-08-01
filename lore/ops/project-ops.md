@@ -19,7 +19,7 @@
 |-------|------------|-------|-------|
 | Team & Treasury | — | Free | |
 | GTD | **Authorized Hunter Access** | 0.003 ETH | Earned via Fragment/auth windows |
-| FCFS | **Fragment Access** | 0.004 ETH | Accumulated FCFS WL |
+| FCFS | **Seeker Access** | 0.004 ETH | Accumulated FCFS WL |
 | Public | Public | 0.005 ETH | |
 
 Total supply: **4663**

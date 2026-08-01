@@ -45,7 +45,7 @@ Success metric: **enjoyment + reply/engagement** (not lore quiz mastery). Lore e
 |-------|-------------------|-------|
 | Team & Treasury | — | Free |
 | GTD | **Authorized Hunter Access** | 0.003 ETH |
-| FCFS | **Fragment Access** | 0.004 ETH |
+| FCFS | **Seeker Access** | 0.004 ETH |
 | Public | Public | 0.005 ETH |
 
 Supply: **4663** (= Robinhood chain ID = Terminal code).
@@ -97,7 +97,7 @@ Metaphor underneath: **decentralization (Hunters / Chain belongs to everyone) vs
 | **LYNK** | Social mission spelling (tag friend) — avoids “Lynx” confusion |
 | **Link** | Avoid in public copy unless intentional deep-lore |
 | **Authorized Hunter Access** | GTD WL |
-| **Fragment Access** | FCFS WL |
+| **Seeker Access** | FCFS WL |
 
 ### Keepers vs Seekers — recommendation
 

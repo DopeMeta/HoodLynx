@@ -45,7 +45,7 @@ Minting a HoodLynx is not just collecting art. It is Activation — locking your
 
 Phases:
 - **Authorized Hunter Access** (GTD) — 0.003 ETH
-- **Fragment Access** (FCFS) — 0.004 ETH
+- **Seeker Access** (FCFS) — 0.004 ETH
 - **Public** — 0.005 ETH
 
 Supply: **4663**  

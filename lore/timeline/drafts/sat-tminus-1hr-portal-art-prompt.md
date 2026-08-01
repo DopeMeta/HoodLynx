@@ -4,7 +4,7 @@ Simple banger. Portal-first. Attach Hunter sigil only if you want it tiny in cor
 
 **Times:**
 - Authorized Hunters: 11:30 AM EST
-- Fragment Access: 12:00 PM EST
+- Seeker Access: 12:00 PM EST
 - Public: 12:30 PM EST
 
 ---
@@ -36,7 +36,7 @@ Not a plain stone door. A chain-built portal.
 
 MINT TIMES (MUST BE CLEAR AND READABLE on or beside the portal):
 AUTHORIZED HUNTERS 11:30 AM EST
-FRAGMENT ACCESS 12:00 PM EST
+SEEKER ACCESS 12:00 PM EST
 PUBLIC 12:30 PM EST
 
 Also readable nearby:
@@ -57,7 +57,7 @@ One clear read: zoomed-in yellowy-green chain portal with mint countdown times l
 
 ## If text is weak
 ```text
-Same image. Make the mint times larger, sharper, and clearly readable: AUTHORIZED HUNTERS 11:30 AM EST, FRAGMENT ACCESS 12:00 PM EST, PUBLIC 12:30 PM EST. Keep the zoomed-in portal.
+Same image. Make the mint times larger, sharper, and clearly readable: AUTHORIZED HUNTERS 11:30 AM EST, SEEKER ACCESS 12:00 PM EST, PUBLIC 12:30 PM EST. Keep the zoomed-in portal.
 ```
 
 ## If too zoomed out

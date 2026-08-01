@@ -8,7 +8,7 @@ First onto the Path.
 
 LIVE: Gravemint.io
 
-12:00 PM EST Fragment Access
+12:00 PM EST Seeker Access
 12:30 PM EST Public
 
 FOLLOW THE SIGNAL.
@@ -26,7 +26,7 @@ The Path is taking form on-chain.
 
 LIVE NOW on Gravemint.io
 
-Fragment Access: 12:00 PM EST
+Seeker Access: 12:00 PM EST
 Public: 12:30 PM EST
 
 FOLLOW THE SIGNAL.
@@ -42,7 +42,7 @@ Authorized Hunters step through now.
 
 Gravemint.io
 
-Fragment Access opens at 12:00 PM EST.
+Seeker Access opens at 12:00 PM EST.
 Public at 12:30 PM EST.
 
 FOLLOW THE SIGNAL.

@@ -593,7 +593,7 @@ Fragment 004’s decryption pressure tore scraps loose before containment recove
 - Venue crumb: Gravemint.io  
 - Supply crumb: 4663  
 - Chain crumb: Robinhood  
-- Phases: Authorized Hunter Access · Fragment Access · Public
+- Phases: Authorized Hunter Access · Seeker Access · Public
 
 [REDACTED: full pricing]  
 [REDACTED: wallet mechanics beyond access language]
