@@ -61,21 +61,28 @@ AVOID: fully rendered detailed faces on the silhouettes, purple glow, crystals/g
 
 ---
 
-## Follow-ups
+## Touch-up edit — canister symbols + corner text
 
-### If silhouettes are unclear
-```text
-Same image. Make the four silhouettes sharper and more readable: flamethrower Hunter, large-book Seeker, crowned lynx, skeleton lynx Broken. Keep them silhouette-only.
-```
+Attach Hunter sigil + Seeker/owl sigil.
 
-### If canisters are weak
 ```text
-Same image. Make the four Fragment canisters larger and more central, glowing harder like they are about to open.
-```
+Same exact image. Keep the same four silhouettes and overall composition: flamethrower Hunter, large-book Seeker, crowned lynx, skeleton Broken. Keep the four Fragment canisters, lighting, and mood. Ultra clean HD. No grain, no noise, no speckles.
 
-### If fuzzy
-```text
-Same image. Ultra clean sharp HD. Remove grain, noise, speckles, and fuzz.
+EDITS ONLY:
+
+1) CANISTER SYMBOLS (one clear mark on each canister)
+- Fragment 1 canister: HoodLynx HUNTER sigil from the attached hunter logo
+- Fragment 2 canister: OWL / Seeker sigil from the attached Seeker mark
+- Fragment 3 canister: CROWN symbol
+- Fragment 4 canister: BROKEN lynx skeleton symbol
+Make each symbol readable on its canister. Do not mix them.
+
+2) CORNER TEXT
+- Bottom left: HOODLYNX only. Remove the word ARG if present. Do not write HoodLynx ARG.
+- Bottom right: Collection: 4663
+Keep both corners clean and readable.
+
+Everything else stays the same, including the four silhouette characters.
 ```
 
 ---
