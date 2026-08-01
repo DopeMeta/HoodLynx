@@ -21,6 +21,21 @@ Visual pairing: broken circular chain.
 
 Visual pairing: complete circular chain.
 
+## ARCHIVE ENTRY 003
+
+> THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
+> TOGETHER THEY REBUILD THE PATH.
+
+Status: filed under pressure / Path hinge. Keep exact when quoted.
+Site longform: `lore/hoodlynx-archive/10-fragment-003.md`
+
+## ARCHIVE ENTRY 004
+
+No sealed absolute Entry yet. Fragment 004 secured; decryption unstable; breach-adjacent.
+Site longform: `lore/hoodlynx-archive/12-fragment-004.md`
+
 ## Pattern
 
 Each recovered Fragment restores a lost record and adds an Archive Entry. Future entries should stay short, absolute, and non-explanatory.
+
+Longform Seeker pages for the site book live in `lore/hoodlynx-archive/`.

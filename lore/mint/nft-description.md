@@ -1,51 +1,82 @@
 # NFT Description (DRAFT)
 
-For collection / token **metadata description** fields.  
+For collection / token **metadata description** + Gravemint placeholder fields.  
 Keep shorter than mint About.
 
-**Status:** Draft — revise with Dope before publish.  
-**Accuracy source:** `../timeline/EVENTS.md` + `../posts/`.
+**Status:** Ready for placeholder use · revise with Dope before final lock  
+**Lore spine:** Four Fragments linked → Path formed → portal to Activation → mint
 
 ---
 
-## Primary collection description
+## Primary placeholder (recommended)
 
 HoodLynx — Activation on Robinhood Chain.
 
-A 4663-piece hunt forged from the Archive. Hunters, Seekers, The Crown, and The Broken take form when the Path opens on Gravemint.io. The Chain belongs to everyone.
+Four Fragments linked and formed a Path. That Path opened a portal to Activation. When you mint, you step through.
+
+A 4663-piece collection forged from the hunt: Hunters who recover, Seekers who decrypt, The Crown who would control the Path, and The Broken who would corrupt it.
+
+Follow the Signal. Activate on Gravemint.io.
 
 ---
 
-## Alternate short
+## Short placeholder
 
-Follow the Signal. Rebuild the Path. Activate.
+HoodLynx. Four Fragments. One Path. Activation.
 
-HoodLynx on Robinhood Chain. Supply 4663. Hunters · Seekers · Crown · Broken. Mint on Gravemint.io.
-
----
-
-## Marketplace blurb (OpenSea / marketplace-style)
-
-HoodLynx is an ARG-led NFT collection on Robinhood Chain. Hunters follow the Signal, enter the Terminal, and reclaim Fragments for the Archive. Mint on Gravemint.io. Supply 4663.
+4663 on Robinhood Chain. Mint on Gravemint.io. The Chain belongs to everyone.
 
 ---
 
-## Trait / lore-facing blurb (optional)
+## Ultra-short (tight metadata)
 
-Two forces shape the hunt: Hunters who reclaim Fragments for the Archive, and The Crown who would control the Path. Stand with the Signal.
-
----
-
-## What each HoodLynx represents (story framing)
-
-Owning a HoodLynx marks Activation — recognition that you followed the Signal through the hunt. Lore traits may echo Archive truths recovered during the ARG; the full Archive continues after mint.
+HoodLynx Activation on Robinhood Chain. Supply 4663. Follow the Signal. Gravemint.io.
 
 ---
 
-## Notes for final pass
+## Lore-forward placeholder (if field allows more)
 
-- Prefer “Activation” in story-facing copy; “mint” is fine in ops/pricing lines
-- “Seekers” can stay off marketplace copy if space is tight; Hunters + Signal + Fragments are enough
-- Do not mention Crown in metadata until Crown is confirmed public in `posts/`
-- Sync trait names to story once artist list locks
-- No em dashes in public-facing strings (voice rule)
+When the Chain was Severed, trust collapsed. Hunters recovered Fragments. Seekers decrypted them. Linked together, the four Fragments rebuilt a Path — not the old Chain, but a portal to Activation.
+
+HoodLynx is that Activation on Robinhood Chain. Collection size 4663. Mint on Gravemint.io.
+
+Hunters. Seekers. Crown. Broken. The Signal does not filter for purity.
+
+FOLLOW THE SIGNAL.
+
+---
+
+## Unrevealed token placeholder (Fragment seal)
+
+Use instead of “NFT will be revealed soon.”  
+The holder owns a **Fragment** until form resolves at reveal.
+
+Avoid “decrypt” in this placeholder.
+
+### Recommended (2 lines)
+
+```text
+ACTIVATION INITIATED
+The Signal is charging your Fragment.
+```
+
+### Alts
+
+```text
+ACTIVATION INITIATED
+Your Fragment is charging in the Signal.
+```
+
+```text
+SIGNAL CHARGING
+Your Fragment is coming online.
+```
+
+---
+
+## Notes
+
+- Prefer **Activation** in story-facing copy; “mint” is fine in ops lines
+- Path language matches Entry 003/004: Fragments form the Path → Activation
+- No em dashes in public-facing strings
+- Sync trait names once artist list locks

@@ -15,7 +15,7 @@ Keep the vocabulary small. If a word isn’t here, don’t invent a new system n
 | **Hunter** | Person answering the Signal / recovering Fragments | Yes |
 | **Seeker** | Knowledge / decrypt side (owl) — Hunters recover, Seekers decrypt | Yes — named through post 016 |
 | **Authorized Hunter Access** | GTD whitelist / mint phase | Yes when giving access |
-| **Fragment Access** | FCFS whitelist / mint phase | Yes when relevant |
+| **Seeker Access** | FCFS whitelist / mint phase (formerly called Fragment Access) | Yes when relevant |
 | **Hunter Standing** | Soft progression for reconnects / Terminal identity | Yes — light; no public scoreboard |
 
 ## Opposition (introduce carefully)

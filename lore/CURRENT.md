@@ -2,99 +2,39 @@
 
 ## Live position
 
-- Tue: Entry 003 Path + glitchy final Fragment Signal  
-- **Today Wed:** Fragment **004** secured — too easy, rickety glimpse fled, stench of death, Signal off, decrypt anyway because it could complete the chain  
-- Broken unnamed until decrypt lands wrong  
-- **Activation / mint: Saturday Aug 1** (separate drip)
+- **Today Sat Aug 1 — ACTIVATION DAY**  
+- T-minus 1hr post before phases  
+- **Phases:** Authorized Hunters 11:30 AM EST · Seeker Access 12:00 PM EST · Public 12:30 PM EST  
+- Venue: Gravemint.io · Supply: 4663 · Robinhood Chain
 
 ## Voice rules (hard)
 
-- **No** one-word-then-period stacks (“Too easy.” / “Silent.” / “Rickety.”)  
-- **One** colon max in the body (e.g. `Status: SECURED` only)  
-- 2–3 flowing hard lines/paragraphs, outgoing transmission  
-- Clear enough for people still catching up
+- No one-word-then-period stacks  
+- Story captions: prefer ≤1 colon label  
+- Schedule/protocol posts: clear time block OK  
+- No em dashes in public posts
 
 ---
 
-## WEDNESDAY POST — LOCKED (owner edit, 268 chars)
+## SAT T-MINUS 1 HOUR — working (not locked)
+
+Draft: `timeline/drafts/sat-tminus-1hr-activation.md`
 
 ```text
-FRAGMENT 004 // STATUS: SECURED
+ACTIVATION BEGINS IN 1 HOUR
 
-Pickup was too easy.
-We glimpsed something rickety before it fled.
-There was a stench of death in the air.
+The Fragments linked.
+The Path held.
+The portal is ready.
 
-Signal feels off, but we have to try.
-A successful decryption could complete the chain.
+Authorized Hunters enter at 11:30 AM EST.
+Seeker Access at 12:00 PM EST.
+Public at 12:30 PM EST.
 
-http://HoodLynx.xyz
+Gravemint.io
 FOLLOW THE SIGNAL.
 ```
 
-## TERMINAL — Fragment 004 build (ship with Wed post)
+(~219 chars)
 
-Clear and short. 004 is secured. Decryption is about to start. Something is already wrong. Full chaos tomorrow.
-
-### Opening screen
-
-```text
-// HOODLYNX ARCHIVE TERMINAL
-STATUS: ONLINE
-ARCHIVE: 001 + 002 + 003 STORED
-----------------------------------------
-FRAGMENT 004: SECURED
-SIGNAL: UNSTABLE
-DECRYPTION: ABOUT TO BEGIN
-----------------------------------------
-ERROR: SIGNAL PARSE FAILED
-RETRYING... RESPONSE UNKNOWN
-----------------------------------------
-HUNTER STANDING: ACTIVE
-RECRUITMENT: OPEN
-----------------------------------------
-AWAITING IDENTIFICATION...
-@
-ENTER X HANDLE
-Ξ
-EVM WALLET (0x...)
-▸ RECONNECT
-```
-
-### After submit — NEW
-
-```text
-...RECONNECT SIGNAL SENT
-...WALLET LOCKED TO IDENTITY
-HUNTER STANDING: SIGNAL DETECTED
-----------------------------------------
-FRAGMENT 004: SECURED
-DECRYPTION: ABOUT TO BEGIN
-----------------------------------------
-IDENTITY QUEUED FOR VERIFICATION.
-FOLLOW THE SIGNAL.
-```
-
-### After submit — RETURNING
-
-```text
-...RECONNECT SIGNAL SENT
-...RETURNING IDENTITY RECOGNIZED
-HUNTER STANDING: RISING
-----------------------------------------
-PRIOR RECONNECTIONS COUNTED.
-----------------------------------------
-FRAGMENT 004: SECURED
-DECRYPTION: ABOUT TO BEGIN
-----------------------------------------
-STAND BY FOR VERIFICATION.
-FOLLOW THE SIGNAL.
-```
-
-## Next
-
-Tomorrow: decrypt goes wrong → name **The Broken** → update Terminal to corruption state → Sat Activation drip.
-
-## Note
-
-Public Entry 003 already said Fragments rebuild the **Path**, not the old Chain. Using “complete the chain” here is in-world urgency / what the network is fighting for — fine unless you want “Path” instead.
+Confirm phase names match Gravemint UI before lock.
