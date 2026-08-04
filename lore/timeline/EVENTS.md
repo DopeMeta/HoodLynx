@@ -82,31 +82,33 @@ Together they reveal the truth.
 | Crown creed in art: “ORDER DEMANDS CONTROL.” | Confirmed | 014 |
 | Fragment 003 claimed; **The Crown** named in caption | Confirmed | 015 |
 | Fragment 003 **RECLAIMED**; Seekers decrypting; Hunter Standing | Confirmed | 016 |
-| Archive Entry 003 (Path) | Not released | — |
+| Archive Entry 003 (Path) public | Confirmed | 017 |
+| Glitched final Fragment Signal; Crown race; unnamed watcher | Confirmed | 018 |
+| Fragment 004 secured; rickety / death-stench tease | Confirmed | 019 |
+| 004 decryption attempted; Terminal breach / ALPHA CONTAINED | Confirmed | 020 |
 
 **Working summary:**
-- 003 interrupted (014) → claimed by Crown (015) → reclaimed by Hunters (016)
-- Seekers: decryption in progress
-- Hunter Standing rises on reconnect
-- Next lore payoff: Archive Entry 003 (Path / Map)
+- 003 interrupted (014) → claimed by Crown (015) → reclaimed by Hunters (016) → Entry 003 Path (017)
+- 018 opens unstable final Fragment hunt
+- 019 secures 004 under Broken weather (unnamed)
+- 020 decrypt blows the Terminal open
 
-**Planned Archive Entry 003 (not public until decipher post):**  
-THE FRAGMENTS DO NOT RESTORE THE CHAIN.  
+**Archive Entry 003 (public):**  
+FRAGMENTS DO NOT RESTORE THE CHAIN.  
 TOGETHER THEY REBUILD THE PATH.
 
 ---
 
-## 5. Path → Activation (upcoming)
+## 5. Path → Activation (in progress / post-020)
 
-**Status:** In progress (wrap arc)  
+**Status:** Live arc past 020; more posts awaiting paste  
 **Plan:** `wrap-arc-activation.md`
 
-- Entry 003: Fragments rebuild the **Path** (not the Chain)
-- **The Broken** corrupt one of the last Fragment signatures (introduce soon)
-- Meaning: Activation distributes the Path across 4663 Hunters (Crown can’t own / Broken can’t erase)
-- Authorized Hunter Access → GTD reveal
-- Mint details as Activation Protocols on Gravemint.io
-- Launch = Path opens
+- Entry 003: Fragments rebuild the **Path** (not the Chain) — confirmed 017
+- Fragment 004 secured + decrypt crisis — confirmed 019–020
+- Broken / Activation protocols / mint phases — paste remaining live posts to lock
+- Meaning: Activation distributes the Path across 4663 (Crown can’t own / Broken can’t erase)
+- Launch = Path opens on Gravemint.io
 
 ---
 
@@ -116,7 +118,8 @@ TOGETHER THEY REBUILD THE PATH.
 |----------|----------------|---------------|
 | 001 | Decrypted | Severing not an accident |
 | 002 | Recovered / stored | Remnants of the Chain |
-| 003 | Reclaimed; Seekers decrypting | Path (planned Entry 003) |
+| 003 | Reclaimed + Entry recovered | Path (not Chain) |
+| 004 | Secured; decrypt attempted / Terminal breach | Unsealed / unstable |
 
 ---
 
@@ -132,4 +135,8 @@ TOGETHER THEY REBUILD THE PATH.
 | 014 | Signal interrupted / 50 recover | Yes |
 | 015 | Crown named / 003 claimed | Yes |
 | 016 | 003 reclaimed / Seekers decrypt | Yes |
-| 017+ | Entry 003 / Path / next beats | Awaiting paste |
+| 017 | Entry 003 Path / Activation approaching | Yes |
+| 018 | Glitched final Fragment Signal | Yes |
+| 019 | Fragment 004 secured | Yes |
+| 020 | 004 decrypt / Terminal breach | Yes |
+| 021+ | Broken / Activation / mint / reveal | Awaiting paste |

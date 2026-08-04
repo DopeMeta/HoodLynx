@@ -29,6 +29,10 @@ Source of truth for what actually shipped on the HoodLynx account.
 | 014 | `014-signal-interrupted-50.md` | Fragment 003 / recover mission |
 | 015 | `015-fragment-003-claimed-crown.md` | Fragment 003 / Crown named |
 | 016 | `016-fragment-003-reclaimed.md` | Fragment 003 reclaim |
+| 017 | `017-fragment-003-path-recovered.md` | Entry 003 / Path / Activation tease |
+| 018 | `018-new-signal-glitched-final-fragment.md` | Final Fragment Signal (glitched) |
+| 019 | `019-fragment-004-secured.md` | Fragment 004 secured |
+| 020 | `020-fragment-004-decryption-attempted.md` | 004 decrypt / Terminal breach |
 
 ## How to log a new live post
 
