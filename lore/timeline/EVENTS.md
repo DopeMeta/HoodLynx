@@ -86,29 +86,35 @@ Together they reveal the truth.
 | Glitched final Fragment Signal; Crown race; unnamed watcher | Confirmed | 018 |
 | Fragment 004 secured; rickety / death-stench tease | Confirmed | 019 |
 | 004 decryption attempted; Terminal breach / ALPHA CONTAINED | Confirmed | 020 |
+| Broken named; FOUR FRAGMENTS FORM THE PATH / ACTIVATION IS IMMINENT | Confirmed | 021 |
+| Path complete; Activation protocols (Aug 1 / Gravemint / 4663) | Confirmed | 022 |
+| Activation day phases + Authorized / Seeker / Public live | Confirmed | 023–026 |
 
 **Working summary:**
-- 003 interrupted (014) → claimed by Crown (015) → reclaimed by Hunters (016) → Entry 003 Path (017)
-- 018 opens unstable final Fragment hunt
-- 019 secures 004 under Broken weather (unnamed)
-- 020 decrypt blows the Terminal open
+- 003 → Entry 003 Path (017) → glitched final Signal (018) → 004 secured (019) → Terminal breach (020)
+- 021 names **The Broken**; seals Path/Activation absolute lines
+- 022–026: Activation protocols → mint phases live on Gravemint
 
 **Archive Entry 003 (public):**  
 FRAGMENTS DO NOT RESTORE THE CHAIN.  
 TOGETHER THEY REBUILD THE PATH.
 
+**Archive Entry 004 absolute lines (public via 021):**  
+FOUR FRAGMENTS FORM THE PATH.  
+ACTIVATION IS IMMINENT.
+
 ---
 
-## 5. Path → Activation (in progress / post-020)
+## 5. Path → Activation (confirmed through Public)
 
-**Status:** Live arc past 020; more posts awaiting paste  
-**Plan:** `wrap-arc-activation.md`
+**Status:** Activation live; mint ongoing (~800/4663 as of owner update)  
+**Plan:** `wrap-arc-activation.md` + post-mint benefits / lore TBD
 
-- Entry 003: Fragments rebuild the **Path** (not the Chain) — confirmed 017
-- Fragment 004 secured + decrypt crisis — confirmed 019–020
-- Broken / Activation protocols / mint phases — paste remaining live posts to lock
-- Meaning: Activation distributes the Path across 4663 (Crown can’t own / Broken can’t erase)
-- Launch = Path opens on Gravemint.io
+- Entry 003 Path — confirmed 017  
+- Entry 004 Path formed / Activation imminent — confirmed 021  
+- Broken named; corruption contained not erased — confirmed 021  
+- Protocols + phases — confirmed 022–026  
+- Reveal / Glitch / longer-term — awaiting paste
 
 ---
 
@@ -119,7 +125,7 @@ TOGETHER THEY REBUILD THE PATH.
 | 001 | Decrypted | Severing not an accident |
 | 002 | Recovered / stored | Remnants of the Chain |
 | 003 | Reclaimed + Entry recovered | Path (not Chain) |
-| 004 | Secured; decrypt attempted / Terminal breach | Unsealed / unstable |
+| 004 | Secured; corruption contained | Path formed / Activation imminent |
 
 ---
 
@@ -139,4 +145,10 @@ TOGETHER THEY REBUILD THE PATH.
 | 018 | Glitched final Fragment Signal | Yes |
 | 019 | Fragment 004 secured | Yes |
 | 020 | 004 decrypt / Terminal breach | Yes |
-| 021+ | Broken / Activation / mint / reveal | Awaiting paste |
+| 021 | Broken named / 004 Path + Activation imminent | Yes |
+| 022 | Path complete / Activation protocols | Yes |
+| 023 | Activation in 1 hour / phase times | Yes |
+| 024 | Authorized Hunters Activated | Yes |
+| 025 | Seeker Access live | Yes |
+| 026 | Public Access live / reveal tease | Yes |
+| 027+ | Reveal / Gravemint Glitch / post-mint | Awaiting paste |
