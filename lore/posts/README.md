@@ -39,6 +39,7 @@ Source of truth for what actually shipped on the HoodLynx account.
 | 024 | `024-authorized-hunters-activated.md` | Authorized phase live |
 | 025 | `025-seeker-access-live.md` | Seeker Access live |
 | 026 | `026-public-access-live.md` | Public live / reveal tease |
+| 027 | `027-reveal-at-5pm.md` | Canister reveal @ 5PM EST |
 
 ## How to log a new live post
 

@@ -32,7 +32,12 @@ Wall art may include leading **THE** on the first line. Caption form is the live
 
 ## ARCHIVE ENTRY 004
 
-No sealed absolute Entry yet as of post 020. Fragment 004 secured; decryption attempted; Terminal breach.
+Public absolute lines (post 021):
+
+> FOUR FRAGMENTS FORM THE PATH.  
+> ACTIVATION IS IMMINENT.
+
+Broken named same beat; corruption contained, not removed.
 
 ## Pattern
 

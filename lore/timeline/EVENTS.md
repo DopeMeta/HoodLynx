@@ -151,4 +151,5 @@ ACTIVATION IS IMMINENT.
 | 024 | Authorized Hunters Activated | Yes |
 | 025 | Seeker Access live | Yes |
 | 026 | Public Access live / reveal tease | Yes |
-| 027+ | Reveal / Gravemint Glitch / post-mint | Awaiting paste |
+| 027 | Canister reveal @ 5PM EST | Yes |
+| 028+ | Gravemint Glitch / post-mint | Awaiting paste |
