@@ -21,6 +21,19 @@ Visual pairing: broken circular chain.
 
 Visual pairing: complete circular chain.
 
+## ARCHIVE ENTRY 003
+
+Public caption form (post 017):
+
+> FRAGMENTS DO NOT RESTORE THE CHAIN.  
+> TOGETHER THEY REBUILD THE PATH.
+
+Wall art may include leading **THE** on the first line. Caption form is the live post quote.
+
+## ARCHIVE ENTRY 004
+
+No sealed absolute Entry yet as of post 020. Fragment 004 secured; decryption attempted; Terminal breach.
+
 ## Pattern
 
 Each recovered Fragment restores a lost record and adds an Archive Entry. Future entries should stay short, absolute, and non-explanatory.
