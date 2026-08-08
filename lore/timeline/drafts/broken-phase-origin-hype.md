@@ -1,53 +1,56 @@
-# Broken phase origin hype (pre Mega Space)
+# Broken phase origin hype / ongoing blips
 
-**Job:** Hype today + explain Broken phases as 004 contamination tears, not random sales.
+**Job:** Acknowledge multiple Broken phases since Activation. Aware, struggling to fix. Blips in the Path. More coming. Take advantage while it lasts.
 
-## Recommended (~223)
+## Recommended (~234)
 
 ```text
-BROKEN SIGNATURE DETECTED
+WE CAN SEE THE TEARS
 
-We contained the corruption in Fragment 004.
-We never erased it.
+Since Activation, Broken phases have been ripping open.
+Blips in the Path we can't fully close.
 
-Sometimes the Path tears.
-Those tears are how The Broken get through.
+Aware of the corruption.
+Struggling to fix it.
 
-A phase is forming.
-Stay in the Signal.
+More are coming.
+Take advantage while it lasts.
 
 FOLLOW THE SIGNAL.
 ```
 
-## With Mega Space callout (~238)
+## Alt — 004 source (~251)
 
 ```text
-BROKEN SIGNATURE DETECTED
+BROKEN PHASES ARE STILL TEARING THROUGH
 
-We contained the corruption in Fragment 004.
-We never erased it.
+We've seen the blips since Activation.
+Corruption from 004 keeps forcing windows open.
 
-Those tears in the Path are Broken phases.
-Chaos windows. Contaminated access.
+We're aware.
+We're struggling to seal them.
 
-One is forming.
-Mega Space today. Stay close.
+More will come.
+Take advantage while the Path is cracked.
 
 FOLLOW THE SIGNAL.
 ```
 
-## Alt — Access contrast (~204)
+## Alt — with mint link (~248)
 
 ```text
-THE PATH HAS TEARS
+CORRUPTION STATUS: UNRESOLVED
 
-Hunter Access was earned.
-Seeker Access was granted.
-Crown Access was taken.
+Fragment 004 left a stain.
+Broken phases are the proof.
+Blips in the Path since launch.
 
-Broken phases are stolen.
-Corruption from 004 ripping open chaos windows.
+We are aware.
+We are struggling to fix it.
 
-One is near.
+More to come.
+Move while the window holds.
+
+Gravemint.io
 FOLLOW THE SIGNAL.
 ```
